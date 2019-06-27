@@ -14,3 +14,9 @@ Move the paragraph "A proposal can describe ... game state." from the rules sect
 
 This rule modification does not affect proposals posted while it is not in effect.
 
+<a name='2'/>
+
+## #2
+
+Amend proposal #1: Replace the text "content between `[start]` and `[end]`" with "content between the outermost `[start]` and `[end]`" and add the sentence "`[start]` and `[end]` symbols can be nested." after the sentence "... interpreted literally."
+
