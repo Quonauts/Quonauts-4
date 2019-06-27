@@ -32,3 +32,13 @@ Append the following content between `[start]` and `[end]` to rule section "Prop
 If a proposal describes the creation of a new rule section, it must specify its title, its location in relation to an existing one, and its content.
 `[end]`
 
+<a name='4'/>
+
+## #4
+
+Add a section titled "Proposal modification" as a subsection of "Proposals" with the following content between `[start]` and `[end]`:
+
+`[start]`
+A player may edit or delete a proposal they have submitted if that proposal is open for voting and has no votes cast by players other than its author.
+`[end]`
+
