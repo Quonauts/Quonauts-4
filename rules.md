@@ -149,7 +149,7 @@ Players may use any reaction they wish to respond to a poll. The player conducti
 
 ## <a name='proposals'/> Proposals
 
-Players may submit proposals by posting their proposal to the <#549428405968306186> game channel.
+Players may submit proposals by posting their proposal to the <#593807201194344455> game channel.
 
 The first proposal is numbered #1 and each subsequent proposal's number is increased by 1. Unless otherwise stated in the game rules, deleted proposals retain their number.
 
