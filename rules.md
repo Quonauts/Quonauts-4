@@ -95,7 +95,7 @@ Players may converse freely in the <#593807344979148800> channel.
 
 ### <a name='polls-channel'/> #polls
 
-The #polls channel is governed by [**6. Quantities**](#polls).
+The <#593807379360120877> channel is governed by [**6. Quantities**](#polls).
 
 ### <a name='proposals-channel'/> #proposals
 
