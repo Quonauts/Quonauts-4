@@ -1,6 +1,16 @@
 {
 	"channel": 593807244030771211,
 	"rules": {
+		"activity": {
+			"tag": "activity",
+			"title": "Activity",
+			"content": "All players that have taken some game action in the preceding 72 hours are active players. All other players are inactive players.",
+			"parent_tag": "root",
+			"child_tags": [],
+			"message_ids": [
+				593907178285563933
+			]
+		},
 		"bots": {
 			"tag": "bots",
 			"title": "Bots",
@@ -63,7 +73,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				593898701362036736
+				593907627621220392
 			]
 		},
 		"meta": {
@@ -79,6 +89,16 @@
 			],
 			"message_ids": [
 				593898599050379274
+			]
+		},
+		"polls": {
+			"tag": "polls",
+			"title": "Quantities",
+			"content": "A poll is a means of gathering the opinions of players on an issue. Players may conduct a poll by providing any necessary detail and posing a question in the <#593807379360120877> game channel.\n\nPlayers may vote in favor of a poll by reacting to the poll with \ud83d\udc4d.\n\nPlayers may vote against a poll by reacting to the poll with \ud83d\udc4e.\n\nPlayers may use any reaction they wish to respond to a poll. The player conducting the poll may interpret other reactions to the poll as they see fit.",
+			"parent_tag": "root",
+			"child_tags": [],
+			"message_ids": [
+				593907571635781642
 			]
 		},
 		"polls-channel": {
@@ -108,7 +128,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				593898676695597056
+				593907573246263305
 			]
 		},
 		"proposal-pass-fail": {
@@ -118,7 +138,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				593898677106376706
+				593907574198239314
 			]
 		},
 		"proposal-voting": {
@@ -128,7 +148,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				593898654625169444
+				593907572616986627
 			]
 		},
 		"proposals": {
@@ -142,7 +162,7 @@
 				"proposal-pass-fail"
 			],
 			"message_ids": [
-				593898653978984469
+				593907572042366983
 			]
 		},
 		"proposals-channel": {
@@ -165,6 +185,28 @@
 				593898628821680138
 			]
 		},
+		"quantities": {
+			"tag": "quantities",
+			"title": "Quantities",
+			"content": "A quantity is a named property with a numerical value for each player.\n\nBy default any unique quantity added to the game:\n\n* applies to all players.\n* is instatiated at zero.\n* must always be an integer.\n* must never have a negative value.\n* cannot be traded or exchanged.\n\nExisting quantities:\n\n* **Strike**: The number of rule violations that a player has committed without punishment.",
+			"parent_tag": "root",
+			"child_tags": [],
+			"message_ids": [
+				593907480749277196
+			]
+		},
+		"roles": {
+			"tag": "roles",
+			"title": "Roles",
+			"content": "The game rules govern roles that have effect within the game.",
+			"parent_tag": "root",
+			"child_tags": [
+				"rule-offender-role"
+			],
+			"message_ids": [
+				593906911754059809
+			]
+		},
 		"root": {
 			"tag": "root",
 			"title": null,
@@ -173,13 +215,27 @@
 			"child_tags": [
 				"meta",
 				"channels",
+				"roles",
+				"activity",
+				"quantities",
+				"polls",
 				"proposals",
 				"style",
 				"glossary"
 			],
 			"message_ids": [
-				593898701936918539,
-				593898702658076695
+				593907628573458440,
+				593907629609189383
+			]
+		},
+		"rule-offender-role": {
+			"tag": "rule-offender-role",
+			"title": "Rule offender",
+			"content": "If a player has a nonzero number of strikes, then they are given the \"rule offender\" role. If a player's number of strikes reaches zero, the \"rule offender\" role is removed.\n\nPlayers with the \"rule offender\" role may not make any game action; i.e. they may not participate in the game.\n\nAfter 24 hours with the \"rule offender\" role, a player's number of strikes decreases by one.",
+			"parent_tag": "roles",
+			"child_tags": [],
+			"message_ids": [
+				593907177346039809
 			]
 		},
 		"rule-violation-polls": {
@@ -228,7 +284,7 @@
 				"style-formatting"
 			],
 			"message_ids": [
-				593898677240725524
+				593907599796076544
 			]
 		},
 		"style-content": {
@@ -238,7 +294,7 @@
 			"parent_tag": "style",
 			"child_tags": [],
 			"message_ids": [
-				593898678050357267
+				593907600358244500
 			]
 		},
 		"style-formatting": {
@@ -248,7 +304,7 @@
 			"parent_tag": "style",
 			"child_tags": [],
 			"message_ids": [
-				593898700665913363
+				593907601863868433
 			]
 		},
 		"style-headers-tags": {
@@ -258,7 +314,7 @@
 			"parent_tag": "style",
 			"child_tags": [],
 			"message_ids": [
-				593898678159409210
+				593907600861429779
 			]
 		},
 		"style-lists": {
@@ -268,7 +324,7 @@
 			"parent_tag": "style",
 			"child_tags": [],
 			"message_ids": [
-				593898700280168458
+				593907601348231196
 			]
 		}
 	}

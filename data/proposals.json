@@ -1,4 +1,17 @@
 {
-	"channel": 593807244030771211,
-	"proposals": []
+	"channel": 593807201194344455,
+	"proposals": [
+		{
+			"n": 1,
+			"author": 216295379895844865,
+			"content": "Add a new rule section \"Proposal content\" containing the content between `[start]` and `[end]`:\n\n`[start]`\nIf a proposal describes a modification to the rules, it must unambiguously specify the rule section(s) to be modified and how they will be modified. Text quoted between `[start]` and `[end]` symbols (brackets required; code tags optional) is to be intrepreted literally.\n`[end]`\n\nMove the paragraph \"A proposal can describe ... game state.\" from the rules section \"Proposals\" to the beginning of \"Proposal content.\"\n\nThis rule modification does not affect proposals posted while it is not in effect.",
+			"status": "voting",
+			"message_id": 593903678369300481,
+			"votes": {
+				"216295379895844865": 1,
+				"319753218592866315": 1
+			},
+			"timestamp": 1561668071
+		}
+	]
 }
