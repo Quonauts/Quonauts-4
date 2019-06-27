@@ -99,7 +99,7 @@ The <#593807379360120877> channel is governed by [**6. Polls**](#polls).
 
 ### <a name='proposals-channel'/> #proposals
 
-The <#549428405968306186> channel is governed by [**7. Proposals**](#proposals).
+The <#593807201194344455> channel is governed by [**7. Proposals**](#proposals).
 
 ### <a name='rules-channel'/> #rules
 
