@@ -46,3 +46,9 @@ Add a section titled "Proposal modification" as a subsection of "Proposals" with
 A player may edit a proposal they have submitted if that proposal is open for voting and has no votes cast by players other than its author.
 [end]
 
+<a name='6'/>
+
+## #6
+
+Modify the rule section "Closing proposals": replace all instances of "close a proposal" with "close an open proposal"
+
