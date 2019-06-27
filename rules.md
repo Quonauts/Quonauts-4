@@ -15,17 +15,18 @@
     * [**2.2. #polls**](#polls-channel)
     * [**2.3. #proposals**](#proposals-channel)
     * [**2.4. #rules**](#rules-channel)
-* [**3. Activity**](#activity)
-* [**4. Proposals**](#proposals)
-    * [**4.1. Voting on proposals**](#proposal-voting)
-    * [**4.2. Closing proposals**](#proposal-closing)
-    * [**4.3. Passing and failing proposals**](#proposal-pass-fail)
-* [**5. Style conventions**](#style)
-    * [**5.1. Content**](#style-content)
-    * [**5.2. Headers and tags**](#style-headers-tags)
-    * [**5.3. Lists**](#style-lists)
-    * [**5.4. Formatting**](#style-formatting)
-* [**6. Glossary**](#glossary)
+* [**3. Roles**](#roles)
+* [**4. Activity**](#activity)
+* [**5. Proposals**](#proposals)
+    * [**5.1. Voting on proposals**](#proposal-voting)
+    * [**5.2. Closing proposals**](#proposal-closing)
+    * [**5.3. Passing and failing proposals**](#proposal-pass-fail)
+* [**6. Style conventions**](#style)
+    * [**6.1. Content**](#style-content)
+    * [**6.2. Headers and tags**](#style-headers-tags)
+    * [**6.3. Lists**](#style-lists)
+    * [**6.4. Formatting**](#style-formatting)
+* [**7. Glossary**](#glossary)
 
 ## <a name='meta'/> Meta rules
 
@@ -95,11 +96,15 @@ The #polls channel is governed by [%polls].
 
 ### <a name='proposals-channel'/> #proposals
 
-The <#549428405968306186> channel is governed by [**4. Proposals**](#proposals).
+The <#549428405968306186> channel is governed by [**5. Proposals**](#proposals).
 
 ### <a name='rules-channel'/> #rules
 
 The <#592746627232432129> channel contains this rules document.
+
+## <a name='roles'/> Roles
+
+The game rules govern roles that have effect within the game.
 
 ## <a name='activity'/> Activity
 
