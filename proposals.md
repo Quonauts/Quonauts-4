@@ -68,3 +68,11 @@ Append the following paragraph to "Passing and failing proposals":
 
 When a proposal passes, its author gains 2 points.
 
+<a name='9'/>
+
+## #9
+
+Append the following paragraph to the rule section "Closing proposals":
+
+When a player passes a proposal, that player must carry out the effects of that proposal and its passing to the best of their ability; after this, that player gains 1 point.
+
