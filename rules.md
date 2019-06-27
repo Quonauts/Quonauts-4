@@ -16,6 +16,7 @@
     * [**2.3. #proposals**](#proposals-channel)
     * [**2.4. #rules**](#rules-channel)
 * [**3. Roles**](#roles)
+    * [**3.1. Rule offender**](#rule-offender-role)
 * [**4. Activity**](#activity)
 * [**5. Proposals**](#proposals)
     * [**5.1. Voting on proposals**](#proposal-voting)
@@ -105,6 +106,14 @@ The <#592746627232432129> channel contains this rules document.
 ## <a name='roles'/> Roles
 
 The game rules govern roles that have effect within the game.
+
+### <a name='rule-offender-role'/> Rule offender
+
+If a player has a nonzero number of strikes, then they are given the "rule offender" role. If a player's number of strikes reaches zero, the "rule offender" role is removed.
+
+Players with the "rule offender" role may not make any game action; i.e. they may not participate in the game.
+
+After 24 hours with the "rule offender" role, a player's number of strikes decreases by one.
 
 ## <a name='activity'/> Activity
 
