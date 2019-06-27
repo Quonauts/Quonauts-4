@@ -20,3 +20,15 @@ This rule modification does not affect proposals posted while it is not in effec
 
 Amend proposal #1: Replace the text "content between `[start]` and `[end]`" with "content between the outermost `[start]` and `[end]`" and add the sentence "`[start]` and `[end]` symbols can be nested." after the sentence "... interpreted literally."
 
+<a name='3'/>
+
+## #3
+
+This proposal depends on proposal #1; if proposal #1 fails, then this proposal's success has no effect.
+
+Append the following content between `[start]` and `[end]` to rule section "Proposal content":
+
+`[start]`
+If a proposal describes the creation of a new rule section, it must specify its title, its location in relation to an existing one, and its content.
+`[end]`
+
