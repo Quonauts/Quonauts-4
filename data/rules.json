@@ -8,7 +8,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				593907178285563933
+				593911374854488083
 			]
 		},
 		"bots": {
@@ -18,7 +18,7 @@
 			"parent_tag": "meta",
 			"child_tags": [],
 			"message_ids": [
-				593898629719392256
+				593911325139271690
 			]
 		},
 		"channels": {
@@ -33,7 +33,7 @@
 				"rules-channel"
 			],
 			"message_ids": [
-				593898630214189096
+				593911326569529364
 			]
 		},
 		"disallow-by-default": {
@@ -43,7 +43,7 @@
 			"parent_tag": "meta",
 			"child_tags": [],
 			"message_ids": [
-				593898600145354753
+				593911296676724810
 			]
 		},
 		"errors": {
@@ -53,17 +53,17 @@
 			"parent_tag": "rule-violations",
 			"child_tags": [],
 			"message_ids": [
-				593898601583738880
+				593911298442657823
 			]
 		},
 		"general-channel": {
 			"tag": "general-channel",
 			"title": "#general",
-			"content": "Players may converse freely in the <#549428605168648223> channel.",
+			"content": "Players may converse freely in the <#593807344979148800> channel.",
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				593898630952386574
+				593911327311921203
 			]
 		},
 		"glossary": {
@@ -73,7 +73,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				593907627621220392
+				593911431804747778
 			]
 		},
 		"meta": {
@@ -88,27 +88,27 @@
 				"bots"
 			],
 			"message_ids": [
-				593898599050379274
+				593911295443468292
 			]
 		},
 		"polls": {
 			"tag": "polls",
-			"title": "Quantities",
+			"title": "Polls",
 			"content": "A poll is a means of gathering the opinions of players on an issue. Players may conduct a poll by providing any necessary detail and posing a question in the <#593807379360120877> game channel.\n\nPlayers may vote in favor of a poll by reacting to the poll with \ud83d\udc4d.\n\nPlayers may vote against a poll by reacting to the poll with \ud83d\udc4e.\n\nPlayers may use any reaction they wish to respond to a poll. The player conducting the poll may interpret other reactions to the poll as they see fit.",
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				593907571635781642
+				593911375986950206
 			]
 		},
 		"polls-channel": {
 			"tag": "polls-channel",
 			"title": "#polls",
-			"content": "The #polls channel is governed by [%polls].",
+			"content": "The <#593807379360120877> channel is governed by [%polls].",
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				593898652121038849
+				593911353098371078
 			]
 		},
 		"precedence": {
@@ -118,7 +118,7 @@
 			"parent_tag": "meta",
 			"child_tags": [],
 			"message_ids": [
-				593898599620935690
+				593911296223871026
 			]
 		},
 		"proposal-closing": {
@@ -128,7 +128,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				593907573246263305
+				593911400271970304
 			]
 		},
 		"proposal-pass-fail": {
@@ -138,7 +138,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				593907574198239314
+				593911400527822850
 			]
 		},
 		"proposal-voting": {
@@ -148,13 +148,13 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				593907572616986627
+				593911378096422923
 			]
 		},
 		"proposals": {
 			"tag": "proposals",
 			"title": "Proposals",
-			"content": "Players may submit proposals by posting their proposal to the <#549428405968306186> game channel.\n\nThe first proposal is numbered #1 and each subsequent proposal's number is increased by 1. Unless otherwise stated in the game rules, deleted proposals retain their number.\n\nA proposal can describe any number of actions that make changes to the game rules or otherwise alter the game state.\n\nA proposal is either open or closed. When it is first submitted a proposal is open. A closed proposal is either passed or failed. When a player closes a proposal, they must either pass it or fail it.",
+			"content": "Players may submit proposals by posting their proposal to the <#593807201194344455> game channel.\n\nThe first proposal is numbered #1 and each subsequent proposal's number is increased by 1. Unless otherwise stated in the game rules, deleted proposals retain their number.\n\nA proposal can describe any number of actions that make changes to the game rules or otherwise alter the game state.\n\nA proposal is either open or closed. When it is first submitted a proposal is open. A closed proposal is either passed or failed. When a player closes a proposal, they must either pass it or fail it.",
 			"parent_tag": "root",
 			"child_tags": [
 				"proposal-voting",
@@ -162,17 +162,17 @@
 				"proposal-pass-fail"
 			],
 			"message_ids": [
-				593907572042366983
+				593911377261887511
 			]
 		},
 		"proposals-channel": {
 			"tag": "proposals-channel",
 			"title": "#proposals",
-			"content": "The <#549428405968306186> channel is governed by [%proposals].",
+			"content": "The <#593807201194344455> channel is governed by [%proposals].",
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				593898653219946499
+				593911354176438284
 			]
 		},
 		"punitive-action": {
@@ -182,7 +182,7 @@
 			"parent_tag": "rule-violations",
 			"child_tags": [],
 			"message_ids": [
-				593898628821680138
+				593911324627697684
 			]
 		},
 		"quantities": {
@@ -192,7 +192,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				593907480749277196
+				593911374980317197
 			]
 		},
 		"roles": {
@@ -204,7 +204,7 @@
 				"rule-offender-role"
 			],
 			"message_ids": [
-				593906911754059809
+				593911356663529472
 			]
 		},
 		"root": {
@@ -224,8 +224,8 @@
 				"glossary"
 			],
 			"message_ids": [
-				593907628573458440,
-				593907629609189383
+				593911432542945280,
+				593911433285337119
 			]
 		},
 		"rule-offender-role": {
@@ -235,7 +235,7 @@
 			"parent_tag": "roles",
 			"child_tags": [],
 			"message_ids": [
-				593907177346039809
+				593911357200400415
 			]
 		},
 		"rule-violation-polls": {
@@ -245,7 +245,7 @@
 			"parent_tag": "rule-violations",
 			"child_tags": [],
 			"message_ids": [
-				593898627659989023
+				593911324149547008
 			]
 		},
 		"rule-violations": {
@@ -259,17 +259,17 @@
 				"punitive-action"
 			],
 			"message_ids": [
-				593898600774500363
+				593911297721237555
 			]
 		},
 		"rules-channel": {
 			"tag": "rules-channel",
 			"title": "#rules",
-			"content": "The <#592746627232432129> channel contains this rules document.",
+			"content": "The <#593807244030771211> channel contains this rules document.",
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				593898653718937611
+				593911355363295252
 			]
 		},
 		"style": {
@@ -284,7 +284,7 @@
 				"style-formatting"
 			],
 			"message_ids": [
-				593907599796076544
+				593911401559621633
 			]
 		},
 		"style-content": {
@@ -294,7 +294,7 @@
 			"parent_tag": "style",
 			"child_tags": [],
 			"message_ids": [
-				593907600358244500
+				593911402654072854
 			]
 		},
 		"style-formatting": {
@@ -304,7 +304,7 @@
 			"parent_tag": "style",
 			"child_tags": [],
 			"message_ids": [
-				593907601863868433
+				593911429900402698
 			]
 		},
 		"style-headers-tags": {
@@ -314,7 +314,7 @@
 			"parent_tag": "style",
 			"child_tags": [],
 			"message_ids": [
-				593907600861429779
+				593911403325423675
 			]
 		},
 		"style-lists": {
@@ -324,7 +324,7 @@
 			"parent_tag": "style",
 			"child_tags": [],
 			"message_ids": [
-				593907601348231196
+				593911428931518465
 			]
 		}
 	}
