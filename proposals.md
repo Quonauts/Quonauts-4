@@ -60,3 +60,11 @@ Add a new quantity "point" and add the following line to the beginning of the se
 
 * **Point**: A generic unit of score.
 
+<a name='8'/>
+
+## #8
+
+Append the following paragraph to "Passing and failing proposals":
+
+When a proposal passes, its author gains 2 points.
+
