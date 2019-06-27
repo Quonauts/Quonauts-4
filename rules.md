@@ -91,7 +91,7 @@ The game rules govern only messages and reactions in the GAME CHANNELS category 
 
 ### <a name='general-channel'/> #general
 
-Players may converse freely in the <#549428605168648223> channel.
+Players may converse freely in the <#593807344979148800> channel.
 
 ### <a name='polls-channel'/> #polls
 
