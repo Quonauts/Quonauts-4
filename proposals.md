@@ -36,3 +36,13 @@ If a proposal describes the creation of a new rule section, it must specify its 
 
 ## #4 — Deleted
 
+<a name='5'/>
+
+## #5
+
+Add a section titled "Proposal modification" as a subsection of "Proposals" with the following content between [start] and [end]:
+
+[start]
+A player may edit a proposal they have submitted if that proposal is open for voting and has no votes cast by players other than its author.
+[end]
+
