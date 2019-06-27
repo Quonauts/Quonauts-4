@@ -18,16 +18,17 @@
 * [**3. Roles**](#roles)
     * [**3.1. Rule offender**](#rule-offender-role)
 * [**4. Activity**](#activity)
-* [**5. Proposals**](#proposals)
-    * [**5.1. Voting on proposals**](#proposal-voting)
-    * [**5.2. Closing proposals**](#proposal-closing)
-    * [**5.3. Passing and failing proposals**](#proposal-pass-fail)
-* [**6. Style conventions**](#style)
-    * [**6.1. Content**](#style-content)
-    * [**6.2. Headers and tags**](#style-headers-tags)
-    * [**6.3. Lists**](#style-lists)
-    * [**6.4. Formatting**](#style-formatting)
-* [**7. Glossary**](#glossary)
+* [**5. Quantities**](#quantities)
+* [**6. Proposals**](#proposals)
+    * [**6.1. Voting on proposals**](#proposal-voting)
+    * [**6.2. Closing proposals**](#proposal-closing)
+    * [**6.3. Passing and failing proposals**](#proposal-pass-fail)
+* [**7. Style conventions**](#style)
+    * [**7.1. Content**](#style-content)
+    * [**7.2. Headers and tags**](#style-headers-tags)
+    * [**7.3. Lists**](#style-lists)
+    * [**7.4. Formatting**](#style-formatting)
+* [**8. Glossary**](#glossary)
 
 ## <a name='meta'/> Meta rules
 
@@ -97,7 +98,7 @@ The #polls channel is governed by [%polls].
 
 ### <a name='proposals-channel'/> #proposals
 
-The <#549428405968306186> channel is governed by [**5. Proposals**](#proposals).
+The <#549428405968306186> channel is governed by [**6. Proposals**](#proposals).
 
 ### <a name='rules-channel'/> #rules
 
@@ -118,6 +119,22 @@ After 24 hours with the "rule offender" role, a player's number of strikes decre
 ## <a name='activity'/> Activity
 
 All players that have taken some game action in the preceding 72 hours are active players. All other players are inactive players.
+
+## <a name='quantities'/> Quantities
+
+A quantity is a named property with a numerical value for each player.
+
+By default any unique quantity added to the game:
+
+* applies to all players.
+* is instatiated at zero.
+* must always be an integer.
+* must never have a negative value.
+* cannot be traded or exchanged.
+
+Existing quantities:
+
+* **Strike**: The number of rule violations that a player has committed without punishment.
 
 ## <a name='proposals'/> Proposals
 
