@@ -19,7 +19,7 @@
     * [**3.1. Rule offender**](#rule-offender-role)
 * [**4. Activity**](#activity)
 * [**5. Quantities**](#quantities)
-* [**6. Quantities**](#polls)
+* [**6. Polls**](#polls)
 * [**7. Proposals**](#proposals)
     * [**7.1. Voting on proposals**](#proposal-voting)
     * [**7.2. Closing proposals**](#proposal-closing)
@@ -95,7 +95,7 @@ Players may converse freely in the <#593807344979148800> channel.
 
 ### <a name='polls-channel'/> #polls
 
-The <#593807379360120877> channel is governed by [**6. Quantities**](#polls).
+The <#593807379360120877> channel is governed by [**6. Polls**](#polls).
 
 ### <a name='proposals-channel'/> #proposals
 
@@ -137,7 +137,7 @@ Existing quantities:
 
 * **Strike**: The number of rule violations that a player has committed without punishment.
 
-## <a name='polls'/> Quantities
+## <a name='polls'/> Polls
 
 A poll is a means of gathering the opinions of players on an issue. Players may conduct a poll by providing any necessary detail and posing a question in the <#593807379360120877> game channel.
 
