@@ -82,3 +82,9 @@ When a player passes a proposal, that player must carry out the effects of that 
 
 Players can give themselves one point after every period of 24 hours. A player may not give themselves a point before it has been 24 hours scince they last game themselves a point through this system. Points earned by other means than the contents of this rule do not effect this system.
 
+<a name='11'/>
+
+## #11
+
+A player may destroy the point of one other player after every period of 24 hours. A player may not destroy a point before it has been 24 hours since they last destroyed a point through this system. Points destroyed by other means than the contents of this rule do not effect this system.
+
