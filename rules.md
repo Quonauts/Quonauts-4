@@ -103,7 +103,7 @@ The <#593807201194344455> channel is governed by [**7. Proposals**](#proposals).
 
 ### <a name='rules-channel'/> #rules
 
-The <#592746627232432129> channel contains this rules document.
+The <#593807244030771211> channel contains this rules document.
 
 ## <a name='roles'/> Roles
 
