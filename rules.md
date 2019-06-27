@@ -19,16 +19,17 @@
     * [**3.1. Rule offender**](#rule-offender-role)
 * [**4. Activity**](#activity)
 * [**5. Quantities**](#quantities)
-* [**6. Proposals**](#proposals)
-    * [**6.1. Voting on proposals**](#proposal-voting)
-    * [**6.2. Closing proposals**](#proposal-closing)
-    * [**6.3. Passing and failing proposals**](#proposal-pass-fail)
-* [**7. Style conventions**](#style)
-    * [**7.1. Content**](#style-content)
-    * [**7.2. Headers and tags**](#style-headers-tags)
-    * [**7.3. Lists**](#style-lists)
-    * [**7.4. Formatting**](#style-formatting)
-* [**8. Glossary**](#glossary)
+* [**6. Quantities**](#polls)
+* [**7. Proposals**](#proposals)
+    * [**7.1. Voting on proposals**](#proposal-voting)
+    * [**7.2. Closing proposals**](#proposal-closing)
+    * [**7.3. Passing and failing proposals**](#proposal-pass-fail)
+* [**8. Style conventions**](#style)
+    * [**8.1. Content**](#style-content)
+    * [**8.2. Headers and tags**](#style-headers-tags)
+    * [**8.3. Lists**](#style-lists)
+    * [**8.4. Formatting**](#style-formatting)
+* [**9. Glossary**](#glossary)
 
 ## <a name='meta'/> Meta rules
 
@@ -94,11 +95,11 @@ Players may converse freely in the <#549428605168648223> channel.
 
 ### <a name='polls-channel'/> #polls
 
-The #polls channel is governed by [%polls].
+The #polls channel is governed by [**6. Quantities**](#polls).
 
 ### <a name='proposals-channel'/> #proposals
 
-The <#549428405968306186> channel is governed by [**6. Proposals**](#proposals).
+The <#549428405968306186> channel is governed by [**7. Proposals**](#proposals).
 
 ### <a name='rules-channel'/> #rules
 
@@ -135,6 +136,16 @@ By default any unique quantity added to the game:
 Existing quantities:
 
 * **Strike**: The number of rule violations that a player has committed without punishment.
+
+## <a name='polls'/> Quantities
+
+A poll is a means of gathering the opinions of players on an issue. Players may conduct a poll by providing any necessary detail and posing a question in the <#593807379360120877> game channel.
+
+Players may vote in favor of a poll by reacting to the poll with 👍.
+
+Players may vote against a poll by reacting to the poll with 👎.
+
+Players may use any reaction they wish to respond to a poll. The player conducting the poll may interpret other reactions to the poll as they see fit.
 
 ## <a name='proposals'/> Proposals
 
