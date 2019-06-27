@@ -52,3 +52,11 @@ A player may edit a proposal they have submitted if that proposal is open for vo
 
 Modify the rule section "Closing proposals": replace all instances of "close a proposal" with "close an open proposal"
 
+<a name='7'/>
+
+## #7
+
+Add a new quantity "point" and add the following line to the beginning of the second bulleted list in the rule section "Quantities":
+
+* **Point**: A generic unit of score.
+
