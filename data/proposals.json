@@ -116,7 +116,8 @@
 				"216295379895844865": 1,
 				"271274710753476610": -1,
 				"437904804732338177": 1,
-				"512645502253400064": 1
+				"512645502253400064": 1,
+				"556954927969075225": 1
 			},
 			"timestamp": 1561672002
 		},
@@ -163,6 +164,18 @@
 				"556954927969075225": -1
 			},
 			"timestamp": 1561674336
+		},
+		{
+			"n": 12,
+			"author": 556954927969075225,
+			"content": "This proposal adds a rule section \"Cabals\" after the Proposals section and before the Style conventions section. The new rule section is to have the following text;\n\"A cabal is a group which consists of a number of one or more players. Any player may form a cabal by publically announcing its existence and the name of the cabal. The continued existence of a cabal must remain public knowledge.\nEach cabal has exactly one czar. This is always initially the player who forms a cabal is. A cabal's czar is responsible for defining the rules that govern its own membership, leadership, governance and disbandment.\"",
+			"status": "voting",
+			"message_id": 594381244976857119,
+			"votes": {
+				"271274710753476610": 1,
+				"556954927969075225": 1
+			},
+			"timestamp": 1561781931
 		}
 	]
 }
