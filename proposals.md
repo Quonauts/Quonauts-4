@@ -88,3 +88,11 @@ Players can give themselves one point after every period of 24 hours. A player m
 
 A player may destroy the point of one other player after every period of 24 hours. A player may not destroy a point before it has been 24 hours since they last destroyed a point through this system. Points destroyed by other means than the contents of this rule do not effect this system.
 
+<a name='12'/>
+
+## #12
+
+This proposal adds a rule section "Cabals" after the Proposals section and before the Style conventions section. The new rule section is to have the following text;
+"A cabal is a group which consists of a number of one or more players. Any player may form a cabal by publically announcing its existence and the name of the cabal. The continued existence of a cabal must remain public knowledge.
+Each cabal has exactly one czar. This is always initially the player who forms a cabal is. A cabal's czar is responsible for defining the rules that govern its own membership, leadership, governance and disbandment."
+
