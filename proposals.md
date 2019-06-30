@@ -70,7 +70,7 @@ When a proposal passes, its author gains 2 points.
 
 <a name='9'/>
 
-## #9
+## #9 — Passed
 
 Append the following paragraph to the rule section "Closing proposals":
 
