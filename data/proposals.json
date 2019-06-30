@@ -5,7 +5,7 @@
 			"n": 1,
 			"author": 216295379895844865,
 			"content": "Add a new rule section \"Proposal content\" containing the content between `[start]` and `[end]`:\n\n`[start]`\nIf a proposal describes a modification to the rules, it must unambiguously specify the rule section(s) to be modified and how they will be modified. Text quoted between `[start]` and `[end]` symbols (brackets required; code tags optional) is to be intrepreted literally.\n`[end]`\n\nMove the paragraph \"A proposal can describe ... game state.\" from the rules section \"Proposals\" to the beginning of \"Proposal content.\"\n\nThis rule modification does not affect proposals posted while it is not in effect.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 593903678369300481,
 			"votes": {
 				"160279332454006795": 1,
@@ -125,7 +125,7 @@
 			"n": 9,
 			"author": 216295379895844865,
 			"content": "Append the following paragraph to the rule section \"Closing proposals\":\n\nWhen a player passes a proposal, that player must carry out the effects of that proposal and its passing to the best of their ability; after this, that player gains 1 point.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 593920194963963949,
 			"votes": {
 				"160279332454006795": 1,
