@@ -2,7 +2,7 @@
 
 <a name='1'/>
 
-## #1
+## #1 — Passed
 
 Add a new rule section "Proposal content" containing the content between `[start]` and `[end]`:
 
