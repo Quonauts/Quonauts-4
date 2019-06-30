@@ -173,6 +173,8 @@ Any player may close a proposal if all active players have cast a vote on the pr
 
 The player that authored a proposal may elect to fail or delete it at any time.
 
+When a player passes a proposal, that player must carry out the effects of that proposal and its passing to the best of their ability; after this, that player gains 1 point.
+
 ### <a name='proposal-pass-fail'/> Passing and failing proposals
 
 When a proposal is closed, it passes if it has more votes in favour than against; otherwise, it fails.
