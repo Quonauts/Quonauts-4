@@ -24,12 +24,13 @@
     * [**7.1. Voting on proposals**](#proposal-voting)
     * [**7.2. Closing proposals**](#proposal-closing)
     * [**7.3. Passing and failing proposals**](#proposal-pass-fail)
-* [**8. Style conventions**](#style)
-    * [**8.1. Content**](#style-content)
-    * [**8.2. Headers and tags**](#style-headers-tags)
-    * [**8.3. Lists**](#style-lists)
-    * [**8.4. Formatting**](#style-formatting)
-* [**9. Glossary**](#glossary)
+* [**8. Proposal Content**](#proposal-content)
+* [**9. Style conventions**](#style)
+    * [**9.1. Content**](#style-content)
+    * [**9.2. Headers and tags**](#style-headers-tags)
+    * [**9.3. Lists**](#style-lists)
+    * [**9.4. Formatting**](#style-formatting)
+* [**10. Glossary**](#glossary)
 
 ## <a name='meta'/> Meta rules
 
@@ -178,6 +179,12 @@ When a player passes a proposal, that player must carry out the effects of that 
 ### <a name='proposal-pass-fail'/> Passing and failing proposals
 
 When a proposal is closed, it passes if it has more votes in favour than against; otherwise, it fails.
+
+## <a name='proposal-content'/> Proposal Content
+
+A proposal can describe any number of actions that make changes to the game rules or otherwise alter the game state.
+
+If a proposal describes a modification to the rules, it must unambiguously specify the rule section(s) to be modified and how they will be modified. Text quoted between the outermost `[start]` and `[end]` symbols (brackets required; code tags optional) is to be interpreted literally. `[start]` and `[end]` symbols can be nested.
 
 ## <a name='style'/> Style conventions
 
