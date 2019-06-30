@@ -73,7 +73,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				593911431804747778
+				594897358504853535
 			]
 		},
 		"meta": {
@@ -129,6 +129,16 @@
 			"child_tags": [],
 			"message_ids": [
 				593911400271970304
+			]
+		},
+		"proposal-content": {
+			"tag": "proposal-content",
+			"title": "Proposal Content",
+			"content": "A proposal can describe any number of actions that make changes to the game rules or otherwise alter the game state.\n\nIf a proposal describes a modification to the rules, it must unambiguously specify the rule section(s) to be modified and how they will be modified. Text quoted between the outermost `[start]` and `[end]` symbols (brackets required; code tags optional) is to be interpreted literally. `[start]` and `[end]` symbols can be nested.",
+			"parent_tag": "root",
+			"child_tags": [],
+			"message_ids": [
+				594897332298973187
 			]
 		},
 		"proposal-pass-fail": {
@@ -220,12 +230,13 @@
 				"quantities",
 				"polls",
 				"proposals",
+				"proposal-content",
 				"style",
 				"glossary"
 			],
 			"message_ids": [
-				593911432542945280,
-				593911433285337119
+				594897359922659358,
+				594897360383901716
 			]
 		},
 		"rule-offender-role": {
@@ -284,7 +295,7 @@
 				"style-formatting"
 			],
 			"message_ids": [
-				593911401559621633
+				594897333024718869
 			]
 		},
 		"style-content": {
@@ -294,7 +305,7 @@
 			"parent_tag": "style",
 			"child_tags": [],
 			"message_ids": [
-				593911402654072854
+				594897333880094730
 			]
 		},
 		"style-formatting": {
@@ -304,7 +315,7 @@
 			"parent_tag": "style",
 			"child_tags": [],
 			"message_ids": [
-				593911429900402698
+				594897358253326347
 			]
 		},
 		"style-headers-tags": {
@@ -314,7 +325,7 @@
 			"parent_tag": "style",
 			"child_tags": [],
 			"message_ids": [
-				593911403325423675
+				594897335050567683
 			]
 		},
 		"style-lists": {
@@ -324,7 +335,7 @@
 			"parent_tag": "style",
 			"child_tags": [],
 			"message_ids": [
-				593911428931518465
+				594897336212389899
 			]
 		}
 	}
