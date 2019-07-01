@@ -38,7 +38,7 @@ If a proposal describes the creation of a new rule section, it must specify its 
 
 <a name='5'/>
 
-## #5
+## #5 — Passed
 
 Add a section titled "Proposal modification" as a subsection of "Proposals" with the following content between [start] and [end]:
 
