@@ -78,7 +78,7 @@ When a player passes a proposal, that player must carry out the effects of that 
 
 <a name='10'/>
 
-## #10
+## #10 — Failed
 
 Players can give themselves one point after every period of 24 hours. A player may not give themselves a point before it has been 24 hours scince they last game themselves a point through this system. Points earned by other means than the contents of this rule do not effect this system.
 
