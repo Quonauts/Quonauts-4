@@ -24,6 +24,7 @@
     * [**7.1. Voting on proposals**](#proposal-voting)
     * [**7.2. Closing proposals**](#proposal-closing)
     * [**7.3. Passing and failing proposals**](#proposal-pass-fail)
+    * [**7.4. Proposal modification**](#proposal-modification)
 * [**8. Cabals**](#cabals)
 * [**9. Proposal Content**](#proposal-content)
 * [**10. Style conventions**](#style)
@@ -180,6 +181,10 @@ When a player passes a proposal, that player must carry out the effects of that 
 ### <a name='proposal-pass-fail'/> Passing and failing proposals
 
 When a proposal is closed, it passes if it has more votes in favour than against; otherwise, it fails.
+
+### <a name='proposal-modification'/> Proposal modification
+
+A player may edit a proposal they have submitted if that proposal is open for voting and has no votes cast by players other than its author.
 
 ## <a name='cabals'/> Cabals
 
