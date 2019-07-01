@@ -28,7 +28,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				595115247551905792
+				595128379783512074
 			]
 		},
 		"channels": {
@@ -83,7 +83,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				595115272663465995
+				595128405930934276
 			]
 		},
 		"meta": {
@@ -134,7 +134,7 @@
 		"proposal-closing": {
 			"tag": "proposal-closing",
 			"title": "Closing proposals",
-			"content": "Any player may close a proposal 48 hours after it is submitted.\n\nAny player may close a proposal if all active players have cast a vote on the proposal.\n\nThe player that authored a proposal may elect to fail or delete it at any time.\n\nWhen a player passes a proposal, that player must carry out the effects of that proposal and its passing to the best of their ability; after this, that player gains 1 point.",
+			"content": "Any player may close an open proposal 48 hours after it is submitted.\n\nAny player may close an open proposal if all active players have cast a vote on the proposal.\n\nThe player that authored a proposal may elect to fail or delete it at any time.\n\nWhen a player passes a proposal, that player must carry out the effects of that proposal and its passing to the best of their ability; after this, that player gains 1 point.",
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
@@ -148,7 +148,17 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				595115248265068545
+				595128380588818432
+			]
+		},
+		"proposal-modification": {
+			"tag": "proposal-modification",
+			"title": "Proposal modification",
+			"content": "A player may edit a proposal they have submitted if that proposal is open for voting and has no votes cast by players other than its author.",
+			"parent_tag": "proposals",
+			"child_tags": [],
+			"message_ids": [
+				595128379246641163
 			]
 		},
 		"proposal-pass-fail": {
@@ -179,7 +189,8 @@
 			"child_tags": [
 				"proposal-voting",
 				"proposal-closing",
-				"proposal-pass-fail"
+				"proposal-pass-fail",
+				"proposal-modification"
 			],
 			"message_ids": [
 				593911377261887511
@@ -246,8 +257,8 @@
 				"glossary"
 			],
 			"message_ids": [
-				595115273141616651,
-				595115273573629954
+				595128406933241858,
+				595128428819382310
 			]
 		},
 		"rule-offender-role": {
@@ -306,7 +317,7 @@
 				"style-formatting"
 			],
 			"message_ids": [
-				595115248671785001
+				595128381738188800
 			]
 		},
 		"style-content": {
@@ -316,7 +327,7 @@
 			"parent_tag": "style",
 			"child_tags": [],
 			"message_ids": [
-				595115249250861086
+				595128382682038272
 			]
 		},
 		"style-formatting": {
@@ -326,7 +337,7 @@
 			"parent_tag": "style",
 			"child_tags": [],
 			"message_ids": [
-				595115272361213952
+				595128405310046219
 			]
 		},
 		"style-headers-tags": {
@@ -336,7 +347,7 @@
 			"parent_tag": "style",
 			"child_tags": [],
 			"message_ids": [
-				595115249930207232
+				595128404295155712
 			]
 		},
 		"style-lists": {
@@ -346,7 +357,7 @@
 			"parent_tag": "style",
 			"child_tags": [],
 			"message_ids": [
-				595115271329677341
+				595128404886552596
 			]
 		}
 	}
