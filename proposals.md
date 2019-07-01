@@ -54,7 +54,7 @@ Modify the rule section "Closing proposals": replace all instances of "close a p
 
 <a name='7'/>
 
-## #7
+## #7 — Passed
 
 Add a new quantity "point" and add the following line to the beginning of the second bulleted list in the rule section "Quantities":
 
