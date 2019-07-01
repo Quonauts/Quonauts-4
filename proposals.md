@@ -172,3 +172,9 @@ Players may not make duplicate proposals. This does not apply to proposals 17-27
 
 Players may not make duplicate proposals. This does not apply to proposals 17-27.
 
+<a name='25'/>
+
+## #25
+
+Players may not make duplicate proposals. This does not apply to proposals 17-27.
+
