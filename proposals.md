@@ -111,3 +111,10 @@ Append a new paragraph to the rule section "Cabals" that consists of the content
 To become part of a cabal, a player must be appointed by the czar of the cabal. Members of a cabal may leave at any time. If the czar of a cabal with more than 1 player wishes to leave, they must choose a new player to be czar.
 [end]
 
+<a name='15'/>
+
+## #15
+
+Append a new paragraph to the rule section “Proposal Content” that consists of the content between [start] and [end]:
+[start]Proposed rules may not target a specific player, but may target a specific Cabal. If a rule targets a specific Cabal, at least one player that is a member of the targeted Cable must vote for the proposal for it to pass, and at least one player outside of the cable must vote for it to pass.[end]
+
