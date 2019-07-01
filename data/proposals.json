@@ -94,7 +94,7 @@
 			"n": 7,
 			"author": 216295379895844865,
 			"content": "Add a new quantity \"point\" and add the following line to the beginning of the second bulleted list in the rule section \"Quantities\":\n\n* **Point**: A generic unit of score.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 593919024409083934,
 			"votes": {
 				"216295379895844865": 1,
@@ -202,8 +202,21 @@
 			"content": "Append a new paragraph to the rule section \"Cabals\" that consists of the content between `[start]` and `[end]`:\n[start]\nTo become part of a cabal, a player must be appointed by the czar of the cabal. Members of a cabal may leave at any time. If the czar of a cabal with more than 1 player wishes to leave, they must choose a new player to be czar.\n[end]",
 			"status": "voting",
 			"message_id": 595116059741126667,
-			"votes": {},
+			"votes": {
+				"271274710753476610": 1
+			},
 			"timestamp": 1561957125
+		},
+		{
+			"n": 15,
+			"author": 271274710753476610,
+			"content": "Append a new paragraph to the rule section \u201cProposal Content\u201d that consists of the content between [start] and [end]:\n[start]Proposed rules may not target a specific player, but may target a specific Cabal. If a rule targets a specific Cabal, at least one player that is a member of the targeted Cable must vote for the proposal for it to pass, and at least one player outside of the cable must vote for it to pass.[end]",
+			"status": "voting",
+			"message_id": 595117726565924864,
+			"votes": {
+				"271274710753476610": 1
+			},
+			"timestamp": 1561957522
 		}
 	]
 }
