@@ -21,6 +21,16 @@
 				593911325139271690
 			]
 		},
+		"cabals": {
+			"tag": "cabals",
+			"title": "Cabals",
+			"content": "A cabal is a group which consists of a number of one or more players. Any player may form a cabal by publically announcing its existence and the name of the cabal. The continued existence of a cabal must remain public knowledge.\nEach cabal has exactly one czar. This is always initially the player who forms a cabal is. A cabal's czar is responsible for defining the rules that govern its own membership, leadership, governance and disbandment.",
+			"parent_tag": "root",
+			"child_tags": [],
+			"message_ids": [
+				595115247551905792
+			]
+		},
 		"channels": {
 			"tag": "channels",
 			"title": "Channels",
@@ -73,7 +83,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				594897358504853535
+				595115272663465995
 			]
 		},
 		"meta": {
@@ -138,7 +148,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				594897332298973187
+				595115248265068545
 			]
 		},
 		"proposal-pass-fail": {
@@ -230,13 +240,14 @@
 				"quantities",
 				"polls",
 				"proposals",
+				"cabals",
 				"proposal-content",
 				"style",
 				"glossary"
 			],
 			"message_ids": [
-				594897359922659358,
-				594897360383901716
+				595115273141616651,
+				595115273573629954
 			]
 		},
 		"rule-offender-role": {
@@ -295,7 +306,7 @@
 				"style-formatting"
 			],
 			"message_ids": [
-				594897333024718869
+				595115248671785001
 			]
 		},
 		"style-content": {
@@ -305,7 +316,7 @@
 			"parent_tag": "style",
 			"child_tags": [],
 			"message_ids": [
-				594897333880094730
+				595115249250861086
 			]
 		},
 		"style-formatting": {
@@ -315,7 +326,7 @@
 			"parent_tag": "style",
 			"child_tags": [],
 			"message_ids": [
-				594897358253326347
+				595115272361213952
 			]
 		},
 		"style-headers-tags": {
@@ -325,7 +336,7 @@
 			"parent_tag": "style",
 			"child_tags": [],
 			"message_ids": [
-				594897335050567683
+				595115249930207232
 			]
 		},
 		"style-lists": {
@@ -335,7 +346,7 @@
 			"parent_tag": "style",
 			"child_tags": [],
 			"message_ids": [
-				594897336212389899
+				595115271329677341
 			]
 		}
 	}
