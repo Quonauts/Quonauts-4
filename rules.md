@@ -24,13 +24,14 @@
     * [**7.1. Voting on proposals**](#proposal-voting)
     * [**7.2. Closing proposals**](#proposal-closing)
     * [**7.3. Passing and failing proposals**](#proposal-pass-fail)
-* [**8. Proposal Content**](#proposal-content)
-* [**9. Style conventions**](#style)
-    * [**9.1. Content**](#style-content)
-    * [**9.2. Headers and tags**](#style-headers-tags)
-    * [**9.3. Lists**](#style-lists)
-    * [**9.4. Formatting**](#style-formatting)
-* [**10. Glossary**](#glossary)
+* [**8. Cabals**](#cabals)
+* [**9. Proposal Content**](#proposal-content)
+* [**10. Style conventions**](#style)
+    * [**10.1. Content**](#style-content)
+    * [**10.2. Headers and tags**](#style-headers-tags)
+    * [**10.3. Lists**](#style-lists)
+    * [**10.4. Formatting**](#style-formatting)
+* [**11. Glossary**](#glossary)
 
 ## <a name='meta'/> Meta rules
 
@@ -179,6 +180,11 @@ When a player passes a proposal, that player must carry out the effects of that 
 ### <a name='proposal-pass-fail'/> Passing and failing proposals
 
 When a proposal is closed, it passes if it has more votes in favour than against; otherwise, it fails.
+
+## <a name='cabals'/> Cabals
+
+A cabal is a group which consists of a number of one or more players. Any player may form a cabal by publically announcing its existence and the name of the cabal. The continued existence of a cabal must remain public knowledge.
+Each cabal has exactly one czar. This is always initially the player who forms a cabal is. A cabal's czar is responsible for defining the rules that govern its own membership, leadership, governance and disbandment.
 
 ## <a name='proposal-content'/> Proposal Content
 
