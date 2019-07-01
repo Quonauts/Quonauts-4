@@ -48,7 +48,7 @@ A player may edit a proposal they have submitted if that proposal is open for vo
 
 <a name='6'/>
 
-## #6
+## #6 — Passed
 
 Modify the rule section "Closing proposals": replace all instances of "close a proposal" with "close an open proposal"
 
