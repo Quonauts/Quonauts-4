@@ -190,3 +190,9 @@ Players may not make duplicate proposals. This does not apply to proposals 17-27
 
 Players may not make duplicate proposals. This does not apply to proposals 17-27.
 
+<a name='28'/>
+
+## #28
+
+jmina lo cnino paragraph lo nu klama lo nenri lu Rule Violations li'u cu vasru le jbini [ co'a ] gi'e [ fanmo ] zo'u [ co'a ] ro da co'a pa lunra cirla ro da enai heavpoot co'a pa lo fanmo [ end ]
+
