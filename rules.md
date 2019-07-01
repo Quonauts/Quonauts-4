@@ -170,9 +170,9 @@ A player may change their vote on an open proposal at any time.
 
 ### <a name='proposal-closing'/> Closing proposals
 
-Any player may close a proposal 48 hours after it is submitted.
+Any player may close an open proposal 48 hours after it is submitted.
 
-Any player may close a proposal if all active players have cast a vote on the proposal.
+Any player may close an open proposal if all active players have cast a vote on the proposal.
 
 The player that authored a proposal may elect to fail or delete it at any time.
 
