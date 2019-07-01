@@ -102,3 +102,12 @@ Each cabal has exactly one czar. This is always initially the player who forms a
 
 Move "Proposal content" to be the first subsection of "Proposals"
 
+<a name='14'/>
+
+## #14
+
+Append a new paragraph to the rule section "Cabals" that consists of the context between `[start]` and `[end]`:
+[start]
+To become part of a cabal, a player must be appointed by the czar of the cabal. Members of a cabal may leave at any time. If the czar of a cabal with more than 1 player wishes to leave, they must choose a new player to be czar.
+[end]
+
