@@ -22,7 +22,7 @@ Amend proposal #1: Replace the text "content between `[start]` and `[end]`" with
 
 <a name='3'/>
 
-## #3
+## #3 — Passed
 
 This proposal depends on proposal #1; if proposal #1 fails, then this proposal's success has no effect.
 
