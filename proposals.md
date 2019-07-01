@@ -90,7 +90,7 @@ A player may destroy the point of one other player after every period of 24 hour
 
 <a name='12'/>
 
-## #12
+## #12 — Passed
 
 This proposal adds a rule section "Cabals" after the Proposals section and before the Style conventions section. The new rule section is to have the following text;
 "A cabal is a group which consists of a number of one or more players. Any player may form a cabal by publically announcing its existence and the name of the cabal. The continued existence of a cabal must remain public knowledge.
