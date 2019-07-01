@@ -184,7 +184,9 @@ When a proposal is closed, it passes if it has more votes in favour than against
 
 A proposal can describe any number of actions that make changes to the game rules or otherwise alter the game state.
 
-If a proposal describes a modification to the rules, it must unambiguously specify the rule section(s) to be modified and how they will be modified. Text quoted between the outermost `[start]` and `[end]` symbols (brackets required; code tags optional) is to be interpreted literally. `[start]` and `[end]` symbols can be nested.
+If a proposal describes a modification to the rules, it must unambiguously specify the rule section(s) to be modified and how they will be modified. Text quoted between the outermost [start] and [end] symbols (brackets required; code tags optional) is to be interpreted literally. [start] and [end] symbols can be nested.
+
+If a proposal describes the creation of a new rule section, it must specify its title, its location in relation to an existing one, and its content.
 
 ## <a name='style'/> Style conventions
 
