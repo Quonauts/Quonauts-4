@@ -62,7 +62,7 @@ Add a new quantity "point" and add the following line to the beginning of the se
 
 <a name='8'/>
 
-## #8
+## #8 — Passed
 
 Append the following paragraph to "Passing and failing proposals":
 
