@@ -233,6 +233,17 @@
 				"556954927969075225": -1
 			},
 			"timestamp": 1561957522
+		},
+		{
+			"n": 16,
+			"author": 160279332454006795,
+			"content": "Not having at least 1 strike is a violation of the rules.",
+			"status": "voting",
+			"message_id": 595324714474274826,
+			"votes": {
+				"160279332454006795": 1
+			},
+			"timestamp": 1562006872
 		}
 	]
 }
