@@ -96,3 +96,9 @@ This proposal adds a rule section "Cabals" after the Proposals section and befor
 "A cabal is a group which consists of a number of one or more players. Any player may form a cabal by publically announcing its existence and the name of the cabal. The continued existence of a cabal must remain public knowledge.
 Each cabal has exactly one czar. This is always initially the player who forms a cabal is. A cabal's czar is responsible for defining the rules that govern its own membership, leadership, governance and disbandment."
 
+<a name='13'/>
+
+## #13
+
+Move "Proposal content" to be the first subsection of "Proposals"
+
