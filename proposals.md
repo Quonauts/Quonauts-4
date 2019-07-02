@@ -120,9 +120,7 @@ Append a new paragraph to the rule section “Proposal Content” that consists 
 
 <a name='16'/>
 
-## #16
-
-Not having at least 1 strike is a violation of the rules.
+## #16 — Deleted
 
 <a name='17'/>
 
