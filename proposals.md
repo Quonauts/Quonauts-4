@@ -168,9 +168,7 @@ Append a new paragraph to the rule section “Proposal Content” that consists 
 
 <a name='28'/>
 
-## #28
-
-jmina lo cnino paragraph lo nu klama lo nenri lu Rule Violations li'u cu vasru le jbini [ co'a ] gi'e [ fanmo ] zo'u [ co'a ] ro da co'a pa lunra cirla ro da enai heavpoot co'a pa lo fanmo [ end ]
+## #28 — Deleted
 
 <a name='29'/>
 
