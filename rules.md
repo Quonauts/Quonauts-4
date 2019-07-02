@@ -26,7 +26,7 @@
     * [**7.3. Passing and failing proposals**](#proposal-pass-fail)
     * [**7.4. Proposal modification**](#proposal-modification)
 * [**8. Cabals**](#cabals)
-* [**9. Proposal Content**](#proposal-content)
+* [**9. Proposal content**](#proposal-content)
 * [**10. Style conventions**](#style)
     * [**10.1. Content**](#style-content)
     * [**10.2. Headers and tags**](#style-headers-tags)
@@ -191,7 +191,7 @@ A player may edit a proposal they have submitted if that proposal is open for vo
 A cabal is a group which consists of a number of one or more players. Any player may form a cabal by publically announcing its existence and the name of the cabal. The continued existence of a cabal must remain public knowledge.
 Each cabal has exactly one czar. This is always initially the player who forms a cabal is. A cabal's czar is responsible for defining the rules that govern its own membership, leadership, governance and disbandment.
 
-## <a name='proposal-content'/> Proposal Content
+## <a name='proposal-content'/> Proposal content
 
 A proposal can describe any number of actions that make changes to the game rules or otherwise alter the game state.
 
