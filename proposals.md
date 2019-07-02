@@ -140,9 +140,7 @@ Append a new paragraph to the rule section “Proposal Content” that consists 
 
 <a name='21'/>
 
-## #21
-
-Players may not make duplicate proposals. This does not apply to proposals 17-27
+## #21 — Deleted
 
 <a name='22'/>
 
