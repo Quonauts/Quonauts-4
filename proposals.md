@@ -98,7 +98,7 @@ Each cabal has exactly one czar. This is always initially the player who forms a
 
 <a name='13'/>
 
-## #13
+## #13 — Passed
 
 Move "Proposal content" to be the first subsection of "Proposals"
 
