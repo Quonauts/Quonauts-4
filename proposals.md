@@ -113,7 +113,7 @@ To become part of a cabal, a player must be appointed by the czar of the cabal. 
 
 <a name='15'/>
 
-## #15
+## #15 — Failed
 
 Append a new paragraph to the rule section “Proposal Content” that consists of the content between [start] and [end]:
 [start]Proposed rules may not target a specific player, but may target a specific Cabal. If a rule targets a specific Cabal, at least one player that is a member of the targeted Cable must vote for the proposal for it to pass, and at least one player outside of the cable must vote for it to pass.[end]
