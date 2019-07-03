@@ -28,7 +28,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				595128379783512074
+				596046093540655127
 			]
 		},
 		"channels": {
@@ -83,7 +83,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				595128405930934276
+				596046118195036160
 			]
 		},
 		"meta": {
@@ -138,17 +138,17 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				593911400271970304
+				596046069918466048
 			]
 		},
 		"proposal-content": {
 			"tag": "proposal-content",
 			"title": "Proposal content",
 			"content": "A proposal can describe any number of actions that make changes to the game rules or otherwise alter the game state.\n\nIf a proposal describes a modification to the rules, it must unambiguously specify the rule section(s) to be modified and how they will be modified. Text quoted between the outermost [start] and [end] symbols (brackets required; code tags optional) is to be interpreted literally. [start] and [end] symbols can be nested.\n\nIf a proposal describes the creation of a new rule section, it must specify its title, its location in relation to an existing one, and its content.",
-			"parent_tag": "root",
+			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				595128380588818432
+				596046068123172873
 			]
 		},
 		"proposal-modification": {
@@ -158,7 +158,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				595128379246641163
+				596046072082857994
 			]
 		},
 		"proposal-pass-fail": {
@@ -168,7 +168,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				593911400527822850
+				596046071151460356
 			]
 		},
 		"proposal-voting": {
@@ -178,7 +178,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				593911378096422923
+				596046068949450905
 			]
 		},
 		"proposals": {
@@ -187,6 +187,7 @@
 			"content": "Players may submit proposals by posting their proposal to the <#593807201194344455> game channel.\n\nThe first proposal is numbered #1 and each subsequent proposal's number is increased by 1. Unless otherwise stated in the game rules, deleted proposals retain their number.\n\nA proposal can describe any number of actions that make changes to the game rules or otherwise alter the game state.\n\nA proposal is either open or closed. When it is first submitted a proposal is open. A closed proposal is either passed or failed. When a player closes a proposal, they must either pass it or fail it.",
 			"parent_tag": "root",
 			"child_tags": [
+				"proposal-content",
 				"proposal-voting",
 				"proposal-closing",
 				"proposal-pass-fail",
@@ -219,7 +220,7 @@
 		"quantities": {
 			"tag": "quantities",
 			"title": "Quantities",
-			"content": "A quantity is a named property with a numerical value for each player.\n\nBy default any unique quantity added to the game:\n\n* applies to all players.\n* is instatiated at zero.\n* must always be an integer.\n* must never have a negative value.\n* cannot be traded or exchanged.\n\nExisting quantities:\n\n* **Strike**: The number of rule violations that a player has committed without punishment.",
+			"content": "A quantity is a named property with a numerical value for each player.\n\nBy default any unique quantity added to the game:\n\n* applies to all players.\n* is instatiated at zero.\n* must always be an integer.\n* must never have a negative value.\n* cannot be traded or exchanged.\n\nExisting quantities:\n\n* **Point**: A generic unit of score.\n* **Strike**: The number of rule violations that a player has committed without punishment.",
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
@@ -252,13 +253,12 @@
 				"polls",
 				"proposals",
 				"cabals",
-				"proposal-content",
 				"style",
 				"glossary"
 			],
 			"message_ids": [
-				595128406933241858,
-				595128428819382310
+				596046118601752593,
+				596046119386087444
 			]
 		},
 		"rule-offender-role": {
@@ -317,7 +317,7 @@
 				"style-formatting"
 			],
 			"message_ids": [
-				595128381738188800
+				596046094098497591
 			]
 		},
 		"style-content": {
@@ -327,7 +327,7 @@
 			"parent_tag": "style",
 			"child_tags": [],
 			"message_ids": [
-				595128382682038272
+				596046094673379341
 			]
 		},
 		"style-formatting": {
@@ -337,7 +337,7 @@
 			"parent_tag": "style",
 			"child_tags": [],
 			"message_ids": [
-				595128405310046219
+				596046117494587421
 			]
 		},
 		"style-headers-tags": {
@@ -347,7 +347,7 @@
 			"parent_tag": "style",
 			"child_tags": [],
 			"message_ids": [
-				595128404295155712
+				596046095419965450
 			]
 		},
 		"style-lists": {
@@ -357,7 +357,7 @@
 			"parent_tag": "style",
 			"child_tags": [],
 			"message_ids": [
-				595128404886552596
+				596046095780413441
 			]
 		}
 	}

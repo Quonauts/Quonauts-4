@@ -189,7 +189,7 @@
 			"n": 13,
 			"author": 216295379895844865,
 			"content": "Move \"Proposal content\" to be the first subsection of \"Proposals\"",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 595049545579102229,
 			"votes": {
 				"160279332454006795": 1,
@@ -442,6 +442,50 @@
 				"278708969583804416": -1
 			},
 			"timestamp": 1562164643
+		},
+		{
+			"n": 31,
+			"author": 216295379895844865,
+			"content": "Replace the sentence \"The player conducting ... see fit.\" in rule section \"Polls\" with \"The player conducting the poll may interpret other reactions to the poll as they see fit, except in formal polls, where reactions may only have meaning as specified in the rules.\"",
+			"status": "voting",
+			"message_id": 596048070345490492,
+			"votes": {
+				"216295379895844865": 1
+			},
+			"timestamp": 1562179333
+		},
+		{
+			"n": 32,
+			"author": 216295379895844865,
+			"content": "Append to rule section \"Polls\":\n\n`[start]`\nThe player that posted a poll may edit it freely, as long as such edits do not change the meaning/intent of any existing reactions to the poll.\n`[end]`",
+			"status": "voting",
+			"message_id": 596048215326064649,
+			"votes": {
+				"216295379895844865": 1
+			},
+			"timestamp": 1562179368
+		},
+		{
+			"n": 33,
+			"author": 216295379895844865,
+			"content": "Append the following paragraph to rule section \"Rule violations\":\n\n`[start]`\nA rule violation is \"resolved\" by reversing the immediate effects of that rule violation (not including any indirect effects permitted in reaction to the rule violation) to the extent that it is possible.\n`[end]`\n\nReplace the sentence \"If this is able ... may do so.\" in rule section \"Errors\" with \"If this player is resolve the error, they may do so.\"\n\nReplace the paragraph \"If a rule violation polls pass ... as quickly as possible.\" in rule section \"Rule violation polls\" with \"If a rule violation poll passes, then the accused player is now convicted of violating the rules as described in the poll and the rule violation must be resolved, if it has not already.\"\n\n(This proposal does not alter the effect/meaning of the game rules; it merely consolidates the idea of \"resolving\" a rule violation.)",
+			"status": "voting",
+			"message_id": 596049810029543434,
+			"votes": {
+				"216295379895844865": 1
+			},
+			"timestamp": 1562179748
+		},
+		{
+			"n": 34,
+			"author": 216295379895844865,
+			"content": "Append the following paragraph to rule section \"Errors\":\n\n`[start]`\nIf a player resolves an error within 24 hours of making that error, any rule violation poll for that error immediately fails. A rule violation poll may not begin after a player resolves an error; however, existing rule violation polls may continue if the error remained unresolved for 24 hours.\n`[end]`",
+			"status": "voting",
+			"message_id": 596050977308540935,
+			"votes": {
+				"216295379895844865": 1
+			},
+			"timestamp": 1562180026
 		}
 	]
 }
