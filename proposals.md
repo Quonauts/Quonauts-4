@@ -235,3 +235,13 @@ Append the following paragraph to rule section "Quantities":
 When a proposal establishes a new quantity, this rule section should be amended by inserting the new quantity into the above list, maintaining alphabetical order, along with a brief description.
 `[end]`
 
+<a name='36'/>
+
+## #36
+
+Append the following sentence to the last paragraph of the rule section "Cabals":
+
+`[start]`
+If the last player leaves a cabal, the cabal is disbanded is no longer exists.
+`[end]`
+
