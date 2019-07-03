@@ -21,18 +21,18 @@
 * [**5. Quantities**](#quantities)
 * [**6. Polls**](#polls)
 * [**7. Proposals**](#proposals)
-    * [**7.1. Voting on proposals**](#proposal-voting)
-    * [**7.2. Closing proposals**](#proposal-closing)
-    * [**7.3. Passing and failing proposals**](#proposal-pass-fail)
-    * [**7.4. Proposal modification**](#proposal-modification)
+    * [**7.1. Proposal content**](#proposal-content)
+    * [**7.2. Voting on proposals**](#proposal-voting)
+    * [**7.3. Closing proposals**](#proposal-closing)
+    * [**7.4. Passing and failing proposals**](#proposal-pass-fail)
+    * [**7.5. Proposal modification**](#proposal-modification)
 * [**8. Cabals**](#cabals)
-* [**9. Proposal content**](#proposal-content)
-* [**10. Style conventions**](#style)
-    * [**10.1. Content**](#style-content)
-    * [**10.2. Headers and tags**](#style-headers-tags)
-    * [**10.3. Lists**](#style-lists)
-    * [**10.4. Formatting**](#style-formatting)
-* [**11. Glossary**](#glossary)
+* [**9. Style conventions**](#style)
+    * [**9.1. Content**](#style-content)
+    * [**9.2. Headers and tags**](#style-headers-tags)
+    * [**9.3. Lists**](#style-lists)
+    * [**9.4. Formatting**](#style-formatting)
+* [**10. Glossary**](#glossary)
 
 ## <a name='meta'/> Meta rules
 
@@ -160,6 +160,14 @@ A proposal can describe any number of actions that make changes to the game rule
 
 A proposal is either open or closed. When it is first submitted a proposal is open. A closed proposal is either passed or failed. When a player closes a proposal, they must either pass it or fail it.
 
+### <a name='proposal-content'/> Proposal content
+
+A proposal can describe any number of actions that make changes to the game rules or otherwise alter the game state.
+
+If a proposal describes a modification to the rules, it must unambiguously specify the rule section(s) to be modified and how they will be modified. Text quoted between the outermost [start] and [end] symbols (brackets required; code tags optional) is to be interpreted literally. [start] and [end] symbols can be nested.
+
+If a proposal describes the creation of a new rule section, it must specify its title, its location in relation to an existing one, and its content.
+
 ### <a name='proposal-voting'/> Voting on proposals
 
 Each player may cast one vote on each open proposal.
@@ -190,14 +198,6 @@ A player may edit a proposal they have submitted if that proposal is open for vo
 
 A cabal is a group which consists of a number of one or more players. Any player may form a cabal by publically announcing its existence and the name of the cabal. The continued existence of a cabal must remain public knowledge.
 Each cabal has exactly one czar. This is always initially the player who forms a cabal is. A cabal's czar is responsible for defining the rules that govern its own membership, leadership, governance and disbandment.
-
-## <a name='proposal-content'/> Proposal content
-
-A proposal can describe any number of actions that make changes to the game rules or otherwise alter the game state.
-
-If a proposal describes a modification to the rules, it must unambiguously specify the rule section(s) to be modified and how they will be modified. Text quoted between the outermost [start] and [end] symbols (brackets required; code tags optional) is to be interpreted literally. [start] and [end] symbols can be nested.
-
-If a proposal describes the creation of a new rule section, it must specify its title, its location in relation to an existing one, and its content.
 
 ## <a name='style'/> Style conventions
 
