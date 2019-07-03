@@ -245,3 +245,13 @@ Append the following sentence to the last paragraph of the rule section "Cabals"
 If the last player leaves a cabal, the cabal is disbanded is no longer exists.
 `[end]`
 
+<a name='37'/>
+
+## #37
+
+Append the following paragraph to rule section "Channels":
+
+`[start]`
+Each subsection of this rule section corresponds to a game channel; as these subsections are created, removed, or reordered, game channels must be created/renamed/reordered accordingly.
+`[end]`
+
