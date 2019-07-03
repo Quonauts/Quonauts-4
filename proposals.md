@@ -199,3 +199,19 @@ Append to rule section "Polls":
 The player that posted a poll may edit it freely, as long as such edits do not change the meaning/intent of any existing reactions to the poll.
 `[end]`
 
+<a name='33'/>
+
+## #33
+
+Append the following paragraph to rule section "Rule violations":
+
+`[start]`
+A rule violation is "resolved" by reversing the immediate effects of that rule violation (not including any indirect effects permitted in reaction to the rule violation) to the extent that it is possible.
+`[end]`
+
+Replace the sentence "If this is able ... may do so." in rule section "Errors" with "If this player is resolve the error, they may do so."
+
+Replace the paragraph "If a rule violation polls pass ... as quickly as possible." in rule section "Rule violation polls" with "If a rule violation poll passes, then the accused player is now convicted of violating the rules as described in the poll and the rule violation must be resolved, if it has not already."
+
+(This proposal does not alter the effect/meaning of the game rules; it merely consolidates the idea of "resolving" a rule violation.)
+
