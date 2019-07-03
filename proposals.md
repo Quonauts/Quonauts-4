@@ -215,3 +215,13 @@ Replace the paragraph "If a rule violation polls pass ... as quickly as possible
 
 (This proposal does not alter the effect/meaning of the game rules; it merely consolidates the idea of "resolving" a rule violation.)
 
+<a name='34'/>
+
+## #34
+
+Append the following paragraph to rule section "Errors":
+
+`[start]`
+If a player resolves an error within 24 hours of making that error, any rule violation poll for that error immediately fails. A rule violation poll may not begin after a player resolves an error; however, existing rule violation polls may continue if the error remained unresolved for 24 hours.
+`[end]`
+
