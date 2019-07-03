@@ -255,3 +255,13 @@ Append the following paragraph to rule section "Channels":
 Each subsection of this rule section corresponds to a game channel; as these subsections are created, removed, or reordered, game channels must be created/renamed/reordered accordingly.
 `[end]`
 
+<a name='38'/>
+
+## #38
+
+Append a paragraph to "Style conventions":
+
+`[start]`
+Any player may edit the rules to conform to these style conventions; edits made this way must be otherwise minimal, and may not change the meaning of the rules.
+`[end]`
+
