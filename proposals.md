@@ -177,3 +177,9 @@ Append a new paragraph to the rule section “Proposal Content” that consists 
 Append a new paragraph to the rule section "Proposal Content" that consists of the content between [start] and [end]:
 [start] [end]
 
+<a name='30'/>
+
+## #30
+
+Everybody who votes for this proposal gains 43 points. Everybody who votes against this proposal gains 43 strikes.
+
