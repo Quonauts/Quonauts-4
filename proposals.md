@@ -104,7 +104,7 @@ Move "Proposal content" to be the first subsection of "Proposals"
 
 <a name='14'/>
 
-## #14
+## #14 — Passed
 
 Append a new paragraph to the rule section "Cabals" that consists of the content between `[start]` and `[end]`:
 [start]
