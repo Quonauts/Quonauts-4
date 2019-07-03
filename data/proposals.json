@@ -223,7 +223,7 @@
 			"n": 15,
 			"author": 271274710753476610,
 			"content": "Append a new paragraph to the rule section \u201cProposal Content\u201d that consists of the content between [start] and [end]:\n[start]Proposed rules may not target a specific player, but may target a specific Cabal. If a rule targets a specific Cabal, at least one player that is a member of the targeted Cable must vote for the proposal for it to pass, and at least one player outside of the cable must vote for it to pass.[end]",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 595117726565924864,
 			"votes": {
 				"160279332454006795": -1,
@@ -486,6 +486,41 @@
 				"216295379895844865": 1
 			},
 			"timestamp": 1562180026
+		},
+		{
+			"n": 35,
+			"author": 216295379895844865,
+			"content": "Append the following paragraph to rule section \"Quantities\":\n\n`[start]`\nWhen a proposal establishing a new quantity is passed, this rule section should be amended by inserting the new quantity into the above list, maintaining alphabetical order, along with a brief description. Similarly, if a quantity is renamed or removed, the above list should be modified accordingly.\n`[end]`",
+			"status": "voting",
+			"message_id": 596052906084401152,
+			"votes": {
+				"160279332454006795": 1,
+				"216295379895844865": 1
+			},
+			"timestamp": 1562180486
+		},
+		{
+			"n": 36,
+			"author": 216295379895844865,
+			"content": "Append the following sentence to the last paragraph of the rule section \"Cabals\":\n\n`[start]`\nIf the last player leaves a cabal, the cabal is disbanded is no longer exists.\n`[end]`",
+			"status": "voting",
+			"message_id": 596054434749087754,
+			"votes": {
+				"160279332454006795": -1,
+				"216295379895844865": 1
+			},
+			"timestamp": 1562180850
+		},
+		{
+			"n": 37,
+			"author": 216295379895844865,
+			"content": "Append the following paragraph to rule section \"Channels\":\n\n`[start]`\nEach subsection of this rule section corresponds to a game channel; as these subsections are created, removed, or reordered, game channels must be created/renamed/reordered accordingly.\n`[end]`",
+			"status": "voting",
+			"message_id": 596057227434131458,
+			"votes": {
+				"160279332454006795": 0
+			},
+			"timestamp": 1562181517
 		}
 	]
 }
