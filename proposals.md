@@ -232,7 +232,7 @@ If a player resolves an error within 24 hours of making that error, any rule vio
 Append the following paragraph to rule section "Quantities":
 
 `[start]`
-When a proposal establishes a new quantity, this rule section should be amended by inserting the new quantity into the above list, maintaining alphabetical order, along with a brief description.
+When a proposal establishing a new quantity is passed, this rule section should be amended by inserting the new quantity into the above list, maintaining alphabetical order, along with a brief description. Similarly, if a quantity is renamed or removed, the above list should be modified accordingly.
 `[end]`
 
 <a name='36'/>
