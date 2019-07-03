@@ -138,6 +138,7 @@ By default any unique quantity added to the game:
 
 Existing quantities:
 
+* **Point**: A generic unit of score.
 * **Strike**: The number of rule violations that a player has committed without punishment.
 
 ## <a name='polls'/> Polls
