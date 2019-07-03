@@ -262,6 +262,6 @@ Each subsection of this rule section corresponds to a game channel; as these sub
 Append a paragraph to "Style conventions":
 
 `[start]`
-Any player may edit the rules to conform to these style conventions; edits made this way must be otherwise minimal, and may not change the meaning of the rules.
+Any player may edit the rules to conform to these style conventions. Edits made this way must otherwise be minimal; i.e. they may not change wording or meaning.
 `[end]`
 
