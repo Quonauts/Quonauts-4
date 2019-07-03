@@ -189,3 +189,13 @@ Everybody who votes for this proposal gains 43 points. Everybody who votes again
 
 Replace the sentence "The player conducting ... see fit." in rule section "Polls" with "The player conducting the poll may interpret other reactions to the poll as they see fit, except in formal polls, where reactions may only have meaning as specified in the rules."
 
+<a name='32'/>
+
+## #32
+
+Append to rule section "Polls":
+
+`[start]`
+The player that posted a poll may edit it freely, as long as such edits do not change the meaning/intent of any existing reactions to the poll.
+`[end]`
+
