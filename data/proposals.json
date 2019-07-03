@@ -428,6 +428,18 @@
 				"556954927969075225": -1
 			},
 			"timestamp": 1562026873
+		},
+		{
+			"n": 30,
+			"author": 160279332454006795,
+			"content": "Everybody who votes for this proposal gains 43 points. Everybody who votes against this proposal gains 43 strikes.",
+			"status": "voting",
+			"message_id": 595986453838823437,
+			"votes": {
+				"160279332454006795": 1,
+				"278708969583804416": -1
+			},
+			"timestamp": 1562164643
 		}
 	]
 }
