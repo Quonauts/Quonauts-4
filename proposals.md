@@ -225,3 +225,13 @@ Append the following paragraph to rule section "Errors":
 If a player resolves an error within 24 hours of making that error, any rule violation poll for that error immediately fails. A rule violation poll may not begin after a player resolves an error; however, existing rule violation polls may continue if the error remained unresolved for 24 hours.
 `[end]`
 
+<a name='35'/>
+
+## #35
+
+Append the following paragraph to rule section "Quantities":
+
+`[start]`
+When a proposal establishes a new quantity, this rule section should be amended by inserting the new quantity into the above list, maintaining alphabetical order, along with a brief description.
+`[end]`
+
