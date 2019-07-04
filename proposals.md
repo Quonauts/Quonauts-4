@@ -305,7 +305,7 @@ A generic unit of score, which may be any nonnegative integer or decimal number.
 
 ## #43
 
-Remove the last period ([start].[end]) in the rule “Warp Drive” and replace it with the following text between [start] and [end]:
+Remove the last period ([start].[end]) in the rule â€œWarp Driveâ€ and replace it with the following text between [start] and [end]:
 
-[start], known as “Overdrive”.[end]
+[start], known as “Overdriving”[end]
 
