@@ -547,6 +547,28 @@
 				"271274710753476610": 1
 			},
 			"timestamp": 1562188393
+		},
+		{
+			"n": 39,
+			"author": 160279332454006795,
+			"content": "_ _",
+			"status": "deleted",
+			"message_id": 596344056473190400,
+			"votes": {
+				"160279332454006795": -1
+			},
+			"timestamp": 1562249902
+		},
+		{
+			"n": 40,
+			"author": 160279332454006795,
+			"content": "Add quantities \"x\" and \"y\"  to the game.\nAppend a paragraph to \"Quantities\":\n`[start]`\n**X**: Players X position.\n**Y**: Players Y position.\n`[end]`",
+			"status": "voting",
+			"message_id": 596345391167963146,
+			"votes": {
+				"160279332454006795": 1
+			},
+			"timestamp": 1562250220
 		}
 	]
 }
