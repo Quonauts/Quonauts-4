@@ -342,3 +342,16 @@ A proposals may state that it depends on other proposals. If a proposal's
 dependendencies fail, then the proposal dependent on them also fails.
 `[end]`
 
+<a name='47'/>
+
+## #47
+
+Append the following paragraph to the bottom of "Proposal content":
+
+`[start]`
+A proposals may amend an existing proposal. If a proposal A amends an existing
+proposal B, then the amendment has no effect if B fails. If A and B both pass,
+then the result of proposal B is undone or modified according to proposal A. The
+content of proposal B, however, does not change.
+`[end]`
+
