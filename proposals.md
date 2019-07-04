@@ -269,3 +269,14 @@ Any player may edit the rules to conform to these style conventions. Edits made 
 
 ## #39 — Deleted
 
+<a name='40'/>
+
+## #40
+
+Add quantities "x" and "y"  to the game.
+Append a paragraph to "Quantities":
+`[start]`
+**X**: Players X position.
+**Y**: Players Y position.
+`[end]`
+
