@@ -315,3 +315,19 @@ Remove the last period ([start].[end]) in the rule “Warp Drive” and replace 
 
 Append a zero-width space to every paragraph.
 
+<a name='45'/>
+
+## #45
+
+Append the following paragraph to the bottom of "Proposal content":
+
+`[start]`
+If multiple proposals describe the modification or addition of sections,
+paragraphs, or sentences to the same part of the rules, conflicts should be
+resolved based on the age of the proposal, such that the newer proposal's effect
+overrides the older one's. For example, if proposal #10 adds a new section "A"
+to the bottom of the rules, and proposal #11 adds a new section "B" to the
+bottom of the rules, and both proposals pass, then regardless of which proposal
+passed first, section "B" will appear below section "A" in the rules.
+`[end]`
+
