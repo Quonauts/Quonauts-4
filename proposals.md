@@ -301,3 +301,11 @@ Amend the description of the "point" quantity in rule section "Quantities" by re
 A generic unit of score, which may be any nonnegative integer or decimal number.
 `[end]`
 
+<a name='43'/>
+
+## #43
+
+Remove the last period ([start].[end]) in the rule “Warp Drive” and replace it with the following text between [start] and [end]:
+
+[start], known as “Overdrive”.[end]
+
