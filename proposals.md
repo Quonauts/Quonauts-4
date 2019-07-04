@@ -331,3 +331,14 @@ bottom of the rules, and both proposals pass, then regardless of which proposal
 passed first, section "B" will appear below section "A" in the rules.
 `[end]`
 
+<a name='46'/>
+
+## #46
+
+Append the following paragraph to the bottom of "Proposal content":
+
+`[start]`
+A proposals may state that it depends on other proposals. If a proposal's
+dependendencies fail, then the proposal dependent on them also fails.
+`[end]`
+
