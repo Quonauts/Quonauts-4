@@ -265,3 +265,9 @@ Append a paragraph to "Style conventions":
 Any player may edit the rules to conform to these style conventions. Edits made this way must otherwise be minimal; i.e. they may not change wording or meaning.
 `[end]`
 
+<a name='39'/>
+
+## #39
+
+_ _
+
