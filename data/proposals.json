@@ -416,7 +416,7 @@
 			"n": 29,
 			"author": 160279332454006795,
 			"content": "Append a new paragraph to the rule section \"Proposal Content\" that consists of the content between [start] and [end]:\n[start] [end]",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 595408604761161738,
 			"votes": {
 				"160279332454006795": 1,
@@ -440,7 +440,8 @@
 				"160279332454006795": 1,
 				"216295379895844865": -1,
 				"271274710753476610": -1,
-				"278708969583804416": -1
+				"278708969583804416": -1,
+				"556954927969075225": -1
 			},
 			"timestamp": 1562164643
 		},
