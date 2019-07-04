@@ -355,3 +355,12 @@ then the result of proposal B is undone or modified according to proposal A. The
 content of proposal B, however, does not change.
 `[end]`
 
+<a name='48'/>
+
+## #48
+
+Replace the text "the amount of spaces being x + y" in "Warp Drive" with:
+[start]
+the amount of spaces being sqrt(x^2+y^2) (the player can not move a non-integer amount!)
+[end]
+
