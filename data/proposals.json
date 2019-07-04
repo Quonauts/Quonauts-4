@@ -576,13 +576,38 @@
 		{
 			"n": 41,
 			"author": 271274710753476610,
-			"content": "Add the text between [start] and [end] as a new rule titled \u201cSectors\u201d at the end of the rules list:\n\n[start] A sector is the unique combination of a player\u2019s X and an Y quantity, which can be written like the following: \u201cSector X,Y\u201d\u009d, but also includes all possible combinations of X and Y quantity that are not currently held by a player. The entire set of all possible Sector positions is \u201cSpace\u201d \u009d[end]\n\nAdd the text between [start] and [end] as a new rule titled \u201cWarp Drive\u201d at the end of the rules list:\n[start]A player may at any time spend n points to receive a Warp Core (where n is the day of the month/3 rounded up). A Warp Core is a quantity which may be spent to traverse space. At any time, a player may spend one Warp Core, which allows them to modify their sector position as they desire up to four spaces (the amount of spaces being x + y, and effectively changing their X and Y quantities). Also, upon using a warp core, a player may spend 1 point to move 8 spaces instead.[end]",
+			"content": "Add the text between [start] and [end] as a new rule titled \u201cSectors\u201d at the end of the rules list:\n\n[start] A \"sector\" is any unique integer combination of X and Y, written as \"sector <x>, <y>\u201d. The set of all sectors is \"space.\"[end]\n\nAdd the text between [start] and [end] as a new rule titled \u201cWarp Drive\u201d at the end of the rules list:\n[start]A player may at any time spend n points to receive a Warp Core (where n is the day of the month/3 rounded up). A Warp Core is a quantity which may be spent to traverse space. At any time, a player may spend one Warp Core, which allows them to modify their sector position as they desire up to four spaces (the amount of spaces being x + y, and effectively changing their X and Y quantities). Also, upon using a warp core, a player may spend 1 point to move 8 spaces instead.[end]",
 			"status": "voting",
 			"message_id": 596391563622613013,
 			"votes": {
-				"271274710753476610": 1
+				"271274710753476610": 1,
+				"512645502253400064": 1
 			},
 			"timestamp": 1562261229
+		},
+		{
+			"n": 42,
+			"author": 216295379895844865,
+			"content": "Amend the description of the \"point\" quantity in rule section \"Quantities\" by replacing it with the following:\n\n`[start]`\nA generic unit of score, which may be any nonnegative integer or decimal number.\n`[end]`",
+			"status": "voting",
+			"message_id": 596401749561180197,
+			"votes": {
+				"271274710753476610": 1,
+				"512645502253400064": 1
+			},
+			"timestamp": 1562263657
+		},
+		{
+			"n": 43,
+			"author": 271274710753476610,
+			"content": "Remove the last period ([start].[end]) in the rule \u201cWarp Drive\u201d and replace it with the following text between [start] and [end]:\n\n[start], known as \u201cOverdriving\u201d.[end]",
+			"status": "voting",
+			"message_id": 596402894471823482,
+			"votes": {
+				"271274710753476610": 1,
+				"512645502253400064": 1
+			},
+			"timestamp": 1562263930
 		}
 	]
 }
