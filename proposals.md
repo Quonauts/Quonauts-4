@@ -364,3 +364,13 @@ Replace the text "the amount of spaces being x + y" in "Warp Drive" with:
 the amount of spaces being sqrt(x^2+y^2) (the player can not move a non-integer amount!)
 [end]
 
+<a name='49'/>
+
+## #49
+
+Append the following paragraph to the bottom of "Closing proposals":
+
+`[start]`
+Unless otherwise specified in the given proposal, proposals never apply retroactively; i.e., they do not affect proposals, polls, or game actions posted, begun, or carried out before their passing.
+`[end]`
+
