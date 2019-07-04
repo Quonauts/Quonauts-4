@@ -172,7 +172,7 @@ Append a new paragraph to the rule section “Proposal Content” that consists 
 
 <a name='29'/>
 
-## #29
+## #29 — Failed
 
 Append a new paragraph to the rule section "Proposal Content" that consists of the content between [start] and [end]:
 [start] [end]
