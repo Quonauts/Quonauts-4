@@ -286,7 +286,7 @@ Append a paragraph to "Quantities":
 
 Add the text between [start] and [end] as a new rule titled “Sectors” at the end of the rules list:
 
-[start] A sector is the unique combination of any possible X and Y quantities, which can be written like the following: “Sector X,Y”. The entire set of all possible Sector positions is “Space” [end]
+[start] A "sector" is any unique integer combination of X and Y, written as "sector <x>, <y>”. The set of all sectors is "space."[end]
 
 Add the text between [start] and [end] as a new rule titled “Warp Drive” at the end of the rules list:
 [start]A player may at any time spend n points to receive a Warp Core (where n is the day of the month/3 rounded up). A Warp Core is a quantity which may be spent to traverse space. At any time, a player may spend one Warp Core, which allows them to modify their sector position as they desire up to four spaces (the amount of spaces being x + y, and effectively changing their X and Y quantities). Also, upon using a warp core, a player may spend 1 point to move 8 spaces instead.[end]
