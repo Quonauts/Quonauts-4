@@ -580,6 +580,7 @@
 			"status": "voting",
 			"message_id": 596391563622613013,
 			"votes": {
+				"160279332454006795": 1,
 				"271274710753476610": 1,
 				"512645502253400064": 1
 			},
@@ -605,6 +606,7 @@
 			"status": "voting",
 			"message_id": 596402894471823482,
 			"votes": {
+				"160279332454006795": 0,
 				"216295379895844865": 1,
 				"271274710753476610": 1,
 				"512645502253400064": 1
@@ -623,6 +625,53 @@
 				"278708969583804416": -1
 			},
 			"timestamp": 1562267424
+		},
+		{
+			"n": 45,
+			"author": 216295379895844865,
+			"content": "Append the following paragraph to the bottom of \"Proposal content\":\n\n`[start]`\nIf multiple proposals describe the modification or addition of sections,\nparagraphs, or sentences to the same part of the rules, conflicts should be\nresolved based on the age of the proposal, such that the newer proposal's effect\noverrides the older one's. For example, if proposal #10 adds a new section \"A\"\nto the bottom of the rules, and proposal #11 adds a new section \"B\" to the\nbottom of the rules, and both proposals pass, then regardless of which proposal\npassed first, section \"B\" will appear below section \"A\" in the rules.\n`[end]`",
+			"status": "voting",
+			"message_id": 596422848017334319,
+			"votes": {
+				"216295379895844865": 1,
+				"512645502253400064": 1
+			},
+			"timestamp": 1562268687
+		},
+		{
+			"n": 46,
+			"author": 216295379895844865,
+			"content": "Append the following paragraph to the bottom of \"Proposal content\":\n\n`[start]`\nA proposals may state that it depends on other proposals. If a proposal's\ndependendencies fail, then the proposal dependent on them also fails.\n`[end]`",
+			"status": "voting",
+			"message_id": 596422871371218947,
+			"votes": {
+				"216295379895844865": 1,
+				"512645502253400064": 1
+			},
+			"timestamp": 1562268693
+		},
+		{
+			"n": 47,
+			"author": 216295379895844865,
+			"content": "Append the following paragraph to the bottom of \"Proposal content\":\n\n`[start]`\nA proposals may amend an existing proposal. If a proposal A amends an existing\nproposal B, then the amendment has no effect if B fails. If A and B both pass,\nthen the result of proposal B is undone or modified according to proposal A. The\ncontent of proposal B, however, does not change.\n`[end]`",
+			"status": "voting",
+			"message_id": 596422892007456768,
+			"votes": {
+				"216295379895844865": 1
+			},
+			"timestamp": 1562268698
+		},
+		{
+			"n": 48,
+			"author": 160279332454006795,
+			"content": "Replace the text \"the amount of spaces being x + y\" in \"Warp Drive\" with:\n[start]\nthe amount of spaces being sqrt(x^2+y^2) (the player can not move a non-integer amount!)\n[end]",
+			"status": "voting",
+			"message_id": 596424505237176330,
+			"votes": {
+				"160279332454006795": 1,
+				"216295379895844865": -1
+			},
+			"timestamp": 1562269082
 		}
 	]
 }
