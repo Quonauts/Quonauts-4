@@ -267,7 +267,5 @@ Any player may edit the rules to conform to these style conventions. Edits made 
 
 <a name='39'/>
 
-## #39
-
-_ _
+## #39 — Deleted
 
