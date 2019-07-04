@@ -291,3 +291,13 @@ Add the text between [start] and [end] as a new rule titled “Sectors” at the
 Add the text between [start] and [end] as a new rule titled “Warp Drive” at the end of the rules list:
 [start]A player may at any time spend n points to receive a Warp Core (where n is the day of the month/3 rounded up). A Warp Core is a quantity which may be spent to traverse space. At any time, a player may spend one Warp Core, which allows them to modify their sector position as they desire up to four spaces (the amount of spaces being x + y, and effectively changing their X and Y quantities). Also, upon using a warp core, a player may spend 1 point to move 8 spaces instead.[end]
 
+<a name='42'/>
+
+## #42
+
+Amend the description of the "point" quantity in rule section "Quantities" by replacing it with the following:
+
+`[start]`
+A generic unit of score, which may be any nonnegative integer or decimal number.
+`[end]`
+
