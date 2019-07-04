@@ -540,7 +540,9 @@
 			"content": "Append a paragraph to \"Style conventions\":\n\n`[start]`\nAny player may edit the rules to conform to these style conventions. Edits made this way must otherwise be minimal; i.e. they may not change wording or meaning.\n`[end]`",
 			"status": "voting",
 			"message_id": 596086080080707584,
-			"votes": {},
+			"votes": {
+				"271274710753476610": 1
+			},
 			"timestamp": 1562188393
 		}
 	]
