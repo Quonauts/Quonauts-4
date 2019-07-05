@@ -695,6 +695,7 @@
 			"status": "voting",
 			"message_id": 596460134931365899,
 			"votes": {
+				"160279332454006795": 0,
 				"216295379895844865": 1,
 				"271274710753476610": 1,
 				"278708969583804416": 1,
@@ -702,6 +703,17 @@
 				"512645502253400064": 1
 			},
 			"timestamp": 1562277577
+		},
+		{
+			"n": 50,
+			"author": 160279332454006795,
+			"content": "Append the following paragraph to the bottom of \"Closing proposals\":\n`[start]`\nIf over 5 users have voted on a proposal, and the amount of for votes is equal to against votes, the proposal will be deleted and immediatley re-proposed (moved to the bottom of the channel, effectively).\nThis can happen up to 2 times per proposal.\n`[end]`",
+			"status": "voting",
+			"message_id": 596692176772136979,
+			"votes": {
+				"271274710753476610": 0
+			},
+			"timestamp": 1562332900
 		}
 	]
 }
