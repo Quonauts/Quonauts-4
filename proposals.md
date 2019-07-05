@@ -374,3 +374,13 @@ Append the following paragraph to the bottom of "Closing proposals":
 Unless otherwise specified in the given proposal, proposals never apply retroactively; i.e., they do not affect proposals, polls, or game actions posted, begun, or carried out before their passing.
 `[end]`
 
+<a name='50'/>
+
+## #50
+
+Append the following paragraph to the bottom of "Closing proposals":
+`[start]`
+If over 5 users have voted on a proposal, and the amount of for votes is equal to against votes, the proposal will be deleted and immediatley re-proposed (moved to the bottom of the channel, effectively).
+This can happen up to 2 times per proposal.
+`[end]`
+
