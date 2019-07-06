@@ -54,6 +54,8 @@ Unless explicitly stated in the rules, all game actions are forbidden.
 
 A rule violation is a game action that is not permitted by the rules.
 
+A rule violation is "resolved" by reversing the immediate effects of that rule violation (not including any indirect effects permitted in reaction to the rule violation) to the extent that it is possible.
+
 #### <a name='errors'/> Errors
 
 An error is a rule violation made by a player either mistakenly or through ignorance. If this player is able to alter the game state so that it is as it would be if the error had never occurred, they may do so.
