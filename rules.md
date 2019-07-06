@@ -218,6 +218,8 @@ If the last player leaves a cabal, the cabal is disbanded is no longer exists.
 
 This section and its subsections describe grammatical conventions used throughout this ruleset.
 
+Any player may edit the rules to conform to these style conventions. Edits made this way must otherwise be minimal; i.e. they may not change wording or meaning.
+
 ### <a name='style-content'/> Content
 
 * All rules should be written in English using proper English grammar and spelling. American and British English spelling are both acceptable.
