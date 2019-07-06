@@ -863,9 +863,21 @@
 			"status": "voting",
 			"message_id": 597087375960702977,
 			"votes": {
+				"160279332454006795": 0,
 				"216295379895844865": 1
 			},
 			"timestamp": 1562427123
+		},
+		{
+			"n": 61,
+			"author": 160279332454006795,
+			"content": "Append the following content to \"Closing Proposals\":\n[start]\nRemoving votes from, or adding votes to a proposal awaiting closure is against the rules.\n[end]",
+			"status": "voting",
+			"message_id": 597139037517774864,
+			"votes": {
+				"160279332454006795": 1
+			},
+			"timestamp": 1562439440
 		}
 	]
 }
