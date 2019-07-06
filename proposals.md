@@ -201,7 +201,7 @@ The player that posted a poll may edit it freely, as long as such edits do not c
 
 <a name='33'/>
 
-## #33
+## #33 — Passed
 
 Append the following paragraph to rule section "Rule violations":
 
