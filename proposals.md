@@ -179,7 +179,7 @@ Append a new paragraph to the rule section "Proposal Content" that consists of t
 
 <a name='30'/>
 
-## #30
+## #30 — Failed
 
 Everybody who votes for this proposal gains 43 points. Everybody who votes against this proposal gains 43 strikes.
 
