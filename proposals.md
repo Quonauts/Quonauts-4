@@ -443,3 +443,13 @@ Replace the first paragraph of rule section "Closing proposals" with the followi
 Any player may close an open proposal 48 hours (2 days) after it is submitted, unless that proposal has the same number of votes in favour as votes against; then that proposal may not be closed until it is 96 hours (4 days) old.
 `[end]`
 
+<a name='58'/>
+
+## #58
+
+Append the following paragraph to the bottom of "Proposal content":
+
+`[start]`
+A proposal may also state anti-dependecies, in which case the anti-dependent proposal will fail if any proposal it is anti-dependent on is passed.
+`[end]`
+
