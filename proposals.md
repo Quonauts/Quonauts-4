@@ -425,3 +425,11 @@ Insert the following as the final element in the bulletted list in rule section 
 
 Replace "is disbanded is no longer exists." in rule section "Cabals" with "is disbanded and no longer exists."
 
+<a name='56'/>
+
+## #56
+
+Replace "describe grammatical conventions" in "Style conventions" with "describe grammatical and stylistic conventions"
+
+(That seems more accurate to me.)
+
