@@ -227,7 +227,7 @@ If a player resolves an error within 24 hours of making that error, any rule vio
 
 <a name='35'/>
 
-## #35
+## #35 — Passed
 
 Append the following paragraph to rule section "Quantities":
 
