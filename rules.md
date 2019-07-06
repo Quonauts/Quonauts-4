@@ -60,6 +60,8 @@ A rule violation is "resolved" by reversing the immediate effects of that rule v
 
 An error is a rule violation made by a player either mistakenly or through ignorance. If this player is resolve the error, they may do so.
 
+If a player resolves an error within 24 hours of making that error, any rule violation poll for that error immediately fails. A rule violation poll may not begin after a player resolves an error; however, existing rule violation polls may continue if the error remained unresolved for 24 hours.
+
 #### <a name='rule-violation-polls'/> Rule violation polls
 
 If any player (hereby "the accusing player") believes that another player (hereby "the accused player") has violated the rules, then the accusing player may conduct a majority poll (called a "rule violation poll") to determine whether the accused player has violated the rules.
