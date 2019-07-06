@@ -271,7 +271,7 @@ Any player may edit the rules to conform to these style conventions. Edits made 
 
 <a name='40'/>
 
-## #40
+## #40 — Passed
 
 Add quantities "x" and "y"  to the game.
 Append a paragraph to "Quantities":
