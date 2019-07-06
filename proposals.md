@@ -237,7 +237,7 @@ When a proposal establishing a new quantity is passed, this rule section should 
 
 <a name='36'/>
 
-## #36
+## #36 — Passed
 
 Append the following sentence to the last paragraph of the rule section "Cabals":
 
