@@ -149,7 +149,7 @@ Players may vote in favor of a poll by reacting to the poll with 👍.
 
 Players may vote against a poll by reacting to the poll with 👎.
 
-Players may use any reaction they wish to respond to a poll. The player conducting the poll may interpret other reactions to the poll as they see fit.
+Players may use any reaction they wish to respond to a poll. The player conducting the poll may interpret other reactions to the poll as they see fit, except in formal polls, where reactions may only have meaning as specified in the rules.
 
 ## <a name='proposals'/> Proposals
 
