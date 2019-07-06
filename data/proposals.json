@@ -799,6 +799,17 @@
 				"216295379895844865": 1
 			},
 			"timestamp": 1562381521
+		},
+		{
+			"n": 57,
+			"author": 216295379895844865,
+			"content": "Replace the first paragraph of rule section \"Closing proposals\" with the following:\n\n`[start]`\nAny player may close an open proposal 48 hours (2 days) after it is submitted, unless that proposal has the same number of votes in favour as votes against; then that proposal may not be closed until it is 96 hours (4 days) old.\n`[end]`",
+			"status": "voting",
+			"message_id": 596898819761766410,
+			"votes": {
+				"216295379895844865": 1
+			},
+			"timestamp": 1562382168
 		}
 	]
 }
