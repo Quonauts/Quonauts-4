@@ -185,7 +185,7 @@ Everybody who votes for this proposal gains 43 points. Everybody who votes again
 
 <a name='31'/>
 
-## #31
+## #31 — Passed
 
 Replace the sentence "The player conducting ... see fit." in rule section "Polls" with "The player conducting the poll may interpret other reactions to the poll as they see fit, except in formal polls, where reactions may only have meaning as specified in the rules."
 
