@@ -104,7 +104,7 @@
 		"polls": {
 			"tag": "polls",
 			"title": "Polls",
-			"content": "A poll is a means of gathering the opinions of players on an issue. Players may conduct a poll by providing any necessary detail and posing a question in the <#593807379360120877> game channel.\n\nPlayers may vote in favor of a poll by reacting to the poll with \ud83d\udc4d.\n\nPlayers may vote against a poll by reacting to the poll with \ud83d\udc4e.\n\nPlayers may use any reaction they wish to respond to a poll. The player conducting the poll may interpret other reactions to the poll as they see fit.",
+			"content": "A poll is a means of gathering the opinions of players on an issue. Players may conduct a poll by providing any necessary detail and posing a question in the <#593807379360120877> game channel.\n\nPlayers may vote in favor of a poll by reacting to the poll with \ud83d\udc4d.\n\nPlayers may vote against a poll by reacting to the poll with \ud83d\udc4e.\n\nPlayers may use any reaction they wish to respond to a poll. The player conducting the poll may interpret other reactions to the poll as they see fit, except in formal polls, where reactions may only have meaning as specified in the rules.\n\nThe player that posted a poll may edit it freely, as long as such edits do not change the meaning/intent of any existing reactions to the poll.",
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [

@@ -449,7 +449,7 @@
 			"n": 31,
 			"author": 216295379895844865,
 			"content": "Replace the sentence \"The player conducting ... see fit.\" in rule section \"Polls\" with \"The player conducting the poll may interpret other reactions to the poll as they see fit, except in formal polls, where reactions may only have meaning as specified in the rules.\"",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 596048070345490492,
 			"votes": {
 				"216295379895844865": 1,
@@ -463,7 +463,7 @@
 			"n": 32,
 			"author": 216295379895844865,
 			"content": "Append to rule section \"Polls\":\n\n`[start]`\nThe player that posted a poll may edit it freely, as long as such edits do not change the meaning/intent of any existing reactions to the poll.\n`[end]`",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 596048215326064649,
 			"votes": {
 				"216295379895844865": 1,
