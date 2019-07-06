@@ -210,6 +210,8 @@ Each cabal has exactly one czar. This is always initially the player who forms a
 
 To become part of a cabal, a player must be appointed by the czar of the cabal. Members of a cabal may leave at any time. If the czar of a cabal with more than 1 player wishes to leave, they must choose a new member of the cabal to be czar.
 
+If the last player leaves a cabal, the cabal is disbanded is no longer exists.
+
 ## <a name='style'/> Style conventions
 
 This section and its subsections describe grammatical conventions used throughout this ruleset.
