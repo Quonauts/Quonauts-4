@@ -465,3 +465,12 @@ Remove the "Cabals" section.
 
 Amend proposal #58: replace "anti-dependencies" with "incompatible proposals", replace "anti-dependent proposal" with "later proposal", and replace "proposal it is anti-dependent on" with "incompatible proposal".
 
+<a name='61'/>
+
+## #61
+
+Append the following content to "Closing Proposals":
+[start]
+Removing votes from, or adding votes to a proposal awaiting closure is against the rules.
+[end]
+
