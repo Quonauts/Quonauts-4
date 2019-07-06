@@ -58,7 +58,7 @@ A rule violation is "resolved" by reversing the immediate effects of that rule v
 
 #### <a name='errors'/> Errors
 
-An error is a rule violation made by a player either mistakenly or through ignorance. If this player is able to alter the game state so that it is as it would be if the error had never occurred, they may do so.
+An error is a rule violation made by a player either mistakenly or through ignorance. If this player is resolve the error, they may do so.
 
 #### <a name='rule-violation-polls'/> Rule violation polls
 
