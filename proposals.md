@@ -409,3 +409,13 @@ Insert the following as the second element in the bulletted list in rule section
 
 Additionally, amend any existing uses of gendered "he/him/his" or "she/her/hers" in proposals and rules to "they/them/their."
 
+<a name='54'/>
+
+## #54
+
+Insert the following as the final element in the bulletted list in rule section "Content":
+
+`[start]`
+* Double quotes should be preferred instead of single quotes. ASCII-compatible straight quotes should be used instead of ["smart" quotes](https://www.cl.cam.ac.uk/~mgk25/ucs/quotes.html).
+`[end]`
+
