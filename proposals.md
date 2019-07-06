@@ -453,3 +453,9 @@ Append the following paragraph to the bottom of "Proposal content":
 A proposal may also state anti-dependecies, in which case the anti-dependent proposal will fail if any proposal it is anti-dependent on is passed.
 `[end]`
 
+<a name='59'/>
+
+## #59
+
+Remove the "Cabals" section.
+
