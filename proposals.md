@@ -463,5 +463,5 @@ Remove the "Cabals" section.
 
 ## #60
 
-Amend proposal #58: replace "anti-dependencies" with "incompatible proposals" and replace "proposal it is anti-dependent on" with "incompatible proposal".
+Amend proposal #58: replace "anti-dependencies" with "incompatible proposals", replace "anti-dependent proposal" with "later proposal", and replace "proposal it is anti-dependent on" with "incompatible proposal".
 
