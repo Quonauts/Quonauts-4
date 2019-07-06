@@ -96,6 +96,8 @@ Certain game functions may be performed automatically by automated "bots;" the b
 
 The game rules govern only messages and reactions in the GAME CHANNELS category of the Discord server.
 
+Each subsection of this rule section corresponds to a game channel; as these subsections are created, removed, or reordered, game channels must be created/renamed/reordered accordingly.
+
 ### <a name='general-channel'/> #general
 
 Players may converse freely in the <#593807344979148800> channel.
