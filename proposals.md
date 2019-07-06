@@ -257,7 +257,7 @@ Each subsection of this rule section corresponds to a game channel; as these sub
 
 <a name='38'/>
 
-## #38
+## #38 — Passed
 
 Append a paragraph to "Style conventions":
 
