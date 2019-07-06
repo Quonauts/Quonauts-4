@@ -74,7 +74,7 @@ For any potential rule violation, only one rule violation poll may be conducted.
 
 A rule violation poll may not be started more than 7 days after the potential rule violation.
 
-If a rule violation poll passes, then the accused player is now convicted of violating the rules as described in the poll. The effects of the rule violation must be reversed to the extent it is possible to do so as quickly as possible.
+If a rule violation poll passes, then the accused player is now convicted of violating the rules as described in the poll and the rule violation must be resolved, if it has not already.
 
 #### <a name='punitive-action'/> Punitive action
 
