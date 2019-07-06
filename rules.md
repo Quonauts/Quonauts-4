@@ -145,6 +145,8 @@ Existing quantities:
 * **Point**: A generic unit of score.
 * **Strike**: The number of rule violations that a player has committed without punishment.
 
+When a proposal establishing a new quantity is passed, this rule section should be amended by inserting the new quantity into the above list, maintaining alphabetical order, along with a brief description. Similarly, if a quantity is renamed or removed, the above list should be modified accordingly.
+
 ## <a name='polls'/> Polls
 
 A poll is a means of gathering the opinions of players on an issue. Players may conduct a poll by providing any necessary detail and posing a question in the <#593807379360120877> game channel.
