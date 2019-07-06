@@ -825,6 +825,17 @@
 				"556954927969075225": -1
 			},
 			"timestamp": 1562382168
+		},
+		{
+			"n": 58,
+			"author": 271274710753476610,
+			"content": "Append the following paragraph to the bottom of \"Proposal content\":\n\n`[start]`\nA proposal may also state anti-dependecies, in which case the anti-dependent proposal will fail if any proposal it is anti-dependent on is passed.\n`[end]`",
+			"status": "voting",
+			"message_id": 597043175424655394,
+			"votes": {
+				"271274710753476610": 1
+			},
+			"timestamp": 1562416585
 		}
 	]
 }
