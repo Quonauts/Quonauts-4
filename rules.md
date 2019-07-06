@@ -151,6 +151,8 @@ Players may vote against a poll by reacting to the poll with 👎.
 
 Players may use any reaction they wish to respond to a poll. The player conducting the poll may interpret other reactions to the poll as they see fit, except in formal polls, where reactions may only have meaning as specified in the rules.
 
+The player that posted a poll may edit it freely, as long as such edits do not change the meaning/intent of any existing reactions to the poll.
+
 ## <a name='proposals'/> Proposals
 
 Players may submit proposals by posting their proposal to the <#593807201194344455> game channel.
