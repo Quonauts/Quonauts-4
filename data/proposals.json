@@ -477,7 +477,7 @@
 			"n": 33,
 			"author": 216295379895844865,
 			"content": "Append the following paragraph to rule section \"Rule violations\":\n\n`[start]`\nA rule violation is \"resolved\" by reversing the immediate effects of that rule violation (not including any indirect effects permitted in reaction to the rule violation) to the extent that it is possible.\n`[end]`\n\nReplace the sentence \"If this is able ... may do so.\" in rule section \"Errors\" with \"If this player is resolve the error, they may do so.\"\n\nReplace the paragraph \"If a rule violation polls pass ... as quickly as possible.\" in rule section \"Rule violation polls\" with \"If a rule violation poll passes, then the accused player is now convicted of violating the rules as described in the poll and the rule violation must be resolved, if it has not already.\"\n\n(This proposal does not alter the effect/meaning of the game rules; it merely consolidates the idea of \"resolving\" a rule violation.)",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 596049810029543434,
 			"votes": {
 				"216295379895844865": 1,
@@ -490,7 +490,7 @@
 			"n": 34,
 			"author": 216295379895844865,
 			"content": "Append the following paragraph to rule section \"Errors\":\n\n`[start]`\nIf a player resolves an error within 24 hours of making that error, any rule violation poll for that error immediately fails. A rule violation poll may not begin after a player resolves an error; however, existing rule violation polls may continue if the error remained unresolved for 24 hours.\n`[end]`",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 596050977308540935,
 			"votes": {
 				"216295379895844865": 1,
@@ -503,7 +503,7 @@
 			"n": 35,
 			"author": 216295379895844865,
 			"content": "Append the following paragraph to rule section \"Quantities\":\n\n`[start]`\nWhen a proposal establishing a new quantity is passed, this rule section should be amended by inserting the new quantity into the above list, maintaining alphabetical order, along with a brief description. Similarly, if a quantity is renamed or removed, the above list should be modified accordingly.\n`[end]`",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 596052906084401152,
 			"votes": {
 				"160279332454006795": 1,
@@ -517,7 +517,7 @@
 			"n": 36,
 			"author": 216295379895844865,
 			"content": "Append the following sentence to the last paragraph of the rule section \"Cabals\":\n\n`[start]`\nIf the last player leaves a cabal, the cabal is disbanded is no longer exists.\n`[end]`",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 596054434749087754,
 			"votes": {
 				"160279332454006795": -1,
@@ -532,7 +532,7 @@
 			"n": 37,
 			"author": 216295379895844865,
 			"content": "Append the following paragraph to rule section \"Channels\":\n\n`[start]`\nEach subsection of this rule section corresponds to a game channel; as these subsections are created, removed, or reordered, game channels must be created/renamed/reordered accordingly.\n`[end]`",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 596057227434131458,
 			"votes": {
 				"160279332454006795": 0,
@@ -546,7 +546,7 @@
 			"n": 38,
 			"author": 216295379895844865,
 			"content": "Append a paragraph to \"Style conventions\":\n\n`[start]`\nAny player may edit the rules to conform to these style conventions. Edits made this way must otherwise be minimal; i.e. they may not change wording or meaning.\n`[end]`",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 596086080080707584,
 			"votes": {
 				"160279332454006795": 1,
@@ -750,6 +750,7 @@
 			"status": "voting",
 			"message_id": 596880121718243344,
 			"votes": {
+				"216295379895844865": 0,
 				"271274710753476610": 1
 			},
 			"timestamp": 1562377710
@@ -776,6 +777,28 @@
 				"216295379895844865": 1
 			},
 			"timestamp": 1562378441
+		},
+		{
+			"n": 55,
+			"author": 216295379895844865,
+			"content": "Replace \"is disbanded is no longer exists.\" in rule section \"Cabals\" with \"is disbanded and no longer exists.\"",
+			"status": "voting",
+			"message_id": 596895107379363840,
+			"votes": {
+				"216295379895844865": 1
+			},
+			"timestamp": 1562381283
+		},
+		{
+			"n": 56,
+			"author": 216295379895844865,
+			"content": "Replace \"describe grammatical conventions\" in \"Style conventions\" with \"describe grammatical and stylistic conventions\"\n\n(That seems more accurate to me.)",
+			"status": "voting",
+			"message_id": 596896107473403908,
+			"votes": {
+				"216295379895844865": 1
+			},
+			"timestamp": 1562381521
 		}
 	]
 }
