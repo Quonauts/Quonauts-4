@@ -247,7 +247,7 @@ If the last player leaves a cabal, the cabal is disbanded is no longer exists.
 
 <a name='37'/>
 
-## #37
+## #37 — Passed
 
 Append the following paragraph to rule section "Channels":
 
