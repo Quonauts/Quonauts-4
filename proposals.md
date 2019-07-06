@@ -191,7 +191,7 @@ Replace the sentence "The player conducting ... see fit." in rule section "Polls
 
 <a name='32'/>
 
-## #32
+## #32 — Passed
 
 Append to rule section "Polls":
 
