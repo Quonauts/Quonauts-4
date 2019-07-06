@@ -433,3 +433,13 @@ Replace "describe grammatical conventions" in "Style conventions" with "describe
 
 (That seems more accurate to me.)
 
+<a name='57'/>
+
+## #57
+
+Replace the first paragraph of rule section "Closing proposals" with the following:
+
+`[start]`
+Any player may close an open proposal 48 hours (2 days) after it is submitted, unless that proposal has the same number of votes in favour as votes against; then that proposal may not be closed until it is 96 hours (4 days) old.
+`[end]`
+
