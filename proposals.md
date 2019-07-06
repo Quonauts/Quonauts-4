@@ -419,3 +419,9 @@ Insert the following as the final element in the bulletted list in rule section 
 * Double quotes should be preferred instead of single quotes. ASCII-compatible straight quotes should be used instead of ["smart" quotes](https://www.cl.cam.ac.uk/~mgk25/ucs/quotes.html).
 `[end]`
 
+<a name='55'/>
+
+## #55
+
+Replace "is disbanded is no longer exists." in rule section "Cabals" with "is disbanded and no longer exists."
+
