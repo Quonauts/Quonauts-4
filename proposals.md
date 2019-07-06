@@ -459,3 +459,9 @@ A proposal may also state anti-dependecies, in which case the anti-dependent pro
 
 Remove the "Cabals" section.
 
+<a name='60'/>
+
+## #60
+
+Amend proposal #58: replace "anti-dependencies" with "incompatible proposals" and replace "proposal it is anti-dependent on" with "incompatible proposal".
+
