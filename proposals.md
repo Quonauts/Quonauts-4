@@ -217,7 +217,7 @@ Replace the paragraph "If a rule violation polls pass ... as quickly as possible
 
 <a name='34'/>
 
-## #34
+## #34 — Passed
 
 Append the following paragraph to rule section "Errors":
 
