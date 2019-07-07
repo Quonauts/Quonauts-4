@@ -366,7 +366,7 @@ the amount of spaces being sqrt(x^2+y^2) (the player can not move a non-integer 
 
 <a name='49'/>
 
-## #49
+## #49 — Passed
 
 Append the following paragraph to the bottom of "Closing proposals":
 
