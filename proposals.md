@@ -535,3 +535,11 @@ Add a rule sub section to the Agents rule section entitled "Agent operations" wi
 Each agent may perform an operation only if they have not done so in 24 hours.
 Available agent operations are only those that are explicitly allowed by the game rules."
 
+<a name='69'/>
+
+## #69
+
+This proposal edits rule section 8.Cabals.
+
+Change the title of the rule section 8.Cabals to 8.Alliances and Changes all  phrases "a cabal" to "a alliance", the words "cabal" to "alliance" and the words "cabals" to "alliances" .
+
