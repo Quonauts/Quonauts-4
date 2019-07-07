@@ -549,3 +549,9 @@ Change the title of the rule section 8.Cabals to 8.Alliances and Changes all  ph
 
 Remove the line “When a proposal passes, its author gains 2 points.” from rule 7.4, and disregard any previous errors where that text in rule 7.4 was not adhered to as if they never occured.
 
+<a name='71'/>
+
+## #71
+
+Move any top-level rule sections after "Glossary" to before "Style conventions," preserving relative order.
+
