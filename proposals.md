@@ -482,3 +482,9 @@ Add a new rule “Doomsday” at the end of the rules list consisting of the tex
 
 [start]If this proposal (proposal #62) passes as a rule, the game will *not* end 24 hours later.[end]
 
+<a name='63'/>
+
+## #63
+
+Move the first paragraph of "Passing and failing proposals" to be the third paragraph in "Closing proposals" and move the rest of "Passing and failing proposals" to the end of "Closing proposals". Remove the section "Passing and failing proposals".
+
