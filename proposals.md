@@ -486,5 +486,5 @@ Add a new rule “Doomsday” at the end of the rules list consisting of the tex
 
 ## #63
 
-Move the last paragraph of "Closing proposals" to be the second paragraph in "Passing and failing proposals".
+Move the last paragraph of "Closing proposals" to be the last paragraph in "Passing and failing proposals".
 
