@@ -34,6 +34,7 @@
     * [**9.4. Formatting**](#style-formatting)
 * [**10. Glossary**](#glossary)
 * [**11. Sectors**](#sectors)
+* [**12. Warp drive**](#warp-drive)
 
 ## <a name='meta'/> Meta rules
 
@@ -286,4 +287,8 @@ The definitions for terms listed here take precedence over their normal English 
 ## <a name='sectors'/> Sectors
 
 A "sector" is any unique integer combination of X and Y, written as "sector <x>, <y>”. The set of all sectors is "space."
+
+## <a name='warp-drive'/> Warp drive
+
+A player may at any time spend n points to receive a Warp Core (where n is the day of the month/3 rounded up). A Warp Core is a quantity which may be spent to traverse space. At any time, a player may spend one Warp Core, which allows them to modify their sector position as they desire up to four spaces (the amount of spaces being x + y, and effectively changing their X and Y quantities). Also, upon using a warp core, a player may spend 1 point to move 8 spaces instead, known as “Overdriving”.
 
