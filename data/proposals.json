@@ -894,6 +894,18 @@
 				"556954927969075225": -1
 			},
 			"timestamp": 1562439440
+		},
+		{
+			"n": 62,
+			"author": 271274710753476610,
+			"content": "Add a new rule \u201cDoomsday\u201d at the end of the rules list consisting of the text between [start] and [end]:\n\n[start]If this proposal (proposal #62) passes as a rule, the game will *not* end 24 hours later.[end]",
+			"status": "voting",
+			"message_id": 597251165499162663,
+			"votes": {
+				"216295379895844865": -1,
+				"271274710753476610": 1
+			},
+			"timestamp": 1562466174
 		}
 	]
 }
