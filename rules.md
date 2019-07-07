@@ -203,6 +203,8 @@ When a player passes a proposal, that player must carry out the effects of that 
 
 When a proposal is closed, it passes if it has more votes in favour than against; otherwise, it fails.
 
+When a proposal passes, its author gains 2 points.
+
 ### <a name='proposal-modification'/> Proposal modification
 
 A player may edit a proposal they have submitted if that proposal is open for voting and has no votes cast by players other than its author.
