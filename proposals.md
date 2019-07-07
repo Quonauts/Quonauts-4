@@ -317,7 +317,7 @@ Append a zero-width space to every paragraph.
 
 <a name='45'/>
 
-## #45
+## #45 — Passed
 
 Append the following paragraph to the bottom of "Proposal content":
 
