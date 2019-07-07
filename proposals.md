@@ -504,3 +504,9 @@ Any player may close an open proposal if one or more of the following conditions
 
 (This proposal both reorganizes the closing conditions slightly, and adds the new "majority" rule.)
 
+<a name='65'/>
+
+## #65
+
+Remove the words "elect to" from rule section "Closing proposals". (i.e. Turn "may elect to fail or delete it" into "may fail or delete it." This obviously doesn't change the meaning, but keeps it more consistent with the rest of the rules IMO.)
+
