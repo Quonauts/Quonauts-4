@@ -729,7 +729,7 @@
 			"n": 50,
 			"author": 160279332454006795,
 			"content": "Append the following paragraph to the bottom of \"Closing proposals\":\n`[start]`\nIf over 5 users have voted on a proposal, and the amount of for votes is equal to against votes, the proposal will be deleted and immediatley re-proposed (moved to the bottom of the channel, effectively).\nThis can happen up to 2 times per proposal.\n`[end]`",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 596692176772136979,
 			"votes": {
 				"160279332454006795": 1,
