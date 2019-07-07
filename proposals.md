@@ -333,7 +333,7 @@ passed first, section "B" will appear below section "A" in the rules.
 
 <a name='46'/>
 
-## #46
+## #46 — Passed
 
 Append the following paragraph to the bottom of "Proposal content":
 
