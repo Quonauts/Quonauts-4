@@ -1000,6 +1000,18 @@
 				"556954927969075225": 1
 			},
 			"timestamp": 1562521301
+		},
+		{
+			"n": 69,
+			"author": 512645502253400064,
+			"content": "This proposal edits rule section 8.Cabals.\n\nChange the title of the rule section 8.Cabals to 8.Alliances and Changes all  phrases \"a cabal\" to \"a alliance\", the words \"cabal\" to \"alliance\" and the words \"cabals\" to \"alliances\" .",
+			"status": "voting",
+			"message_id": 597487286569009152,
+			"votes": {
+				"512645502253400064": 1,
+				"556954927969075225": -1
+			},
+			"timestamp": 1562522469
 		}
 	]
 }
