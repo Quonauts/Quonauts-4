@@ -474,3 +474,11 @@ Append the following content to "Closing Proposals":
 Removing votes from, or adding votes to a proposal awaiting closure is against the rules.
 [end]
 
+<a name='62'/>
+
+## #62
+
+Add a new rule “Doomsday” at the end of the rules list consisting of the text between [start] and [end]:
+
+[start]If this proposal (proposal #62) passes as a rule, the game will *not* end 24 hours later.[end]
+
