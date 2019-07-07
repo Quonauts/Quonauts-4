@@ -191,6 +191,9 @@ to the bottom of the rules, and proposal #11 adds a new section "B" to the
 bottom of the rules, and both proposals pass, then regardless of which proposal
 passed first, section "B" will appear below section "A" in the rules.
 
+A proposals may state that it depends on other proposals. If a proposal's
+dependencies fail, then the proposal dependent on them also fails.
+
 ### <a name='proposal-voting'/> Voting on proposals
 
 Each player may cast one vote on each open proposal.
