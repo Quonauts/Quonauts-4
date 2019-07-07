@@ -506,3 +506,14 @@ Any player may close an open proposal if one or more of the following conditions
 
 Remove the words "elect to" from rule section "Closing proposals". (i.e. Turn "may elect to fail or delete it" into "may fail or delete it." This obviously doesn't change the meaning, but keeps it more consistent with the rest of the rules IMO.)
 
+<a name='66'/>
+
+## #66
+
+Instantiate a new quantity named "Agents" with the description "Total agents".
+At the time of this proposal passing, all players are granted exactly 3 agents.
+
+Add a rule section after the Cabals section entitled "Agents" with the text:
+"Each player has a number of agents.
+Each new player begins the game with 3 agents."
+
