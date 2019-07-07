@@ -376,7 +376,7 @@ Unless otherwise specified in the given proposal, proposals never apply retroact
 
 <a name='50'/>
 
-## #50
+## #50 — Failed
 
 Append the following paragraph to the bottom of "Closing proposals":
 `[start]`
