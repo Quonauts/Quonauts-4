@@ -488,3 +488,19 @@ Add a new rule “Doomsday” at the end of the rules list consisting of the tex
 
 Move the last paragraph of "Closing proposals" to be the last paragraph in "Passing and failing proposals".
 
+<a name='64'/>
+
+## #64
+
+Replace the first and second paragraphs of rule section "Closing proposals" with the following:
+
+`[start]`
+Any player may close an open proposal if one or more of the following conditions is met:
+* The proposal is at least 48 hours (2 days) old.
+* All active players have cast a vote on the proposal.
+* A majority of active players have voted in favor of the proposal.
+* A majority of active players have voted against the proposal.
+`[end]`
+
+(This proposal both reorganizes the closing conditions slightly, and adds the new "majority" rule.)
+
