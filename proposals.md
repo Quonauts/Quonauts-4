@@ -303,7 +303,7 @@ A generic unit of score, which may be any nonnegative integer or decimal number.
 
 <a name='43'/>
 
-## #43
+## #43 — Passed
 
 Remove the last period ([start].[end]) in the rule “Warp Drive” and replace it with the following text between [start] and [end]:
 
