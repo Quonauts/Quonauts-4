@@ -357,7 +357,7 @@ content of proposal B, however, does not change.
 
 <a name='48'/>
 
-## #48
+## #48 — Failed
 
 Replace the text "the amount of spaces being x + y" in "Warp Drive" with:
 [start]
