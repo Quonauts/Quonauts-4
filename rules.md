@@ -194,6 +194,11 @@ passed first, section "B" will appear below section "A" in the rules.
 A proposal may state that it depends on other proposals. If a proposal's
 dependencies fail, then the proposal dependent on them also fails.
 
+A proposals may amend an existing proposal. If a proposal A amends an existing
+proposal B, then the amendment has no effect if B fails. If A and B both pass,
+then the result of proposal B is undone or modified according to proposal A. The
+content of proposal B, however, does not change.
+
 ### <a name='proposal-voting'/> Voting on proposals
 
 Each player may cast one vote on each open proposal.
