@@ -344,7 +344,7 @@ dependendencies fail, then the proposal dependent on them also fails.
 
 <a name='47'/>
 
-## #47
+## #47 — Passed
 
 Append the following paragraph to the bottom of "Proposal content":
 
