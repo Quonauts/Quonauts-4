@@ -33,6 +33,7 @@
     * [**9.3. Lists**](#style-lists)
     * [**9.4. Formatting**](#style-formatting)
 * [**10. Glossary**](#glossary)
+* [**11. Sectors**](#sectors)
 
 ## <a name='meta'/> Meta rules
 
@@ -281,4 +282,8 @@ The definitions for terms listed here take precedence over their normal English 
 * **Section**: A part of the rules which is contained under one header, not including any subsections.
 * **Subsection**: A section of the rules which is contained under another section.
 * **Clause**: A single statement in the rules
+
+## <a name='sectors'/> Sectors
+
+A "sector" is any unique integer combination of X and Y, written as "sector <x>, <y>”. The set of all sectors is "space."
 
