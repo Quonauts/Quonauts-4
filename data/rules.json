@@ -144,7 +144,7 @@
 		"proposal-content": {
 			"tag": "proposal-content",
 			"title": "Proposal content",
-			"content": "A proposal can describe any number of actions that make changes to the game rules or otherwise alter the game state.\n\nIf a proposal describes a modification to the rules, it must unambiguously specify the rule section(s) to be modified and how they will be modified. Text quoted between the outermost `[start]` and `[end]` symbols (brackets required; code tags optional) is to be interpreted literally. `[start]` and `[end]` symbols can be nested.\n\nIf a proposal describes the creation of a new rule section, it must specify its title, its location in relation to an existing one, and its content.",
+			"content": "A proposal can describe any number of actions that make changes to the game rules or otherwise alter the game state.\n\nIf a proposal describes a modification to the rules, it must unambiguously specify the rule section(s) to be modified and how they will be modified. Text quoted between the outermost [start] and [end] symbols (brackets required; code tags optional) is to be interpreted literally. [start] and [end] symbols can be nested.\n\nIf a proposal describes the creation of a new rule section, it must specify its title, its location in relation to an existing one, and its content.\n\nIf multiple proposals describe the modification or addition of sections,\nparagraphs, or sentences to the same part of the rules, conflicts should be\nresolved based on the age of the proposal, such that the newer proposal's effect\noverrides the older one's. For example, if proposal #10 adds a new section \"A\"\nto the bottom of the rules, and proposal #11 adds a new section \"B\" to the\nbottom of the rules, and both proposals pass, then regardless of which proposal\npassed first, section \"B\" will appear below section \"A\" in the rules.\n\nA proposal may state that it depends on other proposals. If a proposal's\ndependencies fail, then the proposal dependent on them also fails.\n\nA proposals may amend an existing proposal. If a proposal A amends an existing\nproposal B, then the amendment has no effect if B fails. If A and B both pass,\nthen the result of proposal B is undone or modified according to proposal A. The\ncontent of proposal B, however, does not change.",
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
@@ -254,11 +254,13 @@
 				"proposals",
 				"cabals",
 				"style",
-				"glossary"
+				"glossary",
+				"sectors",
+				"warp-drive"
 			],
 			"message_ids": [
-				596046118601752593,
-				596046119386087444
+				597520429061636181,
+				597520430357807109
 			]
 		},
 		"rule-offender-role": {
@@ -303,6 +305,16 @@
 			"child_tags": [],
 			"message_ids": [
 				593911355363295252
+			]
+		},
+		"sectors": {
+			"tag": "sectors",
+			"title": "Sectors",
+			"content": "A \"sector\" is any unique integer combination of X and Y, written as \"sector <x>, <y>\u201d. The set of all sectors is \"space.\"",
+			"parent_tag": "root",
+			"child_tags": [],
+			"message_ids": [
+				597519711999098940
 			]
 		},
 		"style": {
@@ -358,6 +370,16 @@
 			"child_tags": [],
 			"message_ids": [
 				596046095780413441
+			]
+		},
+		"warp-drive": {
+			"tag": "warp-drive",
+			"title": "Warp drive",
+			"content": "A player may at any time spend n points to receive a Warp Core (where n is the day of the month/3 rounded up). A Warp Core is a quantity which may be spent to traverse space. At any time, a player may spend one Warp Core, which allows them to modify their sector position as they desire up to four spaces (the amount of spaces being x + y, and effectively changing their X and Y quantities). Also, upon using a warp core, a player may spend 1 point to move 8 spaces instead, known as \u201cOverdriving\u201d.",
+			"parent_tag": "root",
+			"child_tags": [],
+			"message_ids": [
+				597520424271872000
 			]
 		}
 	}

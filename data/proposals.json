@@ -586,7 +586,7 @@
 			"n": 41,
 			"author": 271274710753476610,
 			"content": "Add the text between [start] and [end] as a new rule titled \u201cSectors\u201d at the end of the rules list:\n\n[start] A \"sector\" is any unique integer combination of X and Y, written as \"sector <x>, <y>\u201d. The set of all sectors is \"space.\"[end]\n\nAdd the text between [start] and [end] as a new rule titled \u201cWarp Drive\u201d at the end of the rules list:\n[start]A player may at any time spend n points to receive a Warp Core (where n is the day of the month/3 rounded up). A Warp Core is a quantity which may be spent to traverse space. At any time, a player may spend one Warp Core, which allows them to modify their sector position as they desire up to four spaces (the amount of spaces being x + y, and effectively changing their X and Y quantities). Also, upon using a warp core, a player may spend 1 point to move 8 spaces instead.[end]",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 596391563622613013,
 			"votes": {
 				"160279332454006795": 1,
@@ -617,7 +617,7 @@
 			"n": 43,
 			"author": 271274710753476610,
 			"content": "Remove the last period ([start].[end]) in the rule \u201cWarp Drive\u201d and replace it with the following text between [start] and [end]:\n\n[start], known as \u201cOverdriving\u201d.[end]",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 596402894471823482,
 			"votes": {
 				"160279332454006795": 0,
@@ -649,7 +649,7 @@
 			"n": 45,
 			"author": 216295379895844865,
 			"content": "Append the following paragraph to the bottom of \"Proposal content\":\n\n`[start]`\nIf multiple proposals describe the modification or addition of sections,\nparagraphs, or sentences to the same part of the rules, conflicts should be\nresolved based on the age of the proposal, such that the newer proposal's effect\noverrides the older one's. For example, if proposal #10 adds a new section \"A\"\nto the bottom of the rules, and proposal #11 adds a new section \"B\" to the\nbottom of the rules, and both proposals pass, then regardless of which proposal\npassed first, section \"B\" will appear below section \"A\" in the rules.\n`[end]`",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 596422848017334319,
 			"votes": {
 				"216295379895844865": 1,
@@ -665,7 +665,7 @@
 			"n": 46,
 			"author": 216295379895844865,
 			"content": "Append the following paragraph to the bottom of \"Proposal content\":\n\n`[start]`\nA proposals may state that it depends on other proposals. If a proposal's\ndependendencies fail, then the proposal dependent on them also fails.\n`[end]`",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 596422871371218947,
 			"votes": {
 				"160279332454006795": 1,
@@ -682,7 +682,7 @@
 			"n": 47,
 			"author": 216295379895844865,
 			"content": "Append the following paragraph to the bottom of \"Proposal content\":\n\n`[start]`\nA proposals may amend an existing proposal. If a proposal A amends an existing\nproposal B, then the amendment has no effect if B fails. If A and B both pass,\nthen the result of proposal B is undone or modified according to proposal A. The\ncontent of proposal B, however, does not change.\n`[end]`",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 596422892007456768,
 			"votes": {
 				"160279332454006795": 0,
@@ -712,7 +712,7 @@
 			"n": 49,
 			"author": 216295379895844865,
 			"content": "Append the following paragraph to the bottom of \"Closing proposals\":\n\n`[start]`\nUnless otherwise specified in the given proposal, proposals never apply retroactively; i.e., they do not affect proposals, polls, or game actions posted, begun, or carried out before their passing.\n`[end]`",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 596460134931365899,
 			"votes": {
 				"160279332454006795": 0,
