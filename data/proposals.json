@@ -970,6 +970,7 @@
 			"status": "voting",
 			"message_id": 597466271369527297,
 			"votes": {
+				"271274710753476610": 0,
 				"437904804732338177": 1,
 				"512645502253400064": 1,
 				"556954927969075225": 1
@@ -983,6 +984,7 @@
 			"status": "voting",
 			"message_id": 597471177656500224,
 			"votes": {
+				"271274710753476610": 1,
 				"437904804732338177": 1,
 				"512645502253400064": 1,
 				"556954927969075225": 1
@@ -996,6 +998,7 @@
 			"status": "voting",
 			"message_id": 597482386162319361,
 			"votes": {
+				"271274710753476610": 1,
 				"512645502253400064": 1,
 				"556954927969075225": 1
 			},
@@ -1008,10 +1011,22 @@
 			"status": "voting",
 			"message_id": 597487286569009152,
 			"votes": {
+				"271274710753476610": 1,
 				"512645502253400064": 1,
 				"556954927969075225": -1
 			},
 			"timestamp": 1562522469
+		},
+		{
+			"n": 70,
+			"author": 271274710753476610,
+			"content": "Remove the line \u201cWhen a proposal passes, its author gains 2 points.\u201d from rule 7.4, and disregard any previous errors where that text in rule 7.4 was not adhered to as if they never occured.",
+			"status": "voting",
+			"message_id": 597506860400246805,
+			"votes": {
+				"556954927969075225": 1
+			},
+			"timestamp": 1562527136
 		}
 	]
 }
