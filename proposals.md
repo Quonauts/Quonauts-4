@@ -282,7 +282,7 @@ Append a paragraph to "Quantities":
 
 <a name='41'/>
 
-## #41
+## #41 — Passed
 
 Add the text between [start] and [end] as a new rule titled “Sectors” at the end of the rules list:
 
