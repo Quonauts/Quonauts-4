@@ -971,6 +971,7 @@
 			"message_id": 597466271369527297,
 			"votes": {
 				"437904804732338177": 1,
+				"512645502253400064": 1,
 				"556954927969075225": 1
 			},
 			"timestamp": 1562517459
@@ -987,6 +988,18 @@
 				"556954927969075225": 1
 			},
 			"timestamp": 1562518629
+		},
+		{
+			"n": 68,
+			"author": 556954927969075225,
+			"content": "This proposal extends Proposal #66. If that proposal fails to pass, this proposal cannot pass.\n\nAdd a rule sub section to the Agents rule section entitled \"Agent operations\" with the text:\n\"Agents may perform operations which are actions that change the game state.\nEach agent may perform an operation only if they have not done so in 24 hours.\nAvailable agent operations are only those that are explicitly allowed by the game rules.\"",
+			"status": "voting",
+			"message_id": 597482386162319361,
+			"votes": {
+				"512645502253400064": 1,
+				"556954927969075225": 1
+			},
+			"timestamp": 1562521301
 		}
 	]
 }
