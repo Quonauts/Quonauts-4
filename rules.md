@@ -235,7 +235,7 @@ A cabal is a group which consists of a number of one or more players. Any player
 
 ## <a name='style'/> Style conventions
 
-This section and its subsections describe grammatical conventions used throughout this ruleset.
+This section and its subsections describe grammatical and stylistic conventions used throughout this ruleset.
 
 Any player may edit the rules to conform to these style conventions. Edits made this way must otherwise be minimal; i.e. they may not change wording or meaning.
 
