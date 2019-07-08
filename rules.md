@@ -231,12 +231,7 @@ A player may edit a proposal they have submitted if that proposal is open for vo
 
 ## <a name='cabals'/> Cabals
 
-A cabal is a group which consists of a number of one or more players. Any player may form a cabal by publically announcing its existence and the name of the cabal. The continued existence of a cabal must remain public knowledge.
-Each cabal has exactly one czar. This is always initially the player who forms a cabal is. A cabal's czar is responsible for defining the rules that govern its own membership, leadership, governance and disbandment.
-
-To become part of a cabal, a player must be appointed by the czar of the cabal. Members of a cabal may leave at any time. If the czar of a cabal with more than 1 player wishes to leave, they must choose a new member of the cabal to be czar.
-
-If the last player leaves a cabal, the cabal is disbanded is no longer exists.
+A cabal is a group which consists of a number of one or more players. Any player may form a cabal by publically announcing its existence and the name of the cabal. The continued existence of a cabal must remain public knowledge. Each cabal has exactly one czar. This is always initially the player who forms a cabal is. A cabal's czar is responsible for defining the rules that govern its own membership, leadership, governance and disbandment. To become part of a cabal, a player must be appointed by the czar of the cabal. Members of a cabal may leave at any time. If the czar of a cabal with more than 1 player wishes to leave, they must choose a new member of the cabal to be czar. If the last player leaves a cabal, the cabal is disbanded and no longer exists.
 
 ## <a name='style'/> Style conventions
 
