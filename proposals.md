@@ -555,3 +555,9 @@ Remove the line “When a proposal passes, its author gains 2 points.” from ru
 
 Move any top-level rule sections after "Glossary" to before "Style conventions," preserving relative order.
 
+<a name='72'/>
+
+## #72
+
+Move the entire "Style conventions" rule section so it is incorporated as a new subsection below all current subsections in the "Meta rules" section.
+
