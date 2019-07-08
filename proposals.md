@@ -455,7 +455,7 @@ A proposal may also state anti-dependecies, in which case the anti-dependent pro
 
 <a name='59'/>
 
-## #59
+## #59 — Failed
 
 Remove the "Cabals" section.
 
