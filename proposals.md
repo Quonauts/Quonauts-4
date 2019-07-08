@@ -427,7 +427,7 @@ Replace "is disbanded is no longer exists." in rule section "Cabals" with "is di
 
 <a name='56'/>
 
-## #56
+## #56 — Passed
 
 Replace "describe grammatical conventions" in "Style conventions" with "describe grammatical and stylistic conventions"
 
