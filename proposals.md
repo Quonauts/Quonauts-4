@@ -435,7 +435,7 @@ Replace "describe grammatical conventions" in "Style conventions" with "describe
 
 <a name='57'/>
 
-## #57
+## #57 — Failed
 
 Replace the first paragraph of rule section "Closing proposals" with the following:
 
