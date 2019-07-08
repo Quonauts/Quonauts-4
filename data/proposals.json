@@ -820,7 +820,7 @@
 			"n": 56,
 			"author": 216295379895844865,
 			"content": "Replace \"describe grammatical conventions\" in \"Style conventions\" with \"describe grammatical and stylistic conventions\"\n\n(That seems more accurate to me.)",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 596896107473403908,
 			"votes": {
 				"160279332454006795": 1,
@@ -835,7 +835,7 @@
 			"n": 57,
 			"author": 216295379895844865,
 			"content": "Replace the first paragraph of rule section \"Closing proposals\" with the following:\n\n`[start]`\nAny player may close an open proposal 48 hours (2 days) after it is submitted, unless that proposal has the same number of votes in favour as votes against; then that proposal may not be closed until it is 96 hours (4 days) old.\n`[end]`",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 596898819761766410,
 			"votes": {
 				"160279332454006795": -1,
@@ -851,7 +851,7 @@
 			"n": 58,
 			"author": 271274710753476610,
 			"content": "Append the following paragraph to the bottom of \"Proposal content\":\n\n`[start]`\nA proposal may also state anti-dependecies, in which case the anti-dependent proposal will fail if any proposal it is anti-dependent on is passed.\n`[end]`",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 597043175424655394,
 			"votes": {
 				"160279332454006795": 0,
@@ -866,7 +866,7 @@
 			"n": 59,
 			"author": 160279332454006795,
 			"content": "Remove the \"Cabals\" section.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 597053531941502996,
 			"votes": {
 				"160279332454006795": 1,
@@ -883,7 +883,7 @@
 			"n": 60,
 			"author": 216295379895844865,
 			"content": "Amend proposal #58: replace \"anti-dependencies\" with \"incompatible proposals\", replace \"anti-dependent proposal\" with \"later proposal\", and replace \"proposal it is anti-dependent on\" with \"incompatible proposal\".",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 597087375960702977,
 			"votes": {
 				"160279332454006795": 0,
