@@ -335,7 +335,7 @@
 		"style-content": {
 			"tag": "style-content",
 			"title": "Content",
-			"content": "* All rules should be written in English using proper English grammar and spelling. American and British English spelling are both acceptable.\n* Where applicable, rules should be written using gender-neutral language, with \"they/them/their\" as a third-person pronoun, both singular and plural.\n* Sentences should be separated by a single space.\n* Paragraphs should be separated by a blank line.\n* Each paragraph or list element must be shorter than 1000 characters.\n* Rules may not contain invisible characters besides newlines, normal spaces, and (in special cases) tabs. Non-ASCII characters should be used sparingly.",
+			"content": "* All rules should be written in English using proper English grammar and spelling. American and British English spelling are both acceptable.\n* Where applicable, rules should be written using gender-neutral language, with \"they/them/their\" as a third-person pronoun, both singular and plural.\n* Sentences should be separated by a single space.\n* Paragraphs should be separated by a blank line.\n* Each paragraph or list element must be shorter than 1000 characters.\n* Rules may not contain invisible characters besides newlines, normal spaces, and (in special cases) tabs. Non-ASCII characters should be used sparingly.\n* Double quotes should be preferred instead of single quotes. ASCII-compatible straight quotes should be used instead of \"smart\" quotes.",
 			"parent_tag": "style",
 			"child_tags": [],
 			"message_ids": [

@@ -792,7 +792,7 @@
 			"n": 54,
 			"author": 216295379895844865,
 			"content": "Insert the following as the final element in the bulletted list in rule section \"Content\":\n\n`[start]`\n* Double quotes should be preferred instead of single quotes. ASCII-compatible straight quotes should be used instead of [\"smart\" quotes](https://www.cl.cam.ac.uk/~mgk25/ucs/quotes.html).\n`[end]`",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 596883186844303401,
 			"votes": {
 				"160279332454006795": 1,
@@ -806,7 +806,7 @@
 			"n": 55,
 			"author": 216295379895844865,
 			"content": "Replace \"is disbanded is no longer exists.\" in rule section \"Cabals\" with \"is disbanded and no longer exists.\"",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 596895107379363840,
 			"votes": {
 				"160279332454006795": 1,
