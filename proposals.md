@@ -421,7 +421,7 @@ Insert the following as the final element in the bulletted list in rule section 
 
 <a name='55'/>
 
-## #55
+## #55 — Passed
 
 Replace "is disbanded is no longer exists." in rule section "Cabals" with "is disbanded and no longer exists."
 
