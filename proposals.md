@@ -445,7 +445,7 @@ Any player may close an open proposal 48 hours (2 days) after it is submitted, u
 
 <a name='58'/>
 
-## #58
+## #58 — Passed
 
 Append the following paragraph to the bottom of "Proposal content":
 
