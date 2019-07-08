@@ -561,3 +561,9 @@ Move any top-level rule sections after "Glossary" to before "Style conventions,"
 
 Move the entire "Style conventions" rule section so it is incorporated as a new subsection below all current subsections in the "Meta rules" section.
 
+<a name='73'/>
+
+## #73
+
+Move the "Glossary" rule section so it is incorporated as a new subsection below all current subsections in "Meta rules" section.
+
