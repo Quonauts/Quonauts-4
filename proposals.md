@@ -461,7 +461,7 @@ Remove the "Cabals" section.
 
 <a name='60'/>
 
-## #60
+## #60 — Passed
 
 Amend proposal #58: replace "anti-dependencies" with "incompatible proposals", replace "anti-dependent proposal" with "later proposal", and replace "proposal it is anti-dependent on" with "incompatible proposal".
 
