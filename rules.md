@@ -252,6 +252,7 @@ Any player may edit the rules to conform to these style conventions. Edits made 
 * Paragraphs should be separated by a blank line.
 * Each paragraph or list element must be shorter than 1000 characters.
 * Rules may not contain invisible characters besides newlines, normal spaces, and (in special cases) tabs. Non-ASCII characters should be used sparingly.
+* Double quotes should be preferred instead of single quotes. ASCII-compatible straight quotes should be used instead of "smart" quotes.
 
 ### <a name='style-headers-tags'/> Headers and tags
 
