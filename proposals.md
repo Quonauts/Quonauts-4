@@ -386,7 +386,7 @@ This can happen up to 2 times per proposal.
 
 <a name='51'/>
 
-## #51
+## #51 — Passed
 
 Switch to using an ordered list (`1.`, `2.`, `3.`) in rule section "Precedence." (Currently the precedence rules are separated by a single newline, which contradicts the content style conventions.)
 
