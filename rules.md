@@ -247,6 +247,7 @@ Any player may edit the rules to conform to these style conventions. Edits made 
 ### <a name='style-content'/> Content
 
 * All rules should be written in English using proper English grammar and spelling. American and British English spelling are both acceptable.
+* Where applicable, rules should be written using gender-neutral language, with "they/them/their" as a third-person pronoun, both singular and plural.
 * Sentences should be separated by a single space.
 * Paragraphs should be separated by a blank line.
 * Each paragraph or list element must be shorter than 1000 characters.
