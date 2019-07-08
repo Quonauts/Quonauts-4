@@ -746,7 +746,7 @@
 			"n": 51,
 			"author": 216295379895844865,
 			"content": "Switch to using an ordered list (`1.`, `2.`, `3.`) in rule section \"Precedence.\" (Currently the precedence rules are separated by a single newline, which contradicts the content style conventions.)",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 596877514853318677,
 			"votes": {
 				"216295379895844865": 1,
@@ -762,7 +762,7 @@
 			"n": 52,
 			"author": 271274710753476610,
 			"content": "Create a new rule titled \u201cFleets\u201d directly after the rule \u201cWarp Drive\u201d which consists of the following text which is between `[start]` and `[end]`:\n`[start]`Players within 1 sector of each other (x and y, so a maximum of 1 in each of x and y apart) can mutually elect to form a fleet at any time. Fleets move together, whenever one player uses a warp drive or changes his position in any way, the other players in the fleet move relative to the moving player. A player can at any time leave a fleet but this does not undo movements cuased by the fleet previously. If a player is next to another player that is in a fleet, the player may join the fleet, whether he is within 1 space of all players in the fleet or only one. If all the players connecting a single player to the rest of the fleet disband, the player is forced to disband as of that moment. Players may refer to different fleets as anything they choose, but individual players may only be in a single fleet at a time.`[end]`",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 596880121718243344,
 			"votes": {
 				"160279332454006795": -1,
@@ -777,7 +777,7 @@
 			"n": 53,
 			"author": 216295379895844865,
 			"content": "Insert the following as the second element in the bulletted list in rule section \"Content\":\n\n`[start]`\n* Where applicable, rules should be written using gender-neutral language, with \"they/them/their\" as a third-person pronoun, both singular and plural.\n`[end]`\n\nAdditionally, amend any existing uses of gendered \"he/him/his\" or \"she/her/hers\" in proposals and rules to \"they/them/their.\"",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 596882083624910852,
 			"votes": {
 				"160279332454006795": 1,
@@ -1060,6 +1060,32 @@
 				"556954927969075225": 1
 			},
 			"timestamp": 1562534317
+		},
+		{
+			"n": 72,
+			"author": 556954927969075225,
+			"content": "Move the entire \"Style conventions\" rule section so it is incorporated as a new subsection below all current subsections in the \"Meta rules\" section.",
+			"status": "voting",
+			"message_id": 597843331757768720,
+			"votes": {
+				"216295379895844865": 0,
+				"271274710753476610": 0,
+				"556954927969075225": 1
+			},
+			"timestamp": 1562607357
+		},
+		{
+			"n": 73,
+			"author": 556954927969075225,
+			"content": "Move the \"Glossary\" rule section so it is incorporated as a new subsection below all current subsections in \"Meta rules\" section.",
+			"status": "voting",
+			"message_id": 597843440574922795,
+			"votes": {
+				"216295379895844865": 0,
+				"271274710753476610": 0,
+				"556954927969075225": 1
+			},
+			"timestamp": 1562607383
 		}
 	]
 }
