@@ -392,7 +392,7 @@ Switch to using an ordered list (`1.`, `2.`, `3.`) in rule section "Precedence."
 
 <a name='52'/>
 
-## #52
+## #52 — Failed
 
 Create a new rule titled “Fleets” directly after the rule “Warp Drive” which consists of the following text which is between `[start]` and `[end]`:
 `[start]`Players within 1 sector of each other (x and y, so a maximum of 1 in each of x and y apart) can mutually elect to form a fleet at any time. Fleets move together, whenever one player uses a warp drive or changes his position in any way, the other players in the fleet move relative to the moving player. A player can at any time leave a fleet but this does not undo movements cuased by the fleet previously. If a player is next to another player that is in a fleet, the player may join the fleet, whether he is within 1 space of all players in the fleet or only one. If all the players connecting a single player to the rest of the fleet disband, the player is forced to disband as of that moment. Players may refer to different fleets as anything they choose, but individual players may only be in a single fleet at a time.`[end]`
