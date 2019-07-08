@@ -399,7 +399,7 @@ Create a new rule titled “Fleets” directly after the rule “Warp Drive” w
 
 <a name='53'/>
 
-## #53
+## #53 — Passed
 
 Insert the following as the second element in the bulletted list in rule section "Content":
 
