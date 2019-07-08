@@ -1047,7 +1047,9 @@
 			"content": "Move any top-level rule sections after \"Glossary\" to before \"Style conventions,\" preserving relative order.",
 			"status": "voting",
 			"message_id": 597536979269189635,
-			"votes": {},
+			"votes": {
+				"556954927969075225": 1
+			},
 			"timestamp": 1562534317
 		}
 	]
