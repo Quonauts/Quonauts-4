@@ -567,3 +567,13 @@ Move the entire "Style conventions" rule section so it is incorporated as a new 
 
 Move the "Glossary" rule section so it is incorporated as a new subsection below all current subsections in "Meta rules" section.
 
+<a name='74'/>
+
+## #74
+
+Add a new section “Tax” with the text between [start] and [end]:
+
+[start]Every week, a 20% tax (rounded down) is applied to all players’ Point quantities on Friday at any time.[end]
+
+Helps equalize points between players with alot of points and players with few and give players with less points a better chance.
+
