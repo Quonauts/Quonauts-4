@@ -569,11 +569,5 @@ Move the "Glossary" rule section so it is incorporated as a new subsection below
 
 <a name='74'/>
 
-## #74
-
-Add a new section “Tax” with the text between [start] and [end]:
-
-[start]Every week, a 20% tax (rounded down) is applied to all players’ Point quantities on Friday at any time.[end]
-
-Helps equalize points between players with alot of points and players with few and give players with less points a better chance.
+## #74 — Deleted
 
