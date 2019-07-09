@@ -1086,6 +1086,15 @@
 				"556954927969075225": 1
 			},
 			"timestamp": 1562607383
+		},
+		{
+			"n": 74,
+			"author": 271274710753476610,
+			"content": "Add a new section \u201cTax\u201d with the text between [start] and [end]:\n\n[start]Every week, a 20% tax (rounded down) is applied to all players\u2019 Point quantities on Friday at any time.[end]\n\nHelps equalize points between players with alot of points and players with few and give players with less points a better chance.",
+			"status": "voting",
+			"message_id": 598118568982478849,
+			"votes": {},
+			"timestamp": 1562672979
 		}
 	]
 }
