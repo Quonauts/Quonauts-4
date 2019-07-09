@@ -467,7 +467,7 @@ Amend proposal #58: replace "anti-dependencies" with "incompatible proposals", r
 
 <a name='61'/>
 
-## #61
+## #61 — Failed
 
 Append the following content to "Closing Proposals":
 [start]
