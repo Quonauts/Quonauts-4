@@ -537,7 +537,7 @@ Available agent operations are only those that are explicitly allowed by the gam
 
 <a name='69'/>
 
-## #69
+## #69 — Failed
 
 This proposal edits rule section 8.Cabals.
 
