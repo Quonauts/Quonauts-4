@@ -545,7 +545,7 @@ Change the title of the rule section 8.Cabals to 8.Alliances and Changes all  ph
 
 <a name='70'/>
 
-## #70
+## #70 — Failed
 
 Remove the line “When a proposal passes, its author gains 2 points.” from rule 7.4, and disregard any previous errors where that text in rule 7.4 was not adhered to as if they never occured.
 
