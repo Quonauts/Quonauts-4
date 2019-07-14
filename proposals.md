@@ -519,7 +519,7 @@ Each new player begins the game with 3 agents."
 
 <a name='67'/>
 
-## #67
+## #67 — Passed
 
 Add a new rule section after the Proposals section entitled "Setting" with the text:
 "In the year 2341 humanity attempted what had never been attempted before; the experimental orbital hyperjump platform known as "Armstrong Station" was to send an intrepid band of adventurers far across the Milky Way in the blink of an eye, heralding a new era of intersolar exploration. Instead, the entire station moved irregularly and irrevocably through space-time, leaving its inhabitants stranded far from home. With no immediate hope of rescue and too few resources to go around, it falls to those aboard to explore the surrounding solar systems, without knowing whether they might hope to return to Earth, or make a life for themselves in this new Wild West of the Stars."
