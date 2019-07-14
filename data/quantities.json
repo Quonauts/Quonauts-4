@@ -1,4 +1,11 @@
 {
+	"agent": {
+		"name": "agent",
+		"aliases": [
+			"agents"
+		],
+		"players": {}
+	},
 	"point": {
 		"name": "point",
 		"aliases": [
