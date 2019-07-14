@@ -526,7 +526,7 @@ Add a new rule section after the Proposals section entitled "Setting" with the t
 
 <a name='68'/>
 
-## #68
+## #68 — Passed
 
 This proposal extends Proposal #66. If that proposal fails to pass, this proposal cannot pass.
 
