@@ -502,7 +502,7 @@ Any player may close an open proposal if one or more of the following conditions
 
 <a name='65'/>
 
-## #65
+## #65 — Passed
 
 Remove the words "elect to" from rule section "Closing proposals". (i.e. Turn "may elect to fail or delete it" into "may fail or delete it." This obviously doesn't change the meaning, but keeps it more consistent with the rest of the rules IMO.)
 
