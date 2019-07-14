@@ -151,7 +151,8 @@ A quantity is a named property with a numerical value for each player.
 
 • Agents: Total agents. 
 • Point: A generic unit of score, which may be any nonnegative integer or decimal number. 
-• Strike: The number of rule violations that a player has committed without punishment. • X: Player's X position. 
+• Strike: The number of rule violations that a player has committed without punishment.
+• X: Player's X position. 
 • Y: Player's Y position.
 
 When a proposal establishing a new quantity is passed, this rule section should be amended by inserting the new quantity into the above list, maintaining alphabetical order, along with a brief description. Similarly, if a quantity is renamed or removed, the above list should be modified accordingly.
