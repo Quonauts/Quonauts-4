@@ -927,7 +927,7 @@
 			"n": 63,
 			"author": 216295379895844865,
 			"content": "Move the last paragraph of \"Closing proposals\" to be the last paragraph in \"Passing and failing proposals\".",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 597264298741334026,
 			"votes": {
 				"216295379895844865": 1,
@@ -941,7 +941,7 @@
 			"n": 64,
 			"author": 216295379895844865,
 			"content": "Replace the first and second paragraphs of rule section \"Closing proposals\" with the following:\n\n`[start]`\nAny player may close an open proposal if one or more of the following conditions is met:\n* The proposal is at least 48 hours (2 days) old.\n* All active players have cast a vote on the proposal.\n* A majority of active players have voted in favor of the proposal.\n* A majority of active players have voted against the proposal.\n`[end]`\n\n(This proposal both reorganizes the closing conditions slightly, and adds the new \"majority\" rule.)",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 597266626018017282,
 			"votes": {
 				"216295379895844865": 1,
@@ -953,7 +953,7 @@
 			"n": 65,
 			"author": 216295379895844865,
 			"content": "Remove the words \"elect to\" from rule section \"Closing proposals\". (i.e. Turn \"may elect to fail or delete it\" into \"may fail or delete it.\" This obviously doesn't change the meaning, but keeps it more consistent with the rest of the rules IMO.)",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 597266897389486080,
 			"votes": {
 				"160279332454006795": 0,

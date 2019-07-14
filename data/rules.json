@@ -134,7 +134,7 @@
 		"proposal-closing": {
 			"tag": "proposal-closing",
 			"title": "Closing proposals",
-			"content": "Any player may close an open proposal 48 hours after it is submitted.\n\nAny player may close an open proposal if all active players have cast a vote on the proposal.\n\nThe player that authored a proposal may elect to fail or delete it at any time.\n\nWhen a player passes a proposal, that player must carry out the effects of that proposal and its passing to the best of their ability; after this, that player gains 1 point.\n\nUnless otherwise specified in the given proposal, proposals never apply retroactively; i.e., they do not affect proposals, polls, or game actions posted, begun, or carried out before their passing.",
+			"content": "Any player may close an open proposal if one or more of the following conditions is met:\n * The proposal is at least 48 hours (2 days) old.\n * All active players have cast a vote on the proposal.\n * A majority of active players have voted in favor of the proposal.\n * A majority of active players have voted against the proposal.\n\nThe player that authored a proposal may fail or delete it at any time.\n\nWhen a player passes a proposal, that player must carry out the effects of that proposal and its passing to the best of their ability; after this, that player gains 1 point.",
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
