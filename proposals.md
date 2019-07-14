@@ -508,7 +508,7 @@ Remove the words "elect to" from rule section "Closing proposals". (i.e. Turn "m
 
 <a name='66'/>
 
-## #66
+## #66 — Passed
 
 Instantiate a new quantity named "Agents" with the description "Total agents".
 At the time of this proposal passing, all players are granted exactly 3 agents.
