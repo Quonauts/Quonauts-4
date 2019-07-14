@@ -28,14 +28,15 @@
     * [**7.5. Proposal modification**](#proposal-modification)
 * [**8. Setting**](#setting)
 * [**9. Cabals**](#cabals)
-* [**10. Style conventions**](#style)
-    * [**10.1. Content**](#style-content)
-    * [**10.2. Headers and tags**](#style-headers-tags)
-    * [**10.3. Lists**](#style-lists)
-    * [**10.4. Formatting**](#style-formatting)
-* [**11. Glossary**](#glossary)
-* [**12. Sectors**](#sectors)
-* [**13. Warp drive**](#warp-drive)
+* [**10. Agents**](#agents)
+* [**11. Style conventions**](#style)
+    * [**11.1. Content**](#style-content)
+    * [**11.2. Headers and tags**](#style-headers-tags)
+    * [**11.3. Lists**](#style-lists)
+    * [**11.4. Formatting**](#style-formatting)
+* [**12. Glossary**](#glossary)
+* [**13. Sectors**](#sectors)
+* [**14. Warp drive**](#warp-drive)
 
 ## <a name='meta'/> Meta rules
 
@@ -225,6 +226,11 @@ A player may edit a proposal they have submitted if that proposal is open for vo
 ## <a name='cabals'/> Cabals
 
 A cabal is a group which consists of a number of one or more players. Any player may form a cabal by publically announcing its existence and the name of the cabal. The continued existence of a cabal must remain public knowledge. Each cabal has exactly one czar. This is always initially the player who forms a cabal is. A cabal's czar is responsible for defining the rules that govern its own membership, leadership, governance and disbandment. To become part of a cabal, a player must be appointed by the czar of the cabal. Members of a cabal may leave at any time. If the czar of a cabal with more than 1 player wishes to leave, they must choose a new member of the cabal to be czar. If the last player leaves a cabal, the cabal is disbanded and no longer exists.
+
+## <a name='agents'/> Agents
+
+Each player has a number of agents.
+Each new player begins the game with 3 agents.
 
 ## <a name='style'/> Style conventions
 
