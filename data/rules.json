@@ -28,7 +28,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				596046093540655127
+				599899588035346433
 			]
 		},
 		"channels": {
@@ -83,7 +83,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				596046118195036160
+				599899612677144577
 			]
 		},
 		"meta": {
@@ -164,7 +164,7 @@
 		"proposal-pass-fail": {
 			"tag": "proposal-pass-fail",
 			"title": "Passing and failing proposals",
-			"content": "When a proposal is closed, it passes if it has more votes in favour than against; otherwise, it fails.\n\nWhen a proposal passes, its author gains 2 points.",
+			"content": "When a proposal is closed, it passes if it has more votes in favour than against; otherwise, it fails. \n\nWhen a proposal passes, its author gains 2 points.\n\nUnless otherwise specified in the given proposal, proposals never apply retroactively; i.e., they do not affect proposals, polls, or game actions posted, begun, or carried out before their passing.",
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
@@ -252,6 +252,7 @@
 				"quantities",
 				"polls",
 				"proposals",
+				"setting",
 				"cabals",
 				"style",
 				"glossary",
@@ -259,8 +260,9 @@
 				"warp-drive"
 			],
 			"message_ids": [
-				597520429061636181,
-				597520430357807109
+				599899638945939458,
+				599899639642062877,
+				599899640044978197
 			]
 		},
 		"rule-offender-role": {
@@ -314,7 +316,17 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				597519711999098940
+				599899613184524317
+			]
+		},
+		"setting": {
+			"tag": "setting",
+			"title": "Setting",
+			"content": "\"In the year 2341 humanity attempted what had never been attempted before; the experimental orbital hyperjump platform known as \"Armstrong Station\" was to send an intrepid band of adventurers far across the Milky Way in the blink of an eye, heralding a new era of intersolar exploration. Instead, the entire station moved irregularly and irrevocably through space-time, leaving its inhabitants stranded far from home. With no immediate hope of rescue and too few resources to go around, it falls to those aboard to explore the surrounding solar systems, without knowing whether they might hope to return to Earth, or make a life for themselves in this new Wild West of the Stars.\"",
+			"parent_tag": "root",
+			"child_tags": [],
+			"message_ids": [
+				599899587817373696
 			]
 		},
 		"style": {
@@ -329,7 +341,7 @@
 				"style-formatting"
 			],
 			"message_ids": [
-				596046094098497591
+				599899589230723082
 			]
 		},
 		"style-content": {
@@ -339,7 +351,7 @@
 			"parent_tag": "style",
 			"child_tags": [],
 			"message_ids": [
-				596046094673379341
+				599899589969051656
 			]
 		},
 		"style-formatting": {
@@ -349,7 +361,7 @@
 			"parent_tag": "style",
 			"child_tags": [],
 			"message_ids": [
-				596046117494587421
+				599899612341338112
 			]
 		},
 		"style-headers-tags": {
@@ -359,7 +371,7 @@
 			"parent_tag": "style",
 			"child_tags": [],
 			"message_ids": [
-				596046095419965450
+				599899590493208576
 			]
 		},
 		"style-lists": {
@@ -369,7 +381,7 @@
 			"parent_tag": "style",
 			"child_tags": [],
 			"message_ids": [
-				596046095780413441
+				599899611796209675
 			]
 		},
 		"warp-drive": {
@@ -379,7 +391,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				597520424271872000
+				599899613402497071
 			]
 		}
 	}
