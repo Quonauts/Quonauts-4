@@ -11,6 +11,28 @@
 				593911374854488083
 			]
 		},
+		"agents": {
+			"tag": "agents",
+			"title": "Agents",
+			"content": "Each player has a number of agents.\nEach new player begins the game with 3 agents.",
+			"parent_tag": "root",
+			"child_tags": [
+				"agents-operations"
+			],
+			"message_ids": [
+				599903382484025346
+			]
+		},
+		"agents-operations": {
+			"tag": "agents-operations",
+			"title": "Agent Operations",
+			"content": "Agents may perform operations which are actions that change the game state. Each agent may perform an operation only if they have not done so in 24 hours. Available agent operations are only those that are explicitly allowed by the game rules.",
+			"parent_tag": "agents",
+			"child_tags": [],
+			"message_ids": [
+				599904338915360779
+			]
+		},
 		"bots": {
 			"tag": "bots",
 			"title": "Bots",
@@ -83,7 +105,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				599899612677144577
+				599904367843344394
 			]
 		},
 		"meta": {
@@ -254,15 +276,16 @@
 				"proposals",
 				"setting",
 				"cabals",
+				"agents",
 				"style",
 				"glossary",
 				"sectors",
 				"warp-drive"
 			],
 			"message_ids": [
-				599899638945939458,
-				599899639642062877,
-				599899640044978197
+				599904368829005825,
+				599904390912016384,
+				599904391356481547
 			]
 		},
 		"rule-offender-role": {
@@ -316,7 +339,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				599899613184524317
+				599904368233283584
 			]
 		},
 		"setting": {
@@ -341,7 +364,7 @@
 				"style-formatting"
 			],
 			"message_ids": [
-				599899589230723082
+				599904339477266453
 			]
 		},
 		"style-content": {
@@ -351,7 +374,7 @@
 			"parent_tag": "style",
 			"child_tags": [],
 			"message_ids": [
-				599899589969051656
+				599904340118863882
 			]
 		},
 		"style-formatting": {
@@ -361,7 +384,7 @@
 			"parent_tag": "style",
 			"child_tags": [],
 			"message_ids": [
-				599899612341338112
+				599904367222587393
 			]
 		},
 		"style-headers-tags": {
@@ -371,7 +394,7 @@
 			"parent_tag": "style",
 			"child_tags": [],
 			"message_ids": [
-				599899590493208576
+				599904340924432395
 			]
 		},
 		"style-lists": {
@@ -381,7 +404,7 @@
 			"parent_tag": "style",
 			"child_tags": [],
 			"message_ids": [
-				599899611796209675
+				599904341704572934
 			]
 		},
 		"warp-drive": {
@@ -391,7 +414,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				599899613402497071
+				599904368598188032
 			]
 		}
 	}
