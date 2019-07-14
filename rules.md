@@ -29,6 +29,7 @@
 * [**8. Setting**](#setting)
 * [**9. Cabals**](#cabals)
 * [**10. Agents**](#agents)
+    * [**10.1. Agent Operations**](#agents-operations)
 * [**11. Style conventions**](#style)
     * [**11.1. Content**](#style-content)
     * [**11.2. Headers and tags**](#style-headers-tags)
@@ -231,6 +232,10 @@ A cabal is a group which consists of a number of one or more players. Any player
 
 Each player has a number of agents.
 Each new player begins the game with 3 agents.
+
+### <a name='agents-operations'/> Agent Operations
+
+Agents may perform operations which are actions that change the game state. Each agent may perform an operation only if they have not done so in 24 hours. Available agent operations are only those that are explicitly allowed by the game rules.
 
 ## <a name='style'/> Style conventions
 
