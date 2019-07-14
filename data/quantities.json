@@ -19,5 +19,19 @@
 			"strikes"
 		],
 		"players": {}
+	},
+	"x": {
+		"name": "x",
+		"aliases": [
+			"x"
+		],
+		"players": {}
+	},
+	"y": {
+		"name": "y",
+		"aliases": [
+			"y"
+		],
+		"players": {}
 	}
 }
