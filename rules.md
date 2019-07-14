@@ -26,15 +26,16 @@
     * [**7.3. Closing proposals**](#proposal-closing)
     * [**7.4. Passing and failing proposals**](#proposal-pass-fail)
     * [**7.5. Proposal modification**](#proposal-modification)
-* [**8. Cabals**](#cabals)
-* [**9. Style conventions**](#style)
-    * [**9.1. Content**](#style-content)
-    * [**9.2. Headers and tags**](#style-headers-tags)
-    * [**9.3. Lists**](#style-lists)
-    * [**9.4. Formatting**](#style-formatting)
-* [**10. Glossary**](#glossary)
-* [**11. Sectors**](#sectors)
-* [**12. Warp drive**](#warp-drive)
+* [**8. Setting**](#setting)
+* [**9. Cabals**](#cabals)
+* [**10. Style conventions**](#style)
+    * [**10.1. Content**](#style-content)
+    * [**10.2. Headers and tags**](#style-headers-tags)
+    * [**10.3. Lists**](#style-lists)
+    * [**10.4. Formatting**](#style-formatting)
+* [**11. Glossary**](#glossary)
+* [**12. Sectors**](#sectors)
+* [**13. Warp drive**](#warp-drive)
 
 ## <a name='meta'/> Meta rules
 
@@ -216,6 +217,10 @@ Unless otherwise specified in the given proposal, proposals never apply retroact
 ### <a name='proposal-modification'/> Proposal modification
 
 A player may edit a proposal they have submitted if that proposal is open for voting and has no votes cast by players other than its author.
+
+## <a name='setting'/> Setting
+
+"In the year 2341 humanity attempted what had never been attempted before; the experimental orbital hyperjump platform known as "Armstrong Station" was to send an intrepid band of adventurers far across the Milky Way in the blink of an eye, heralding a new era of intersolar exploration. Instead, the entire station moved irregularly and irrevocably through space-time, leaving its inhabitants stranded far from home. With no immediate hope of rescue and too few resources to go around, it falls to those aboard to explore the surrounding solar systems, without knowing whether they might hope to return to Earth, or make a life for themselves in this new Wild West of the Stars."
 
 ## <a name='cabals'/> Cabals
 
