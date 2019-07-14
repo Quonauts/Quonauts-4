@@ -486,7 +486,7 @@ Move the last paragraph of "Closing proposals" to be the last paragraph in "Pass
 
 <a name='64'/>
 
-## #64
+## #64 — Passed
 
 Replace the first and second paragraphs of rule section "Closing proposals" with the following:
 
