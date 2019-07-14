@@ -480,7 +480,7 @@ Removing votes from, or adding votes to a proposal awaiting closure is against t
 
 <a name='63'/>
 
-## #63
+## #63 — Passed
 
 Move the last paragraph of "Closing proposals" to be the last paragraph in "Passing and failing proposals".
 
