@@ -571,3 +571,9 @@ Move the "Glossary" rule section so it is incorporated as a new subsection below
 
 ## #74 — Deleted
 
+<a name='75'/>
+
+## #75
+
+All players must be banned.
+
