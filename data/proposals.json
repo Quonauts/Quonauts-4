@@ -1100,6 +1100,17 @@
 			"message_id": 598118568982478849,
 			"votes": {},
 			"timestamp": 1562672979
+		},
+		{
+			"n": 75,
+			"author": 160279332454006795,
+			"content": "All players must be banned.",
+			"status": "voting",
+			"message_id": 600387844057333785,
+			"votes": {
+				"160279332454006795": 1
+			},
+			"timestamp": 1563214016
 		}
 	]
 }
