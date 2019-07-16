@@ -577,3 +577,9 @@ Move the "Glossary" rule section so it is incorporated as a new subsection below
 
 All players must be banned.
 
+<a name='76'/>
+
+## #76
+
+This proposal depends on #75. All players must be unbanned.
+
