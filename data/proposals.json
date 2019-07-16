@@ -1123,7 +1123,9 @@
 			"content": "This proposal depends on #75. All players must be unbanned.",
 			"status": "voting",
 			"message_id": 600480792988221453,
-			"votes": {},
+			"votes": {
+				"271274710753476610": 1
+			},
 			"timestamp": 1563236177
 		}
 	]
