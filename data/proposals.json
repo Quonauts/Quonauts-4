@@ -1129,6 +1129,17 @@
 				"271274710753476610": 1
 			},
 			"timestamp": 1563236177
+		},
+		{
+			"n": 77,
+			"author": 160279332454006795,
+			"content": "Append the following to 7. Proposals:\n[start]\nExcluding proposal #77, proposals may not alter the abillity of proposals to:\ntarget any player or group in any way\nperform any game action\naccess any game information\n[end]",
+			"status": "voting",
+			"message_id": 601174659815309379,
+			"votes": {
+				"160279332454006795": 1
+			},
+			"timestamp": 1563401608
 		}
 	]
 }
