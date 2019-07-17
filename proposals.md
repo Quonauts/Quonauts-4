@@ -579,7 +579,7 @@ All players must be banned.
 
 <a name='76'/>
 
-## #76
+## #76 — Failed
 
 This proposal depends on #75. All players must be unbanned.
 
