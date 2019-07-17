@@ -583,3 +583,15 @@ All players must be banned.
 
 This proposal depends on #75. All players must be unbanned.
 
+<a name='77'/>
+
+## #77
+
+Append the following to 7. Proposals:
+[start]
+Excluding proposal #77, proposals may not alter the abillity of proposals to:
+target any player or group in any way
+perform any game action
+access any game information
+[end]
+
