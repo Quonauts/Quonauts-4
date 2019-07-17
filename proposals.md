@@ -573,7 +573,7 @@ Move the "Glossary" rule section so it is incorporated as a new subsection below
 
 <a name='75'/>
 
-## #75
+## #75 — Failed
 
 All players must be banned.
 
