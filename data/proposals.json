@@ -1105,7 +1105,7 @@
 			"n": 75,
 			"author": 160279332454006795,
 			"content": "All players must be banned.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 600387844057333785,
 			"votes": {
 				"160279332454006795": 1,
@@ -1121,7 +1121,7 @@
 			"n": 76,
 			"author": 319753218592866315,
 			"content": "This proposal depends on #75. All players must be unbanned.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 600480792988221453,
 			"votes": {
 				"160279332454006795": -1,
