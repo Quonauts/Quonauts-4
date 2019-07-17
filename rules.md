@@ -182,11 +182,17 @@ A proposal is either open or closed. When it is first submitted a proposal is op
 ### <a name='proposal-content'/> Proposal content
 
 A proposal can describe any number of actions that make changes to the game rules or otherwise alter the game state.
- If a proposal describes a modification to the rules, it must unambiguously specify the rule section(s) to be modified and how they will be modified. Text quoted between the outermost [start] and [end] symbols (brackets required; code tags optional) is to be interpreted literally. [start] and [end] symbols can be nested.
- If a proposal describes the creation of a new rule section, it must specify its title, its location in relation to an existing one, and its content.
- If multiple proposals describe the modification or addition of sections, paragraphs, or sentences to the same part of the rules, conflicts should be resolved based on the age of the proposal, such that the newer proposal's effect overrides the older one's. For example, if proposal #10 adds a new section "A" to the bottom of the rules, and proposal #11 adds a new section "B" to the bottom of the rules, and both proposals pass, then regardless of which proposal passed first, section "B" will appear below section "A" in the rules.
- A proposal may state that it depends on other proposals. If a proposal's dependencies fail, then the proposal dependent on them also fails.
- A proposals may amend an existing proposal. If a proposal A amends an existing proposal B, then the amendment has no effect if B fails. If A and B both pass, then the result of proposal B is undone or modified according to proposal A. The content of proposal B, however, does not change.
+
+If a proposal describes a modification to the rules, it must unambiguously specify the rule section(s) to be modified and how they will be modified. Text quoted between the outermost [start] and [end] symbols (brackets required; code tags optional) is to be interpreted literally. [start] and [end] symbols can be nested.
+
+If a proposal describes the creation of a new rule section, it must specify its title, its location in relation to an existing one, and its content.
+
+If multiple proposals describe the modification or addition of sections, paragraphs, or sentences to the same part of the rules, conflicts should be resolved based on the age of the proposal, such that the newer proposal's effect overrides the older one's. For example, if proposal #10 adds a new section "A" to the bottom of the rules, and proposal #11 adds a new section "B" to the bottom of the rules, and both proposals pass, then regardless of which proposal passed first, section "B" will appear below section "A" in the rules.
+
+A proposal may state that it depends on other proposals. If a proposal's dependencies fail, then the proposal dependent on them also fails.
+
+A proposals may amend an existing proposal. If a proposal A amends an existing proposal B, then the amendment has no effect if B fails. If A and B both pass, then the result of proposal B is undone or modified according to proposal A. The content of proposal B, however, does not change.
+
 A proposal may also state incompatible proposals, in which case the later proposal will fail if any proposal it is incompatible proposal on is passed.
 
 ### <a name='proposal-voting'/> Voting on proposals
