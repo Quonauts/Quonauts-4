@@ -1142,6 +1142,17 @@
 				"319753218592866315": -1
 			},
 			"timestamp": 1563401608
+		},
+		{
+			"n": 78,
+			"author": 160279332454006795,
+			"content": "Append the following to 7. Proposals:\n[start]\nIf a proposal has passed, and said proposal was within the rules at the time, rules on proposals will not apply to it retroactively.\n[end]",
+			"status": "voting",
+			"message_id": 601209704764669963,
+			"votes": {
+				"160279332454006795": 1
+			},
+			"timestamp": 1563409963
 		}
 	]
 }
