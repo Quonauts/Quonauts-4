@@ -595,3 +595,12 @@ perform any game action
 access any game information
 [end]
 
+<a name='78'/>
+
+## #78
+
+Append the following to 7. Proposals:
+[start]
+If a proposal has passed, and said proposal was within the rules at the time, rules on proposals will not apply to it retroactively.
+[end]
+
