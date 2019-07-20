@@ -604,3 +604,9 @@ Append the following to 7. Proposals:
 If a proposal has passed, and said proposal was within the rules at the time, rules on proposals will not apply to it retroactively.
 [end]
 
+<a name='79'/>
+
+## #79
+
+Ping @everyone to wake up the game.
+
