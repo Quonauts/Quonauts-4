@@ -585,7 +585,7 @@ This proposal depends on #75. All players must be unbanned.
 
 <a name='77'/>
 
-## #77
+## #77 — Failed
 
 Append the following to 7. Proposals:
 [start]
