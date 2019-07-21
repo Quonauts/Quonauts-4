@@ -1134,7 +1134,7 @@
 			"n": 77,
 			"author": 160279332454006795,
 			"content": "Append the following to 7. Proposals:\n[start]\nExcluding proposal #77, proposals may not alter the abillity of proposals to:\ntarget any player or group in any way\nperform any game action\naccess any game information\n[end]",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 601174659815309379,
 			"votes": {
 				"160279332454006795": 1,
@@ -1148,7 +1148,7 @@
 			"n": 78,
 			"author": 160279332454006795,
 			"content": "Append the following to 7. Proposals:\n[start]\nIf a proposal has passed, and said proposal was within the rules at the time, rules on proposals will not apply to it retroactively.\n[end]",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 601209704764669963,
 			"votes": {
 				"160279332454006795": 1,
