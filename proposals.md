@@ -597,7 +597,7 @@ access any game information
 
 <a name='78'/>
 
-## #78
+## #78 — Failed
 
 Append the following to 7. Proposals:
 [start]
