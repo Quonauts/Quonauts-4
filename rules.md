@@ -30,13 +30,13 @@
 * [**9. Cabals**](#cabals)
 * [**10. Agents**](#agents)
     * [**10.1. Agent Operations**](#agents-operations)
-* [**11. Style conventions**](#style)
-    * [**11.1. Content**](#style-content)
-    * [**11.2. Headers and tags**](#style-headers-tags)
-    * [**11.3. Lists**](#style-lists)
-    * [**11.4. Formatting**](#style-formatting)
-* [**12. Glossary**](#glossary)
-* [**13. Sectors**](#sectors)
+* [**11. Sectors**](#sectors)
+* [**12. Style conventions**](#style)
+    * [**12.1. Content**](#style-content)
+    * [**12.2. Headers and tags**](#style-headers-tags)
+    * [**12.3. Lists**](#style-lists)
+    * [**12.4. Formatting**](#style-formatting)
+* [**13. Glossary**](#glossary)
 * [**14. Warp drive**](#warp-drive)
 
 ## <a name='meta'/> Meta rules
@@ -244,6 +244,10 @@ Each new player begins the game with 3 agents.
 
 Agents may perform operations which are actions that change the game state. Each agent may perform an operation only if they have not done so in 24 hours. Available agent operations are only those that are explicitly allowed by the game rules.
 
+## <a name='sectors'/> Sectors
+
+A "sector" is any unique integer combination of X and Y, written as "sector <x>, <y>”. The set of all sectors is "space."
+
 ## <a name='style'/> Style conventions
 
 This section and its subsections describe grammatical and stylistic conventions used throughout this ruleset.
@@ -309,10 +313,6 @@ The definitions for terms listed here take precedence over their normal English 
 * **Section**: A part of the rules which is contained under one header, not including any subsections.
 * **Subsection**: A section of the rules which is contained under another section.
 * **Clause**: A single statement in the rules
-
-## <a name='sectors'/> Sectors
-
-A "sector" is any unique integer combination of X and Y, written as "sector <x>, <y>”. The set of all sectors is "space."
 
 ## <a name='warp-drive'/> Warp drive
 
