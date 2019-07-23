@@ -610,3 +610,13 @@ If a proposal has passed, and said proposal was within the rules at the time, ru
 
 Ping @everyone to wake up the game.
 
+<a name='80'/>
+
+## #80
+
+Append the following to "Closing Proposals":
+[start]
+When a proposal is passed, any proposals that amend it may be closed 24 hours earlier.
+[end]
+The intention of this is to pass amendments fixing critical flaws in a proposal quicker, while also not allowing proposing an amendment, passing the original proposal and then immediatley passing the amendment with nobody else voting on it.
+
