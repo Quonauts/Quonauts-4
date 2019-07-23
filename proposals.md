@@ -626,3 +626,14 @@ The intention of this is to pass amendments fixing critical flaws in a proposal 
 
 Amend #80: Add the phrase "than would be otherwise allowed" immediately after "24 hours earlier"
 
+<a name='82'/>
+
+## #82
+
+Add a role to the server called "Pingable" that can be pinged. Create a new rules section labelled "Pingable" above "Polls" with the following content:
+`[start]`
+At any time, players may opt-in to a "Pingable" role that can be pinged by members of the server. Any member may ping the "Pingable" role, and thus everyone who has opted in to pings, as long as the last mass ping (@Pingable, @here or @everyone) was at least 1 week (168 hours) ago.
+`[end]`
+
+(Note: The way that players attain the Pingable role is not defined by this proposal, as I believe it is outside the scope of the game rules. It will probably be managed manually by Hactar until an update to Quobot is made.)
+
