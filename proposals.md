@@ -563,7 +563,7 @@ Move the entire "Style conventions" rule section so it is incorporated as a new 
 
 <a name='73'/>
 
-## #73
+## #73 — Passed
 
 Move the "Glossary" rule section so it is incorporated as a new subsection below all current subsections in "Meta rules" section.
 
