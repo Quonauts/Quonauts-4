@@ -15,6 +15,7 @@
         * [**1.5.2. Headers and tags**](#style-headers-tags)
         * [**1.5.3. Lists**](#style-lists)
         * [**1.5.4. Formatting**](#style-formatting)
+    * [**1.6. Glossary**](#glossary)
 * [**2. Channels**](#channels)
     * [**2.1. #general**](#general-channel)
     * [**2.2. #polls**](#polls-channel)
@@ -37,7 +38,6 @@
     * [**10.1. Agent Operations**](#agents-operations)
 * [**11. Sectors**](#sectors)
 * [**12. Warp drive**](#warp-drive)
-* [**13. Glossary**](#glossary)
 
 ## <a name='meta'/> Meta rules
 
@@ -148,6 +148,20 @@ From [GitHub's "Mastering Markdown" document](https://guides.github.com/features
 * Strikethrough
 
 Additionally, square brackets `[]` containing a tag will be converted into links to another rule section; e.g. `[%rule-tag]`. Discord mentions (@username, @role, and #channel) may be used, however they are not readable in GitHub-flavored markdown.
+
+### <a name='glossary'/> Glossary
+
+The definitions for terms listed here take precedence over their normal English meanings, however any terms defined in a specific section of the rules override these in the section in which they are defined and any subsections of that section. A section may also define terms for use in the whole document.
+
+* **The Game**: The instance of Nomic which is governed by this rules document.
+* **Game Action**: A game action is any message or reaction in a game channel or any other manipulation of game channels or quantities which are part of the game.
+* **Game State**: A specific arrangement of all game rules, proposals, polls, votes and quantities.
+* **Game Channel**: A game channel is any text or voice channel listed in the GAME CHANNELS channel category of the Discord server.
+* **Player**: Any participant of the game.
+* **The Rules**: The rules of the game, which are described by this document.
+* **Section**: A part of the rules which is contained under one header, not including any subsections.
+* **Subsection**: A section of the rules which is contained under another section.
+* **Clause**: A single statement in the rules
 
 ## <a name='channels'/> Channels
 
@@ -303,18 +317,4 @@ A "sector" is any unique integer combination of X and Y, written as "sector <x>,
 ## <a name='warp-drive'/> Warp drive
 
 A player may at any time spend n points to receive a Warp Core (where n is the day of the month/3 rounded up). A Warp Core is a quantity which may be spent to traverse space. At any time, a player may spend one Warp Core, which allows them to modify their sector position as they desire up to four spaces (the amount of spaces being x + y, and effectively changing their X and Y quantities). Also, upon using a warp core, a player may spend 1 point to move 8 spaces instead, known as “Overdriving”.
-
-## <a name='glossary'/> Glossary
-
-The definitions for terms listed here take precedence over their normal English meanings, however any terms defined in a specific section of the rules override these in the section in which they are defined and any subsections of that section. A section may also define terms for use in the whole document.
-
-* **The Game**: The instance of Nomic which is governed by this rules document.
-* **Game Action**: A game action is any message or reaction in a game channel or any other manipulation of game channels or quantities which are part of the game.
-* **Game State**: A specific arrangement of all game rules, proposals, polls, votes and quantities.
-* **Game Channel**: A game channel is any text or voice channel listed in the GAME CHANNELS channel category of the Discord server.
-* **Player**: Any participant of the game.
-* **The Rules**: The rules of the game, which are described by this document.
-* **Section**: A part of the rules which is contained under one header, not including any subsections.
-* **Subsection**: A section of the rules which is contained under another section.
-* **Clause**: A single statement in the rules
 
