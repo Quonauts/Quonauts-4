@@ -551,7 +551,7 @@ Remove the line “When a proposal passes, its author gains 2 points.” from ru
 
 <a name='71'/>
 
-## #71
+## #71 — Passed
 
 Move any top-level rule sections after "Glossary" to before "Style conventions," preserving relative order.
 
