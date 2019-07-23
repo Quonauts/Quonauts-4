@@ -1204,6 +1204,17 @@
 				"512645502253400064": 1
 			},
 			"timestamp": 1563879650
+		},
+		{
+			"n": 82,
+			"author": 319753218592866315,
+			"content": "Add a role to the server called \"Pingable\" that can be pinged. Create a new rules section labelled \"Pingable\" above \"Polls\" with the following content:\n`[start]`\nAt any time, players may opt-in to a \"Pingable\" role that can be pinged by members of the server. Any member may ping the \"Pingable\" role, and thus everyone who has opted in to pings, as long as the last mass ping (@Pingable, @here or @everyone) was at least 1 week (168 hours) ago.\n`[end]`\n\n(Note: The way that players attain the Pingable role is not defined by this proposal, as I believe it is outside the scope of the game rules. It will probably be managed manually by Hactar until an update to Quobot is made.)",
+			"status": "voting",
+			"message_id": 603361181608181800,
+			"votes": {
+				"160279332454006795": 1
+			},
+			"timestamp": 1563922915
 		}
 	]
 }
