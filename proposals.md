@@ -606,7 +606,7 @@ If a proposal has passed, and said proposal was within the rules at the time, ru
 
 <a name='79'/>
 
-## #79
+## #79 — Passed
 
 Ping @everyone to wake up the game.
 
