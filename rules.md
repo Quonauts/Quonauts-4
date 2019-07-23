@@ -31,13 +31,13 @@
 * [**10. Agents**](#agents)
     * [**10.1. Agent Operations**](#agents-operations)
 * [**11. Sectors**](#sectors)
-* [**12. Style conventions**](#style)
-    * [**12.1. Content**](#style-content)
-    * [**12.2. Headers and tags**](#style-headers-tags)
-    * [**12.3. Lists**](#style-lists)
-    * [**12.4. Formatting**](#style-formatting)
-* [**13. Glossary**](#glossary)
-* [**14. Warp drive**](#warp-drive)
+* [**12. Warp drive**](#warp-drive)
+* [**13. Style conventions**](#style)
+    * [**13.1. Content**](#style-content)
+    * [**13.2. Headers and tags**](#style-headers-tags)
+    * [**13.3. Lists**](#style-lists)
+    * [**13.4. Formatting**](#style-formatting)
+* [**14. Glossary**](#glossary)
 
 ## <a name='meta'/> Meta rules
 
@@ -248,6 +248,10 @@ Agents may perform operations which are actions that change the game state. Each
 
 A "sector" is any unique integer combination of X and Y, written as "sector <x>, <y>”. The set of all sectors is "space."
 
+## <a name='warp-drive'/> Warp drive
+
+A player may at any time spend n points to receive a Warp Core (where n is the day of the month/3 rounded up). A Warp Core is a quantity which may be spent to traverse space. At any time, a player may spend one Warp Core, which allows them to modify their sector position as they desire up to four spaces (the amount of spaces being x + y, and effectively changing their X and Y quantities). Also, upon using a warp core, a player may spend 1 point to move 8 spaces instead, known as “Overdriving”.
+
 ## <a name='style'/> Style conventions
 
 This section and its subsections describe grammatical and stylistic conventions used throughout this ruleset.
@@ -313,8 +317,4 @@ The definitions for terms listed here take precedence over their normal English 
 * **Section**: A part of the rules which is contained under one header, not including any subsections.
 * **Subsection**: A section of the rules which is contained under another section.
 * **Clause**: A single statement in the rules
-
-## <a name='warp-drive'/> Warp drive
-
-A player may at any time spend n points to receive a Warp Core (where n is the day of the month/3 rounded up). A Warp Core is a quantity which may be spent to traverse space. At any time, a player may spend one Warp Core, which allows them to modify their sector position as they desire up to four spaces (the amount of spaces being x + y, and effectively changing their X and Y quantities). Also, upon using a warp core, a player may spend 1 point to move 8 spaces instead, known as “Overdriving”.
 
