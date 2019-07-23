@@ -620,3 +620,9 @@ When a proposal is passed, any proposals that amend it may be closed 24 hours ea
 [end]
 The intention of this is to pass amendments fixing critical flaws in a proposal quicker, while also not allowing proposing an amendment, passing the original proposal and then immediatley passing the amendment with nobody else voting on it.
 
+<a name='81'/>
+
+## #81
+
+Amend #80: Add the phrase "than would be otherwise allowed" immediately after "24 hours earlier"
+
