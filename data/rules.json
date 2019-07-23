@@ -8,7 +8,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				593911374854488083
+				603211437455966208
 			]
 		},
 		"agents": {
@@ -20,7 +20,7 @@
 				"agents-operations"
 			],
 			"message_ids": [
-				599903382484025346
+				603211491239395328
 			]
 		},
 		"agents-operations": {
@@ -30,7 +30,7 @@
 			"parent_tag": "agents",
 			"child_tags": [],
 			"message_ids": [
-				599904338915360779
+				603211512437407776
 			]
 		},
 		"bots": {
@@ -50,7 +50,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				599899588035346433
+				603211490744336434
 			]
 		},
 		"channels": {
@@ -65,7 +65,7 @@
 				"rules-channel"
 			],
 			"message_ids": [
-				593911326569529364
+				603211412281753602
 			]
 		},
 		"disallow-by-default": {
@@ -95,17 +95,17 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				593911327311921203
+				603211413078409216
 			]
 		},
 		"glossary": {
 			"tag": "glossary",
 			"title": "Glossary",
 			"content": "The definitions for terms listed here take precedence over their normal English meanings, however any terms defined in a specific section of the rules override these in the section in which they are defined and any subsections of that section. A section may also define terms for use in the whole document.\n\n* **The Game**: The instance of Nomic which is governed by this rules document.\n* **Game Action**: A game action is any message or reaction in a game channel or any other manipulation of game channels or quantities which are part of the game.\n* **Game State**: A specific arrangement of all game rules, proposals, polls, votes and quantities.\n* **Game Channel**: A game channel is any text or voice channel listed in the GAME CHANNELS channel category of the Discord server.\n* **Player**: Any participant of the game.\n* **The Rules**: The rules of the game, which are described by this document.\n* **Section**: A part of the rules which is contained under one header, not including any subsections.\n* **Subsection**: A section of the rules which is contained under another section.\n* **Clause**: A single statement in the rules",
-			"parent_tag": "root",
+			"parent_tag": "meta",
 			"child_tags": [],
 			"message_ids": [
-				599904367843344394
+				603211411530711051
 			]
 		},
 		"meta": {
@@ -117,7 +117,9 @@
 				"precedence",
 				"disallow-by-default",
 				"rule-violations",
-				"bots"
+				"bots",
+				"style",
+				"glossary"
 			],
 			"message_ids": [
 				593911295443468292
@@ -130,7 +132,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				593911375986950206
+				603211459702292511
 			]
 		},
 		"polls-channel": {
@@ -140,7 +142,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				593911353098371078
+				603211413682651137
 			]
 		},
 		"precedence": {
@@ -160,7 +162,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				596046069918466048
+				603211462214942730
 			]
 		},
 		"proposal-content": {
@@ -170,7 +172,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				596046068123172873
+				603211461006983168
 			]
 		},
 		"proposal-modification": {
@@ -180,7 +182,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				596046072082857994
+				603211488450183169
 			]
 		},
 		"proposal-pass-fail": {
@@ -190,7 +192,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				596046071151460356
+				603211488043335680
 			]
 		},
 		"proposal-voting": {
@@ -200,7 +202,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				596046068949450905
+				603211461728403460
 			]
 		},
 		"proposals": {
@@ -216,7 +218,7 @@
 				"proposal-modification"
 			],
 			"message_ids": [
-				593911377261887511
+				603211460360929322
 			]
 		},
 		"proposals-channel": {
@@ -226,7 +228,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				593911354176438284
+				603211414194225192
 			]
 		},
 		"punitive-action": {
@@ -246,7 +248,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				593911374980317197
+				603211438193901608
 			]
 		},
 		"roles": {
@@ -258,7 +260,7 @@
 				"rule-offender-role"
 			],
 			"message_ids": [
-				593911356663529472
+				603211436369641485
 			]
 		},
 		"root": {
@@ -277,15 +279,13 @@
 				"setting",
 				"cabals",
 				"agents",
-				"style",
-				"glossary",
 				"sectors",
 				"warp-drive"
 			],
 			"message_ids": [
-				599904368829005825,
-				599904390912016384,
-				599904391356481547
+				603211514203209806,
+				603211514794737665,
+				603211536177168384
 			]
 		},
 		"rule-offender-role": {
@@ -295,7 +295,7 @@
 			"parent_tag": "roles",
 			"child_tags": [],
 			"message_ids": [
-				593911357200400415
+				603211436885278733
 			]
 		},
 		"rule-violation-polls": {
@@ -329,7 +329,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				593911355363295252
+				603211435778244608
 			]
 		},
 		"sectors": {
@@ -339,7 +339,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				599904368233283584
+				603211512944787467
 			]
 		},
 		"setting": {
@@ -349,14 +349,14 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				599899587817373696
+				603211490253864979
 			]
 		},
 		"style": {
 			"tag": "style",
 			"title": "Style conventions",
 			"content": "This section and its subsections describe grammatical and stylistic conventions used throughout this ruleset.\n\nAny player may edit the rules to conform to these style conventions. Edits made this way must otherwise be minimal; i.e. they may not change wording or meaning.",
-			"parent_tag": "root",
+			"parent_tag": "meta",
 			"child_tags": [
 				"style-content",
 				"style-headers-tags",
@@ -364,7 +364,7 @@
 				"style-formatting"
 			],
 			"message_ids": [
-				599904339477266453
+				603210887133921281
 			]
 		},
 		"style-content": {
@@ -374,7 +374,7 @@
 			"parent_tag": "style",
 			"child_tags": [],
 			"message_ids": [
-				599904340118863882
+				603210887813267478
 			]
 		},
 		"style-formatting": {
@@ -384,7 +384,7 @@
 			"parent_tag": "style",
 			"child_tags": [],
 			"message_ids": [
-				599904367222587393
+				603210890208215066
 			]
 		},
 		"style-headers-tags": {
@@ -394,7 +394,7 @@
 			"parent_tag": "style",
 			"child_tags": [],
 			"message_ids": [
-				599904340924432395
+				603210888152875034
 			]
 		},
 		"style-lists": {
@@ -404,7 +404,7 @@
 			"parent_tag": "style",
 			"child_tags": [],
 			"message_ids": [
-				599904341704572934
+				603210888991735819
 			]
 		},
 		"warp-drive": {
@@ -414,7 +414,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				599904368598188032
+				603211513477726230
 			]
 		}
 	}

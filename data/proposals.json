@@ -1051,7 +1051,7 @@
 			"n": 71,
 			"author": 216295379895844865,
 			"content": "Move any top-level rule sections after \"Glossary\" to before \"Style conventions,\" preserving relative order.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 597536979269189635,
 			"votes": {
 				"160279332454006795": 0,
@@ -1066,7 +1066,7 @@
 			"n": 72,
 			"author": 556954927969075225,
 			"content": "Move the entire \"Style conventions\" rule section so it is incorporated as a new subsection below all current subsections in the \"Meta rules\" section.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 597843331757768720,
 			"votes": {
 				"216295379895844865": 0,
@@ -1081,7 +1081,7 @@
 			"n": 73,
 			"author": 556954927969075225,
 			"content": "Move the \"Glossary\" rule section so it is incorporated as a new subsection below all current subsections in \"Meta rules\" section.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 597843440574922795,
 			"votes": {
 				"216295379895844865": 0,
@@ -1161,16 +1161,45 @@
 			"n": 79,
 			"author": 271274710753476610,
 			"content": "Ping @everyone to wake up the game.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 602178247979171841,
 			"votes": {
 				"160279332454006795": 1,
+				"216295379895844865": 0,
 				"271274710753476610": 1,
-				"319753218592866315": 0,
+				"319753218592866315": 1,
+				"437904804732338177": -1,
 				"512645502253400064": 0,
 				"556954927969075225": -1
 			},
 			"timestamp": 1563640882
+		},
+		{
+			"n": 80,
+			"author": 160279332454006795,
+			"content": "Append the following to \"Closing Proposals\":\n[start]\nWhen a proposal is passed, any proposals that amend it may be closed 24 hours earlier.\n[end]\nThe intention of this is to pass amendments fixing critical flaws in a proposal quicker, while also not allowing proposing an amendment, passing the original proposal and then immediatley passing the amendment with nobody else voting on it.",
+			"status": "voting",
+			"message_id": 603169365788983316,
+			"votes": {
+				"160279332454006795": 1,
+				"216295379895844865": 1,
+				"271274710753476610": 1,
+				"512645502253400064": 1
+			},
+			"timestamp": 1563877182
+		},
+		{
+			"n": 81,
+			"author": 216295379895844865,
+			"content": "Amend #80: Add the phrase \"than would be otherwise allowed\" immediately after \"24 hours earlier\"",
+			"status": "voting",
+			"message_id": 603179716094066688,
+			"votes": {
+				"160279332454006795": 1,
+				"216295379895844865": 1,
+				"512645502253400064": 1
+			},
+			"timestamp": 1563879650
 		}
 	]
 }
