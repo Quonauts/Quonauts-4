@@ -25,19 +25,20 @@
     * [**3.1. Rule offender**](#rule-offender-role)
 * [**4. Activity**](#activity)
 * [**5. Quantities**](#quantities)
-* [**6. Polls**](#polls)
-* [**7. Proposals**](#proposals)
-    * [**7.1. Proposal content**](#proposal-content)
-    * [**7.2. Voting on proposals**](#proposal-voting)
-    * [**7.3. Closing proposals**](#proposal-closing)
-    * [**7.4. Passing and failing proposals**](#proposal-pass-fail)
-    * [**7.5. Proposal modification**](#proposal-modification)
-* [**8. Setting**](#setting)
-* [**9. Cabals**](#cabals)
-* [**10. Agents**](#agents)
-    * [**10.1. Agent Operations**](#agents-operations)
-* [**11. Sectors**](#sectors)
-* [**12. Warp drive**](#warp-drive)
+* [**6. Pingable**](#pingable)
+* [**7. Polls**](#polls)
+* [**8. Proposals**](#proposals)
+    * [**8.1. Proposal content**](#proposal-content)
+    * [**8.2. Voting on proposals**](#proposal-voting)
+    * [**8.3. Closing proposals**](#proposal-closing)
+    * [**8.4. Passing and failing proposals**](#proposal-pass-fail)
+    * [**8.5. Proposal modification**](#proposal-modification)
+* [**9. Setting**](#setting)
+* [**10. Cabals**](#cabals)
+* [**11. Agents**](#agents)
+    * [**11.1. Agent Operations**](#agents-operations)
+* [**12. Sectors**](#sectors)
+* [**13. Warp drive**](#warp-drive)
 
 ## <a name='meta'/> Meta rules
 
@@ -175,11 +176,11 @@ Players may converse freely in the <#593807344979148800> channel.
 
 ### <a name='polls-channel'/> #polls
 
-The <#593807379360120877> channel is governed by [**6. Polls**](#polls).
+The <#593807379360120877> channel is governed by [**7. Polls**](#polls).
 
 ### <a name='proposals-channel'/> #proposals
 
-The <#593807201194344455> channel is governed by [**7. Proposals**](#proposals).
+The <#593807201194344455> channel is governed by [**8. Proposals**](#proposals).
 
 ### <a name='rules-channel'/> #rules
 
@@ -222,6 +223,10 @@ A quantity is a named property with a numerical value for each player.
 • Y: Player's Y position.
 
 When a proposal establishing a new quantity is passed, this rule section should be amended by inserting the new quantity into the above list, maintaining alphabetical order, along with a brief description. Similarly, if a quantity is renamed or removed, the above list should be modified accordingly.
+
+## <a name='pingable'/> Pingable
+
+At any time, players may opt-in to a "Pingable" role that can be pinged by members of the server. Any member may ping the "Pingable" role, and thus everyone who has opted in to pings, as long as the last mass ping (@Pingable, @here or @everyone) was at least 1 week (168 hours) ago.
 
 ## <a name='polls'/> Polls
 
