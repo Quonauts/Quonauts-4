@@ -622,7 +622,7 @@ The intention of this is to pass amendments fixing critical flaws in a proposal 
 
 <a name='81'/>
 
-## #81
+## #81 — Passed
 
 Amend #80: Add the phrase "than would be otherwise allowed" immediately after "24 hours earlier"
 
