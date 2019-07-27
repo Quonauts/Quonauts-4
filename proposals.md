@@ -637,3 +637,12 @@ At any time, players may opt-in to a "Pingable" role that can be pinged by membe
 
 (Note: The way that players attain the Pingable role is not defined by this proposal, as I believe it is outside the scope of the game rules. It will probably be managed manually by Hactar until an update to Quobot is made.)
 
+<a name='83'/>
+
+## #83
+
+Append the following to Meta Rules:
+[start]
+Rules and actions only apply inside the Quonauts 4 category, unless otherwise specified.
+[end]
+
