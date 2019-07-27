@@ -628,7 +628,7 @@ Amend #80: Add the phrase "than would be otherwise allowed" immediately after "2
 
 <a name='82'/>
 
-## #82
+## #82 — Passed
 
 Add a role to the server called "Pingable" that can be pinged. Create a new rules section labelled "Pingable" above "Polls" with the following content:
 `[start]`
