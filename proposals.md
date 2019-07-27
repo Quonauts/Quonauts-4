@@ -612,7 +612,7 @@ Ping @everyone to wake up the game.
 
 <a name='80'/>
 
-## #80
+## #80 — Passed
 
 Append the following to "Closing Proposals":
 [start]
