@@ -20,7 +20,7 @@
 				"agents-operations"
 			],
 			"message_ids": [
-				603211491239395328
+				604796677857083433
 			]
 		},
 		"agents-operations": {
@@ -30,7 +30,7 @@
 			"parent_tag": "agents",
 			"child_tags": [],
 			"message_ids": [
-				603211512437407776
+				604796678460932096
 			]
 		},
 		"bots": {
@@ -50,7 +50,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				603211490744336434
+				604796652250857472
 			]
 		},
 		"channels": {
@@ -125,6 +125,16 @@
 				593911295443468292
 			]
 		},
+		"pingable": {
+			"tag": "pingable",
+			"title": "Pingable",
+			"content": "At any time, players may opt-in to a \"Pingable\" role that can be pinged by members of the server. Any member may ping the \"Pingable\" role, and thus everyone who has opted in to pings, as long as the last mass ping (@Pingable, @here or @everyone) was at least 1 week (168 hours) ago.",
+			"parent_tag": "root",
+			"child_tags": [],
+			"message_ids": [
+				604796622001668100
+			]
+		},
 		"polls": {
 			"tag": "polls",
 			"title": "Polls",
@@ -132,7 +142,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				603211459702292511
+				604796623356428339
 			]
 		},
 		"polls-channel": {
@@ -158,11 +168,11 @@
 		"proposal-closing": {
 			"tag": "proposal-closing",
 			"title": "Closing proposals",
-			"content": "Any player may close an open proposal if one or more of the following conditions is met:\n * The proposal is at least 48 hours (2 days) old.\n * All active players have cast a vote on the proposal.\n * A majority of active players have voted in favor of the proposal.\n * A majority of active players have voted against the proposal.\n\nThe player that authored a proposal may fail or delete it at any time.\n\nWhen a player passes a proposal, that player must carry out the effects of that proposal and its passing to the best of their ability; after this, that player gains 1 point.",
+			"content": "Any player may close an open proposal if one or more of the following conditions is met:\n * The proposal is at least 48 hours (2 days) old.\n * All active players have cast a vote on the proposal.\n * A majority of active players have voted in favor of the proposal.\n * A majority of active players have voted against the proposal.\n\nThe player that authored a proposal may fail or delete it at any time.\n\nWhen a player passes a proposal, that player must carry out the effects of that proposal and its passing to the best of their ability; after this, that player gains 1 point.\n\nWhen a proposal is passed, any proposals that amend it may be closed 24 hours earlier than would be otherwise allowed.",
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				603211462214942730
+				604796650388717568
 			]
 		},
 		"proposal-content": {
@@ -172,7 +182,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				603211461006983168
+				604796624371318821
 			]
 		},
 		"proposal-modification": {
@@ -182,7 +192,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				603211488450183169
+				604796651265064961
 			]
 		},
 		"proposal-pass-fail": {
@@ -192,7 +202,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				603211488043335680
+				604796651021926534
 			]
 		},
 		"proposal-voting": {
@@ -202,7 +212,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				603211461728403460
+				604796624392159233
 			]
 		},
 		"proposals": {
@@ -218,7 +228,7 @@
 				"proposal-modification"
 			],
 			"message_ids": [
-				603211460360929322
+				604796623909945374
 			]
 		},
 		"proposals-channel": {
@@ -274,6 +284,7 @@
 				"roles",
 				"activity",
 				"quantities",
+				"pingable",
 				"polls",
 				"proposals",
 				"setting",
@@ -283,9 +294,9 @@
 				"warp-drive"
 			],
 			"message_ids": [
-				603211514203209806,
-				603211514794737665,
-				603211536177168384
+				604796679652245508,
+				604796701588455455,
+				604796702259675138
 			]
 		},
 		"rule-offender-role": {
@@ -339,7 +350,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				603211512944787467
+				604796678993739806
 			]
 		},
 		"setting": {
@@ -349,7 +360,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				603211490253864979
+				604796651554471947
 			]
 		},
 		"style": {
@@ -414,7 +425,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				603211513477726230
+				604796679371358238
 			]
 		}
 	}

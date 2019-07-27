@@ -1217,6 +1217,19 @@
 				"512645502253400064": 1
 			},
 			"timestamp": 1563922915
+		},
+		{
+			"n": 83,
+			"author": 160279332454006795,
+			"content": "Append the following to Meta Rules:\n[start]\nRules and actions only apply inside the Quonauts 4 category, unless otherwise specified.\n[end]",
+			"status": "voting",
+			"message_id": 604800052627767296,
+			"votes": {
+				"216295379895844865": -1,
+				"271274710753476610": 0,
+				"319753218592866315": -1
+			},
+			"timestamp": 1564265969
 		}
 	]
 }
