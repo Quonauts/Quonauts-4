@@ -652,3 +652,9 @@ Rules and actions only apply inside the Quonauts 4 category, unless otherwise sp
 
 Give galaxtone the pingable role.
 
+<a name='85'/>
+
+## #85
+
+Heavpoot wins, and you don't
+
