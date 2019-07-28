@@ -1244,6 +1244,17 @@
 				"271274710753476610": 1
 			},
 			"timestamp": 1564333430
+		},
+		{
+			"n": 85,
+			"author": 160279332454006795,
+			"content": "Heavpoot wins, and you don't",
+			"status": "voting",
+			"message_id": 605172842077749252,
+			"votes": {
+				"160279332454006795": -1
+			},
+			"timestamp": 1564354849
 		}
 	]
 }
