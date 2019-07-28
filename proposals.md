@@ -646,3 +646,9 @@ Append the following to Meta Rules:
 Rules and actions only apply inside the Quonauts 4 category, unless otherwise specified.
 [end]
 
+<a name='84'/>
+
+## #84
+
+Give galaxtone the pingable role.
+
