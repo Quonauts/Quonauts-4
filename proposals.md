@@ -681,3 +681,9 @@ Visible sectors are a type of sector. Every sector within 20 spaces of a player 
 
 Rationale: Visible sectors would be where random spawns appear.
 
+<a name='89'/>
+
+## #89
+
+When not otherwise stated, all times are in UTC.
+
