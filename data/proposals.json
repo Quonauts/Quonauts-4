@@ -1305,6 +1305,17 @@
 				"271274710753476610": 1
 			},
 			"timestamp": 1564569003
+		},
+		{
+			"n": 89,
+			"author": 319753218592866315,
+			"content": "Add a new rules section titled \"Real-world time\" under \"Meta Rules\", after \"Formatting,  with the following content:\n[start]\nRules may refer to real-world timestamps, such as saying an event will happen at a certain time or  that different things happen depending on the weekday.\n\nWhen this is done, the rule should preferably be explicit about what timezone it is referring to. However, if no such timezone is mentioned, it is assumed to be UTC.\n[end]",
+			"status": "voting",
+			"message_id": 606252766695784448,
+			"votes": {
+				"216295379895844865": 1
+			},
+			"timestamp": 1564612323
 		}
 	]
 }
