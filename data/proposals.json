@@ -1222,7 +1222,7 @@
 			"n": 83,
 			"author": 160279332454006795,
 			"content": "Append the following to Meta Rules:\n[start]\nRules and actions only apply inside the Quonauts 4 category, unless otherwise specified.\n[end]",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 604800052627767296,
 			"votes": {
 				"160279332454006795": 1,
@@ -1236,7 +1236,7 @@
 			"n": 84,
 			"author": 160279332454006795,
 			"content": "Give galaxtone the pingable role.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 605083006259953675,
 			"votes": {
 				"160279332454006795": 1,
@@ -1250,12 +1250,13 @@
 			"n": 85,
 			"author": 160279332454006795,
 			"content": "Heavpoot wins, and you don't",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 605172842077749252,
 			"votes": {
 				"160279332454006795": 1,
 				"216295379895844865": -1,
 				"278708969583804416": -1,
+				"319753218592866315": -1,
 				"427589146295664667": 1,
 				"512645502253400064": -1
 			},
@@ -1268,9 +1269,33 @@
 			"status": "voting",
 			"message_id": 606058940899524609,
 			"votes": {
-				"160279332454006795": 1
+				"160279332454006795": 1,
+				"319753218592866315": 0,
+				"512645502253400064": 0
 			},
 			"timestamp": 1564566111
+		},
+		{
+			"n": 87,
+			"author": 160279332454006795,
+			"content": "LyricLy loses.",
+			"status": "voting",
+			"message_id": 606069143145283615,
+			"votes": {
+				"160279332454006795": 1,
+				"319753218592866315": -1,
+				"512645502253400064": 0
+			},
+			"timestamp": 1564568543
+		},
+		{
+			"n": 88,
+			"author": 319753218592866315,
+			"content": "Add a new rules section as a subsection of \"Sectors\" titled \"Visible\" with the following content:\n[start]\nVisible sectors are a type of sector. Every sector within 20 spaces of a player (with equal movement rules to \"Warp Drive\") is a visible sector.\n[end]\n\nRationale: Visible sectors would be where random spawns appear.",
+			"status": "voting",
+			"message_id": 606071069811539969,
+			"votes": {},
+			"timestamp": 1564569003
 		}
 	]
 }
