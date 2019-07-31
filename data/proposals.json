@@ -1260,6 +1260,17 @@
 				"512645502253400064": -1
 			},
 			"timestamp": 1564354849
+		},
+		{
+			"n": 86,
+			"author": 160279332454006795,
+			"content": "Do nothing. This proposal is useless.",
+			"status": "voting",
+			"message_id": 606058940899524609,
+			"votes": {
+				"160279332454006795": 1
+			},
+			"timestamp": 1564566111
 		}
 	]
 }
