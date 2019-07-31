@@ -1270,6 +1270,7 @@
 			"message_id": 606058940899524609,
 			"votes": {
 				"160279332454006795": 1,
+				"216295379895844865": 0,
 				"319753218592866315": 0,
 				"512645502253400064": 0
 			},
@@ -1283,6 +1284,7 @@
 			"message_id": 606069143145283615,
 			"votes": {
 				"160279332454006795": 1,
+				"216295379895844865": -1,
 				"319753218592866315": -1,
 				"512645502253400064": 0
 			},
@@ -1294,7 +1296,9 @@
 			"content": "Add a new rules section as a subsection of \"Sectors\" titled \"Visible\" with the following content:\n[start]\nVisible sectors are a type of sector. Every sector within 20 spaces of a player (with equal movement rules to \"Warp Drive\") is a visible sector.\n[end]\n\nRationale: Visible sectors would be where random spawns appear.",
 			"status": "voting",
 			"message_id": 606071069811539969,
-			"votes": {},
+			"votes": {
+				"216295379895844865": 0
+			},
 			"timestamp": 1564569003
 		}
 	]
