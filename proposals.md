@@ -670,3 +670,14 @@ Do nothing. This proposal is useless.
 
 LyricLy loses.
 
+<a name='88'/>
+
+## #88
+
+Add a new rules section as a subsection of "Sectors" titled "Visible" with the following content:
+[start]
+Visible sectors are a type of sector. Every sector within 20 spaces of a player (with equal movement rules to "Warp Drive") is a visible sector.
+[end]
+
+Rationale: Visible sectors would be where random spawns appear.
+
