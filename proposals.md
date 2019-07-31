@@ -654,7 +654,7 @@ Give galaxtone the pingable role.
 
 <a name='85'/>
 
-## #85
+## #85 — Failed
 
 Heavpoot wins, and you don't
 
