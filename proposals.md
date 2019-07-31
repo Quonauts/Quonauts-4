@@ -685,5 +685,10 @@ Rationale: Visible sectors would be where random spawns appear.
 
 ## #89
 
-When not otherwise stated, all times are in UTC.
+Add a new rules section titled "Real-world time" under "Meta Rules", after "Formatting,  with the following content:
+[start]
+Rules may refer to real-world timestamps, such as saying an event will happen at a certain time or  that different things happen depending on the weekday.
+
+When this is done, the rule should preferably be explicit about what timezone it is referring to. However, if no such timezone is mentioned, it is assumed to be UTC.
+[end]
 
