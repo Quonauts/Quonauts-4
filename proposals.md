@@ -648,7 +648,7 @@ Rules and actions only apply inside the Quonauts 4 category, unless otherwise sp
 
 <a name='84'/>
 
-## #84
+## #84 — Passed
 
 Give galaxtone the pingable role.
 
