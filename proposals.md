@@ -639,7 +639,7 @@ At any time, players may opt-in to a "Pingable" role that can be pinged by membe
 
 <a name='83'/>
 
-## #83
+## #83 — Failed
 
 Append the following to Meta Rules:
 [start]
