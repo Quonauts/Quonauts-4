@@ -692,3 +692,12 @@ Rules may refer to real-world timestamps, such as saying an event will happen at
 When this is done, the rule should preferably be explicit about what timezone it is referring to. However, if no such timezone is mentioned, it is assumed to be UTC.
 [end]
 
+<a name='90'/>
+
+## #90
+
+Add a new rules secton called "Stealing" as part of "Agent Operations" with the following content:
+[start]
+As an agent action, a player may steal 1 point from another player in the same sector as them.
+[end]
+
