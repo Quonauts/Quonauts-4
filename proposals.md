@@ -712,3 +712,11 @@ This proposal adds the following sentence to the description of the “X” and 
 This quantity can also be negative.
 [end]
 
+<a name='92'/>
+
+## #92
+
+Give all players 3 agents.
+
+The "Agents" rule states that *new* players should receive 3 agents, but existing players should probably have some as well.
+
