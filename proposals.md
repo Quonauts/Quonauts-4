@@ -660,7 +660,7 @@ Heavpoot wins, and you don't
 
 <a name='86'/>
 
-## #86
+## #86 — Failed
 
 Do nothing. This proposal is useless.
 
