@@ -714,7 +714,7 @@ This quantity can also be negative.
 
 <a name='92'/>
 
-## #92
+## #92 — Failed
 
 Give all players 3 agents.
 
