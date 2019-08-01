@@ -701,3 +701,14 @@ Add a new rules secton called "Stealing" as part of "Agent Operations" with the 
 As an agent action, a player may steal 1 point from another player in the same sector as them.
 [end]
 
+<a name='91'/>
+
+## #91
+
+This proposal edits the rule section 5.Quantities so that the Coordinate System created by the quantities X and Y feels more comfortable.
+
+This proposal adds the following sentence to the description of the “X” and the “Y” quantities in the rule section 5. Quantities.
+[start]
+This quantity can also be negative.
+[end]
+
