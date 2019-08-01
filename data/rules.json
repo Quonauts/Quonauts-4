@@ -8,7 +8,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				603211437455966208
+				606503980360663061
 			]
 		},
 		"agents": {
@@ -20,7 +20,7 @@
 				"agents-operations"
 			],
 			"message_ids": [
-				604796677857083433
+				606504057837846549
 			]
 		},
 		"agents-operations": {
@@ -30,7 +30,7 @@
 			"parent_tag": "agents",
 			"child_tags": [],
 			"message_ids": [
-				604796678460932096
+				606504058940948520
 			]
 		},
 		"bots": {
@@ -50,7 +50,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				604796652250857472
+				606504057783320588
 			]
 		},
 		"channels": {
@@ -65,7 +65,7 @@
 				"rules-channel"
 			],
 			"message_ids": [
-				603211412281753602
+				606503954813288461
 			]
 		},
 		"disallow-by-default": {
@@ -95,7 +95,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				603211413078409216
+				606503956046151680
 			]
 		},
 		"glossary": {
@@ -105,7 +105,7 @@
 			"parent_tag": "meta",
 			"child_tags": [],
 			"message_ids": [
-				603211411530711051
+				606503953605197833
 			]
 		},
 		"meta": {
@@ -132,7 +132,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				604796622001668100
+				606504002858778644
 			]
 		},
 		"polls": {
@@ -142,7 +142,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				604796623356428339
+				606504003295248387
 			]
 		},
 		"polls-channel": {
@@ -152,7 +152,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				603211413682651137
+				606503957124219000
 			]
 		},
 		"precedence": {
@@ -172,7 +172,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				604796650388717568
+				606504030482726941
 			]
 		},
 		"proposal-content": {
@@ -182,7 +182,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				604796624371318821
+				606504004322590725
 			]
 		},
 		"proposal-modification": {
@@ -192,7 +192,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				604796651265064961
+				606504031388565524
 			]
 		},
 		"proposal-pass-fail": {
@@ -202,7 +202,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				604796651021926534
+				606504030570676233
 			]
 		},
 		"proposal-voting": {
@@ -212,7 +212,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				604796624392159233
+				606504029924884508
 			]
 		},
 		"proposals": {
@@ -228,7 +228,7 @@
 				"proposal-modification"
 			],
 			"message_ids": [
-				604796623909945374
+				606504003542712324
 			]
 		},
 		"proposals-channel": {
@@ -238,7 +238,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				603211414194225192
+				606503978229956629
 			]
 		},
 		"punitive-action": {
@@ -258,7 +258,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				603211438193901608
+				606504001948745747
 			]
 		},
 		"roles": {
@@ -270,7 +270,7 @@
 				"rule-offender-role"
 			],
 			"message_ids": [
-				603211436369641485
+				606503979513413694
 			]
 		},
 		"root": {
@@ -294,9 +294,9 @@
 				"warp-drive"
 			],
 			"message_ids": [
-				604796679652245508,
-				604796701588455455,
-				604796702259675138
+				606504081523081226,
+				606504082496028682,
+				606504082722521089
 			]
 		},
 		"rule-offender-role": {
@@ -306,7 +306,7 @@
 			"parent_tag": "roles",
 			"child_tags": [],
 			"message_ids": [
-				603211436885278733
+				606503980096552984
 			]
 		},
 		"rule-violation-polls": {
@@ -340,7 +340,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				603211435778244608
+				606503979073142803
 			]
 		},
 		"sectors": {
@@ -350,7 +350,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				604796678993739806
+				606504059440201738
 			]
 		},
 		"setting": {
@@ -360,7 +360,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				604796651554471947
+				606504031967510567
 			]
 		},
 		"style": {
@@ -372,7 +372,8 @@
 				"style-content",
 				"style-headers-tags",
 				"style-lists",
-				"style-formatting"
+				"style-formatting",
+				"time"
 			],
 			"message_ids": [
 				603210887133921281
@@ -418,6 +419,16 @@
 				603210888991735819
 			]
 		},
+		"time": {
+			"tag": "time",
+			"title": "Real-world time",
+			"content": "Rules may refer to real-world timestamps, such as saying an event will happen at a certain time or  that different things happen depending on the weekday.\n\nWhen this is done, the rule should preferably be explicit about what timezone it is referring to. However, if no such timezone is mentioned, it is assumed to be UTC.",
+			"parent_tag": "style",
+			"child_tags": [],
+			"message_ids": [
+				606503952913006602
+			]
+		},
 		"warp-drive": {
 			"tag": "warp-drive",
 			"title": "Warp drive",
@@ -425,7 +436,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				604796679371358238
+				606504059951644673
 			]
 		}
 	}

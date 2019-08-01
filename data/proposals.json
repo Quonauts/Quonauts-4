@@ -1315,7 +1315,7 @@
 			"n": 89,
 			"author": 319753218592866315,
 			"content": "Add a new rules section titled \"Real-world time\" under \"Meta Rules\", after \"Formatting,  with the following content:\n[start]\nRules may refer to real-world timestamps, such as saying an event will happen at a certain time or  that different things happen depending on the weekday.\n\nWhen this is done, the rule should preferably be explicit about what timezone it is referring to. However, if no such timezone is mentioned, it is assumed to be UTC.\n[end]",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 606252766695784448,
 			"votes": {
 				"160279332454006795": 0,
@@ -1352,6 +1352,15 @@
 				"512645502253400064": 1
 			},
 			"timestamp": 1564652703
+		},
+		{
+			"n": 92,
+			"author": 319753218592866315,
+			"content": "Give all players 3 agents.\n\nThe \"Agents\" rule states that *new* players should receive 3 agents, but existing players should probably have some as well.",
+			"status": "failed",
+			"message_id": 606506144051101696,
+			"votes": {},
+			"timestamp": 1564672732
 		}
 	]
 }
