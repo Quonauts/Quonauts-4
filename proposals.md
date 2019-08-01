@@ -683,7 +683,7 @@ Rationale: Visible sectors would be where random spawns appear.
 
 <a name='89'/>
 
-## #89
+## #89 — Passed
 
 Add a new rules section titled "Real-world time" under "Meta Rules", after "Formatting,  with the following content:
 [start]
