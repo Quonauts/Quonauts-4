@@ -666,7 +666,7 @@ Do nothing. This proposal is useless.
 
 <a name='87'/>
 
-## #87
+## #87 — Failed
 
 LyricLy loses.
 
