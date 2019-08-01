@@ -1266,7 +1266,7 @@
 			"n": 86,
 			"author": 160279332454006795,
 			"content": "Do nothing. This proposal is useless.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 606058940899524609,
 			"votes": {
 				"160279332454006795": 1,
@@ -1283,7 +1283,7 @@
 			"n": 87,
 			"author": 160279332454006795,
 			"content": "LyricLy loses.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 606069143145283615,
 			"votes": {
 				"160279332454006795": 1,
@@ -1343,6 +1343,7 @@
 			"status": "voting",
 			"message_id": 606422135522721797,
 			"votes": {
+				"319753218592866315": 1,
 				"512645502253400064": 1
 			},
 			"timestamp": 1564652703
