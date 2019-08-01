@@ -27,6 +27,13 @@
 		],
 		"players": {}
 	},
+	"warp core": {
+		"name": "warp core",
+		"aliases": [
+			"warp cores"
+		],
+		"players": {}
+	},
 	"x": {
 		"name": "x",
 		"aliases": [
