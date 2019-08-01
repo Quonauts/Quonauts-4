@@ -15,6 +15,7 @@
         * [**1.5.2. Headers and tags**](#style-headers-tags)
         * [**1.5.3. Lists**](#style-lists)
         * [**1.5.4. Formatting**](#style-formatting)
+        * [**1.5.5. Real-world time**](#time)
     * [**1.6. Glossary**](#glossary)
 * [**2. Channels**](#channels)
     * [**2.1. #general**](#general-channel)
@@ -149,6 +150,12 @@ From [GitHub's "Mastering Markdown" document](https://guides.github.com/features
 * Strikethrough
 
 Additionally, square brackets `[]` containing a tag will be converted into links to another rule section; e.g. `[%rule-tag]`. Discord mentions (@username, @role, and #channel) may be used, however they are not readable in GitHub-flavored markdown.
+
+#### <a name='time'/> Real-world time
+
+Rules may refer to real-world timestamps, such as saying an event will happen at a certain time or  that different things happen depending on the weekday.
+
+When this is done, the rule should preferably be explicit about what timezone it is referring to. However, if no such timezone is mentioned, it is assumed to be UTC.
 
 ### <a name='glossary'/> Glossary
 
