@@ -294,9 +294,9 @@
 				"warp-drive"
 			],
 			"message_ids": [
-				606504081523081226,
-				606504082496028682,
-				606504082722521089
+				607135563404935178,
+				607135563849662474,
+				607135563962908684
 			]
 		},
 		"rule-offender-role": {
@@ -348,7 +348,9 @@
 			"title": "Sectors",
 			"content": "A \"sector\" is any unique integer combination of X and Y, written as \"sector <x>, <y>\u201d. The set of all sectors is \"space.\"",
 			"parent_tag": "root",
-			"child_tags": [],
+			"child_tags": [
+				"visible"
+			],
 			"message_ids": [
 				606504059440201738
 			]
@@ -429,6 +431,16 @@
 				606503952913006602
 			]
 		},
+		"visible": {
+			"tag": "visible",
+			"title": "Visible",
+			"content": "Visible sectors are a type of sector. Every sector within 20 spaces of a player (with equal movement rules to \"Warp Drive\") is a visible sector.",
+			"parent_tag": "sectors",
+			"child_tags": [],
+			"message_ids": [
+				607135562054500382
+			]
+		},
 		"warp-drive": {
 			"tag": "warp-drive",
 			"title": "Warp drive",
@@ -436,7 +448,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				606504059951644673
+				607135562725326869
 			]
 		}
 	}

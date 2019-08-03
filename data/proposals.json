@@ -1300,7 +1300,7 @@
 			"n": 88,
 			"author": 319753218592866315,
 			"content": "Add a new rules section as a subsection of \"Sectors\" titled \"Visible\" with the following content:\n[start]\nVisible sectors are a type of sector. Every sector within 20 spaces of a player (with equal movement rules to \"Warp Drive\") is a visible sector.\n[end]\n\nRationale: Visible sectors would be where random spawns appear.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 606071069811539969,
 			"votes": {
 				"160279332454006795": 0,
