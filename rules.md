@@ -39,6 +39,7 @@
 * [**11. Agents**](#agents)
     * [**11.1. Agent Operations**](#agents-operations)
 * [**12. Sectors**](#sectors)
+    * [**12.1. Visible**](#visible)
 * [**13. Warp drive**](#warp-drive)
 
 ## <a name='meta'/> Meta rules
@@ -327,6 +328,10 @@ Agents may perform operations which are actions that change the game state. Each
 ## <a name='sectors'/> Sectors
 
 A "sector" is any unique integer combination of X and Y, written as "sector <x>, <y>”. The set of all sectors is "space."
+
+### <a name='visible'/> Visible
+
+Visible sectors are a type of sector. Every sector within 20 spaces of a player (with equal movement rules to "Warp Drive") is a visible sector.
 
 ## <a name='warp-drive'/> Warp drive
 
