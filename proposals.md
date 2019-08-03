@@ -672,7 +672,7 @@ LyricLy loses.
 
 <a name='88'/>
 
-## #88
+## #88 — Passed
 
 Add a new rules section as a subsection of "Sectors" titled "Visible" with the following content:
 [start]
