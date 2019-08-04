@@ -739,3 +739,15 @@ When a rule or proposal says to "generate" a chunk, one is created in a random v
 
 Create a new quantity called "Omni" with the default properties.
 
+<a name='95'/>
+
+## #95
+
+Add a new rules section called "Mining" after "Stealing" with the following content:
+[start]
+As an agent action, a player may mine a chunk that is in the same sector as them. This does the following:
+Reduces the size of the chunk by 1
+Gives 1 of the chunk's quantity to the player
+If the chunk is now at size 0, it is destroyed
+[end]
+
