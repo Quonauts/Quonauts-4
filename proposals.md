@@ -872,3 +872,14 @@ Normal Items (Everyone has this Armour in the beginning):
 Special Items:
 [end]
 
+<a name='108'/>
+
+## #108
+
+This proposal adds a new subsection to the Rule Section “Equip” after all other subsections. This proposal depends on proposal 104.
+[start]
+A player can have at most 2 Utility Items equipped. 
+If a proposal adds a Utility Item to the Game it gets added to the list below, maintaining alphabetical order.
+Items:
+[end]
+
