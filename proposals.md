@@ -893,3 +893,9 @@ This proposal also adds a new subsection to 2. Channels behind all other existin
 Every active Player must write a comment into the #game-status Channel containing all Items they have equipped. (E.g. “Weapon: Missile Launcher; Armour: Metal Hull; Utilities: None) A player also has to try to do his best to keep this comment accurate. Should a player fail to update his message after 3 days he can’t do any other game action than updating his comment.
 [end]
 
+<a name='110'/>
+
+## #110
+
+Add a z dimension that behaves exactly like the x and y dimensions.
+
