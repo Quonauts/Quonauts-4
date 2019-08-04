@@ -213,9 +213,10 @@ All players that have taken some game action in the preceding 72 hours are activ
 
 ## <a name='quantities'/> Quantities
 
+5. Quantities
 A quantity is a named property with a numerical value for each player.
 
- By default any unique quantity added to the game:
+By default any unique quantity added to the game:
 
 • applies to all players. 
 • is instatiated at zero. 
@@ -223,13 +224,13 @@ A quantity is a named property with a numerical value for each player.
 • must never have a negative value. 
 • cannot be traded or exchanged.
 
- Existing quantities: 
+Existing quantities: 
 
 • Agents: Total agents. 
 • Point: A generic unit of score, which may be any nonnegative integer or decimal number. 
 • Strike: The number of rule violations that a player has committed without punishment.
-• X: Player's X position. 
-• Y: Player's Y position.
+• X: Player's X position. This quantity can also be negative.
+• Y: Player's Y position. This quantity can also be negative.
 
 When a proposal establishing a new quantity is passed, this rule section should be amended by inserting the new quantity into the above list, maintaining alphabetical order, along with a brief description. Similarly, if a quantity is renamed or removed, the above list should be modified accordingly.
 
