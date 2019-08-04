@@ -743,6 +743,8 @@ Create a new quantity called "Omni" with the default properties.
 
 ## #95
 
+This proposal is dependent on #93.
+
 Add a new rules section called "Mining" after "Stealing" with the following content:
 [start]
 As an agent action, a player may mine a chunk that is in the same sector as them. This does the following:
