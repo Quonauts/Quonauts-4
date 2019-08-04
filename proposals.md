@@ -836,3 +836,13 @@ This proposal adds this text behind the already existing text of the subsection 
 If a player loses 50% of his Health the attacker gains ¼ of the enemies’ points. If a player drops to 0 Health the attacker gains ½ of his points and the players X and Y quantities are reset to 0. He also loses 1 special Item (If he has one) which the attacker can either take or destroy. He also can’t take any game action for 2 days and he is no target of any game action that targets players (E.g. Agent Operations). After this time is over his Health Quantity goes back to its maximum and he can participate in the game again.
 [end]
 
+<a name='105'/>
+
+## #105
+
+This proposal adds a new Rule Section called “Equip” behind all other existing Rule Sections. This proposal depends on proposal 103 and 104.
+[start]
+A player can get better Equip for his ship through different ways. These are not specified at the moment. 
+There are 3 different Slots for Equip pieces (Equip pieces can also be called Items). There are Weapons, Armour and Utilities. Items are also divided into Special Items and Normal Items. Normal Items are the Items one has at the beginning of the game and Special Items are Items which are gained through other ways.
+[end]
+
