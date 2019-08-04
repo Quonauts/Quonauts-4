@@ -827,3 +827,12 @@ This proposal adds a subsection called “Combat” after all existing subsectio
 As an agent action a player can use a weapon on a target if this target is in Range for the weapon and the weapon is not on cooldown. He then deals “Damage Stat of the Weapon”- “Armour stat of the Armour of the target” damage. This damage gets then subtracted from the enemy’s health (If positive). 
 [end]
 
+<a name='104'/>
+
+## #104
+
+This proposal adds this text behind the already existing text of the subsection “Combat”. This proposal depends on proposal 103. 
+[start]
+If a player loses 50% of his Health the attacker gains ¼ of the enemies’ points. If a player drops to 0 Health the attacker gains ½ of his points and the players X and Y quantities are reset to 0. He also loses 1 special Item (If he has one) which the attacker can either take or destroy. He also can’t take any game action for 2 days and he is no target of any game action that targets players (E.g. Agent Operations). After this time is over his Health Quantity goes back to its maximum and he can participate in the game again.
+[end]
+
