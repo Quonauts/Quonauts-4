@@ -863,10 +863,10 @@ Special Items:
 
 ## #107
 
-This proposal adds a new subsection to the Rule Section “Equip” after the subsection “Weapons” called “Armor”. It also grants every player the Normal Armour called “Metal Hull”. This proposal depends on proposal 104.
+This proposal adds a new subsection to the Rule Section “Equip” after the subsection “Weapons” called “Armour”. It also grants every player the Normal Armour called “Metal Hull”. This proposal depends on proposal 105.
 [start]
 A player can always equip only 1 Armour (if not otherwise stated). Armours have only one stat called Damage Reduction which specifies the amount of damage that is reduced when attacked (More Information in Rule Section “Combat”.
-If a proposal adds an Armor to the game the armor gets also added to the list below maintaining alphabetical order and the distribution of normal and special items.
+If a proposal adds an Armor to the game the armour gets also added to the list below maintaining alphabetical order and the distribution of normal and special items.
 Normal Items (Everyone has this Armour in the beginning):
 •    Metal Hull: Damage Reduction:5
 Special Items:
