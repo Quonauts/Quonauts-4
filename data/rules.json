@@ -8,7 +8,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				606503980360663061
+				607629155969925126
 			]
 		},
 		"agents": {
@@ -20,7 +20,7 @@
 				"agents-operations"
 			],
 			"message_ids": [
-				606504057837846549
+				607629208189009943
 			]
 		},
 		"agents-operations": {
@@ -32,7 +32,7 @@
 				"stealing"
 			],
 			"message_ids": [
-				606504058940948520
+				607629230343454737
 			]
 		},
 		"bots": {
@@ -42,7 +42,7 @@
 			"parent_tag": "meta",
 			"child_tags": [],
 			"message_ids": [
-				593911325139271690
+				607629081395331103
 			]
 		},
 		"cabals": {
@@ -52,7 +52,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				606504057783320588
+				607629208075894846
 			]
 		},
 		"channels": {
@@ -67,7 +67,7 @@
 				"rules-channel"
 			],
 			"message_ids": [
-				606503954813288461
+				607629128950087710
 			]
 		},
 		"disallow-by-default": {
@@ -77,7 +77,7 @@
 			"parent_tag": "meta",
 			"child_tags": [],
 			"message_ids": [
-				593911296676724810
+				607629053654204416
 			]
 		},
 		"errors": {
@@ -87,7 +87,7 @@
 			"parent_tag": "rule-violations",
 			"child_tags": [],
 			"message_ids": [
-				593911298442657823
+				607629054882873346
 			]
 		},
 		"general-channel": {
@@ -97,7 +97,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				606503956046151680
+				607629130111909898
 			]
 		},
 		"glossary": {
@@ -107,7 +107,7 @@
 			"parent_tag": "meta",
 			"child_tags": [],
 			"message_ids": [
-				606503953605197833
+				607629106955288624
 			]
 		},
 		"meta": {
@@ -124,7 +124,7 @@
 				"glossary"
 			],
 			"message_ids": [
-				593911295443468292
+				607629052211363840
 			]
 		},
 		"pingable": {
@@ -134,7 +134,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				606504002858778644
+				607629156997529600
 			]
 		},
 		"polls": {
@@ -144,7 +144,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				606504003295248387
+				607629178422165515
 			]
 		},
 		"polls-channel": {
@@ -154,7 +154,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				606503957124219000
+				607629132268044290
 			]
 		},
 		"precedence": {
@@ -164,7 +164,7 @@
 			"parent_tag": "meta",
 			"child_tags": [],
 			"message_ids": [
-				593911296223871026
+				607629052957818907
 			]
 		},
 		"proposal-closing": {
@@ -174,7 +174,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				606504030482726941
+				607629180322054190
 			]
 		},
 		"proposal-content": {
@@ -184,7 +184,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				606504004322590725
+				607629179630125076
 			]
 		},
 		"proposal-modification": {
@@ -194,7 +194,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				606504031388565524
+				607629207115399178
 			]
 		},
 		"proposal-pass-fail": {
@@ -204,7 +204,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				606504030570676233
+				607629206355968000
 			]
 		},
 		"proposal-voting": {
@@ -214,7 +214,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				606504029924884508
+				607629180066332672
 			]
 		},
 		"proposals": {
@@ -230,7 +230,7 @@
 				"proposal-modification"
 			],
 			"message_ids": [
-				606504003542712324
+				607629178984202240
 			]
 		},
 		"proposals-channel": {
@@ -240,7 +240,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				606503978229956629
+				607629132687212549
 			]
 		},
 		"punitive-action": {
@@ -250,7 +250,7 @@
 			"parent_tag": "rule-violations",
 			"child_tags": [],
 			"message_ids": [
-				593911324627697684
+				607629080879169536
 			]
 		},
 		"quantities": {
@@ -260,7 +260,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				606504001948745747
+				607629156175446018
 			]
 		},
 		"roles": {
@@ -272,7 +272,7 @@
 				"rule-offender-role"
 			],
 			"message_ids": [
-				606503979513413694
+				607629155009560636
 			]
 		},
 		"root": {
@@ -296,9 +296,9 @@
 				"warp-drive"
 			],
 			"message_ids": [
-				607494556220653580,
-				607494582074212369,
-				607494582523133972
+				607629253818843137,
+				607629254355714285,
+				607629255094042655
 			]
 		},
 		"rule-offender-role": {
@@ -308,7 +308,7 @@
 			"parent_tag": "roles",
 			"child_tags": [],
 			"message_ids": [
-				606503980096552984
+				607629155227402241
 			]
 		},
 		"rule-violation-polls": {
@@ -318,7 +318,7 @@
 			"parent_tag": "rule-violations",
 			"child_tags": [],
 			"message_ids": [
-				593911324149547008
+				607629080480710656
 			]
 		},
 		"rule-violations": {
@@ -332,7 +332,7 @@
 				"punitive-action"
 			],
 			"message_ids": [
-				593911297721237555
+				607629054107189248
 			]
 		},
 		"rules-channel": {
@@ -342,7 +342,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				606503979073142803
+				607629133333266443
 			]
 		},
 		"sectors": {
@@ -354,7 +354,7 @@
 				"visible"
 			],
 			"message_ids": [
-				607494554769424394
+				607629231404482570
 			]
 		},
 		"setting": {
@@ -364,7 +364,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				606504031967510567
+				607629207333240834
 			]
 		},
 		"stealing": {
@@ -374,7 +374,7 @@
 			"parent_tag": "agents-operations",
 			"child_tags": [],
 			"message_ids": [
-				607494554374897707
+				607629230926462976
 			]
 		},
 		"style": {
@@ -390,7 +390,7 @@
 				"time"
 			],
 			"message_ids": [
-				603210887133921281
+				607629081902579715
 			]
 		},
 		"style-content": {
@@ -400,7 +400,7 @@
 			"parent_tag": "style",
 			"child_tags": [],
 			"message_ids": [
-				603210887813267478
+				607629082842103811
 			]
 		},
 		"style-formatting": {
@@ -410,7 +410,7 @@
 			"parent_tag": "style",
 			"child_tags": [],
 			"message_ids": [
-				603210890208215066
+				607629106208571422
 			]
 		},
 		"style-headers-tags": {
@@ -420,7 +420,7 @@
 			"parent_tag": "style",
 			"child_tags": [],
 			"message_ids": [
-				603210888152875034
+				607629104640032779
 			]
 		},
 		"style-lists": {
@@ -430,7 +430,7 @@
 			"parent_tag": "style",
 			"child_tags": [],
 			"message_ids": [
-				603210888991735819
+				607629105256726539
 			]
 		},
 		"time": {
@@ -440,7 +440,7 @@
 			"parent_tag": "style",
 			"child_tags": [],
 			"message_ids": [
-				606503952913006602
+				607629106435063811
 			]
 		},
 		"visible": {
@@ -450,7 +450,7 @@
 			"parent_tag": "sectors",
 			"child_tags": [],
 			"message_ids": [
-				607494555130003456
+				607629231610134533
 			]
 		},
 		"warp-drive": {
@@ -460,7 +460,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				607494555666874388
+				607629232352395275
 			]
 		}
 	}
