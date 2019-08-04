@@ -720,3 +720,16 @@ Give all players 3 agents.
 
 The "Agents" rule states that *new* players should receive 3 agents, but existing players should probably have some as well.
 
+<a name='93'/>
+
+## #93
+
+Add a new rules section called "Chunks" after "Sectors" with the following content:
+[start]
+A chunk is a physical incarnation of a certain quantity in the world. Each chunk has 4 variables, X, Y, type and size.
+
+For example, a 10-gold chunk at (-1, 4) is a chunk of size 10, made out of gold, at sector (-1, 4).
+
+When a rule or proposal says to "generate" a chunk, one is created in a random visible sector of the given type and of a random size in the given range. For example, "generate a points chunk of size 5-10".
+[end]
+
