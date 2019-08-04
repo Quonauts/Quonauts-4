@@ -883,3 +883,13 @@ If a proposal adds a Utility Item to the Game it gets added to the list below, m
 Items:
 [end]
 
+<a name='109'/>
+
+## #109
+
+This proposal adds a new game channel called #game-status. This proposal depends on proposal 105.
+This proposal also adds a new subsection to 2. Channels behind all other existing Subsections called #game-status.
+[start]
+Every active Player must write a comment into the #game-status Channel containing all Items they have equipped. (E.g. “Weapon: Missile Launcher; Armour: Metal Hull; Utilities: None) A player also has to try to do his best to keep this comment accurate. Should a player fail to update his message after 3 days he can’t do any other game action than updating his comment.
+[end]
+
