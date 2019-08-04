@@ -753,3 +753,16 @@ Gives 1 of the chunk's quantity to the player
 If the chunk is now at size 0, it is destroyed
 [end]
 
+<a name='96'/>
+
+## #96
+
+This proposal is dependent on #93 and #94.
+
+Add a new rules section called "Regularly generated chunks" with the following content:
+[start]
+The following types of chunk generate on a regular basis. Any player may generate one of these chunks as long as it has been at least X time since one of that type was last generated.
+
+Omni - 24 hours, size 5-10
+[end]
+
