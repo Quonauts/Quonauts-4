@@ -703,7 +703,7 @@ As an agent action, a player may steal 1 point from another player in the same s
 
 <a name='91'/>
 
-## #91
+## #91 — Passed
 
 This proposal edits the rule section 5.Quantities so that the Coordinate System created by the quantities X and Y feels more comfortable.
 
