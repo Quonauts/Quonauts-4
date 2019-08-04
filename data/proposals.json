@@ -1475,6 +1475,69 @@
 				"512645502253400064": -1
 			},
 			"timestamp": 1564915408
+		},
+		{
+			"n": 102,
+			"author": 512645502253400064,
+			"content": "This Proposal adds the Quantity \u201cHealth\u201d with the description: \u201cThe Health of a player\u201d to the game. Its default value is 50.",
+			"status": "voting",
+			"message_id": 607593627430158336,
+			"votes": {},
+			"timestamp": 1564932009
+		},
+		{
+			"n": 103,
+			"author": 512645502253400064,
+			"content": "This proposal adds a subsection called \u201cCombat\u201d after all existing subsections of the subsection 11.1 Agent Operations. This proposal depends on proposal 102.\n[start]\nAs an agent action a player can use a weapon on a target if this target is in Range for the weapon and the weapon is not on cooldown. He then deals \u201cDamage Stat of the Weapon\u201d- \u201cArmour stat of the Armour of the target\u201d damage. This damage gets then subtracted from the enemy\u2019s health (If positive). \n[end]",
+			"status": "voting",
+			"message_id": 607595156589510705,
+			"votes": {},
+			"timestamp": 1564932373
+		},
+		{
+			"n": 104,
+			"author": 512645502253400064,
+			"content": "This proposal adds this text behind the already existing text of the subsection \u201cCombat\u201d. This proposal depends on proposal 103. \n[start]\nIf a player loses 50% of his Health the attacker gains \u00bc of the enemies\u2019 points. If a player drops to 0 Health the attacker gains \u00bd of his points and the players X and Y quantities are reset to 0. He also loses 1 special Item (If he has one) which the attacker can either take or destroy. He also can\u2019t take any game action for 2 days and he is no target of any game action that targets players (E.g. Agent Operations). After this time is over his Health Quantity goes back to its maximum and he can participate in the game again.\n[end]",
+			"status": "voting",
+			"message_id": 607595392992804864,
+			"votes": {},
+			"timestamp": 1564932430
+		},
+		{
+			"n": 105,
+			"author": 512645502253400064,
+			"content": "This proposal adds a new Rule Section called \u201cEquip\u201d behind all other existing Rule Sections. This proposal depends on proposal 103 and 104.\n[start]\nA player can get better Equip for his ship through different ways. These are not specified at the moment. \nThere are 3 different Slots for Equip pieces (Equip pieces can also be called Items). There are Weapons, Armour and Utilities. Items are also divided into Special Items and Normal Items. Normal Items are the Items one has at the beginning of the game and Special Items are Items which are gained through other ways.\n[end]",
+			"status": "voting",
+			"message_id": 607595542557753374,
+			"votes": {},
+			"timestamp": 1564932465
+		},
+		{
+			"n": 106,
+			"author": 512645502253400064,
+			"content": "This proposal adds a new subsection to the Rule Section \u201cEquip\u201d called \u201cWeapons\u201d. It also grants every player the Weapon \u201cA Normal Missile Launcher. This proposal depends on proposal 105.\n[start]\nA player can always equip 1 Weapon. Weapons have 3 Stats: Damage, Range and Cooldown. The damage Stat specifies the damage you deal in combat (See Rule Section \u201cCombat). The Range Stat specifies from how many Sectors away ( distance calculated like in the rule Section \u201cWarp Drive\u201d) you can attack. The last Stat of a weapon is cooldown. This describes the time you have to wait before using this weapon again. \nIf a proposal creates a Weapon, it gets also added to the list below maintaining alphabetical order and the distribution of special and normal Items.\nNormal Items (Everyone has this weapon in the beginning):\n\u2022    Missile Launcher: Damage:10; Range:0; Cooldown:0\nSpecial Items:\n[end]",
+			"status": "voting",
+			"message_id": 607596101045977088,
+			"votes": {},
+			"timestamp": 1564932598
+		},
+		{
+			"n": 107,
+			"author": 512645502253400064,
+			"content": "This proposal adds a new subsection to the Rule Section \u201cEquip\u201d after the subsection \u201cWeapons\u201d called \u201cArmor\u201d. It also grants every player the Normal Armour called \u201cMetal Hull\u201d. This proposal depends on proposal 104.\n[start]\nA player can always equip only 1 Armour (if not otherwise stated). Armours have only one stat called Damage Reduction which specifies the amount of damage that is reduced when attacked (More Information in Rule Section \u201cCombat\u201d.\nIf a proposal adds an Armor to the game the armor gets also added to the list below maintaining alphabetical order and the distribution of normal and special items.\nNormal Items (Everyone has this Armour in the beginning):\n\u2022    Metal Hull: Damage Reduction:5\nSpecial Items:\n[end]",
+			"status": "voting",
+			"message_id": 607596186618167306,
+			"votes": {},
+			"timestamp": 1564932619
+		},
+		{
+			"n": 108,
+			"author": 512645502253400064,
+			"content": "This proposal adds a new subsection to the Rule Section \u201cEquip\u201d after all other subsections. This proposal depends on proposal 104.\n[start]\nA player can have at most 2 Utility Items equipped. \nIf a proposal adds a Utility Item to the Game it gets added to the list below, maintaining alphabetical order.\nItems:\n[end]",
+			"status": "voting",
+			"message_id": 607596230956023846,
+			"votes": {},
+			"timestamp": 1564932629
 		}
 	]
 }
