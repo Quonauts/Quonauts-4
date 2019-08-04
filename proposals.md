@@ -899,3 +899,9 @@ Every active Player must write a comment into the #game-status Channel containin
 
 Add a z dimension that behaves exactly like the x and y dimensions.
 
+<a name='111'/>
+
+## #111
+
+Judge distance moved in #13 by sqrt(|dx^2-dy^2|) instead of dx+dy, where sqrt means square root, dx means distance moved in the x dimension, and dy means distance moved in the y dimension.
+
