@@ -38,6 +38,7 @@
 * [**10. Cabals**](#cabals)
 * [**11. Agents**](#agents)
     * [**11.1. Agent Operations**](#agents-operations)
+        * [**11.1.1. Stealing**](#stealing)
 * [**12. Sectors**](#sectors)
     * [**12.1. Visible**](#visible)
 * [**13. Warp drive**](#warp-drive)
@@ -324,6 +325,10 @@ Each new player begins the game with 3 agents.
 ### <a name='agents-operations'/> Agent Operations
 
 Agents may perform operations which are actions that change the game state. Each agent may perform an operation only if they have not done so in 24 hours. Available agent operations are only those that are explicitly allowed by the game rules.
+
+#### <a name='stealing'/> Stealing
+
+As an agent action, a player may steal 1 point from another player in the same sector as them.
 
 ## <a name='sectors'/> Sectors
 
