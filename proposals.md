@@ -812,3 +812,9 @@ Add a new property to the "Omni" property: "Can be shared freely between players
 New Ruled #101
 Players can split up there agents and quantities to go do different tasks such as mining and in the future where there will be battles I feel like this would add a whole depth we could use for strategy
 
+<a name='102'/>
+
+## #102
+
+This Proposal adds the Quantity “Health” with the description: “The Health of a player” to the game. Its default value is 50.
+
