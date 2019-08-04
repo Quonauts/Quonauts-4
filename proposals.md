@@ -783,3 +783,9 @@ where the fields correspond to the variables the chunk has.
 
 I believe this channel must be governed by Quobot, so that anybody can edit or remove any chunks at any time.
 
+<a name='98'/>
+
+## #98
+
+Players can send their agents (with a specific amount of quantities derived from players original quantities) to move independently from their main entity as if and individual entity but controlled by the player
+
