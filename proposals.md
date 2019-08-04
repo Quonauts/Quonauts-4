@@ -846,3 +846,16 @@ A player can get better Equip for his ship through different ways. These are not
 There are 3 different Slots for Equip pieces (Equip pieces can also be called Items). There are Weapons, Armour and Utilities. Items are also divided into Special Items and Normal Items. Normal Items are the Items one has at the beginning of the game and Special Items are Items which are gained through other ways.
 [end]
 
+<a name='106'/>
+
+## #106
+
+This proposal adds a new subsection to the Rule Section “Equip” called “Weapons”. It also grants every player the Weapon “A Normal Missile Launcher. This proposal depends on proposal 105.
+[start]
+A player can always equip 1 Weapon. Weapons have 3 Stats: Damage, Range and Cooldown. The damage Stat specifies the damage you deal in combat (See Rule Section “Combat). The Range Stat specifies from how many Sectors away ( distance calculated like in the rule Section “Warp Drive”) you can attack. The last Stat of a weapon is cooldown. This describes the time you have to wait before using this weapon again. 
+If a proposal creates a Weapon, it gets also added to the list below maintaining alphabetical order and the distribution of special and normal Items.
+Normal Items (Everyone has this weapon in the beginning):
+•    Missile Launcher: Damage:10; Range:0; Cooldown:0
+Special Items:
+[end]
+
