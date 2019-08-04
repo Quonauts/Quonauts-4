@@ -805,3 +805,10 @@ This proposal is dependent on #94.
 
 Add a new property to the "Omni" property: "Can be shared freely between players in the same sector or in the same cabal."
 
+<a name='101'/>
+
+## #101
+
+New Ruled #101
+Players can split up there agents and quantities to go do different tasks such as mining and in the future where there will be battles I feel like this would add a whole depth we could use for strategy
+
