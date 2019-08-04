@@ -694,7 +694,7 @@ When this is done, the rule should preferably be explicit about what timezone it
 
 <a name='90'/>
 
-## #90
+## #90 — Passed
 
 Add a new rules secton called "Stealing" as part of "Agent Operations" with the following content:
 [start]
