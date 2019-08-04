@@ -824,5 +824,6 @@ This Proposal adds the Quantity “Health” with the description: “The Health
 
 This proposal adds a subsection called “Combat” after all existing subsections of the subsection 11.1 Agent Operations. This proposal depends on proposal 102.
 [start]
-As an agent action a player can use a weapon on a target if this target is in Range for the weapon and the weapon is not on cooldown. He then deals “Damage Stat of the Weapon”- “Armour stat of the Armour of the target” damage. This damage gets then subtracted from the enemy’s health (If positive).
+As an agent action a player can use a weapon on a target if this target is in Range for the weapon and the weapon is not on cooldown. He then deals “Damage Stat of the Weapon”- “Armour stat of the Armour of the target” damage. This damage gets then subtracted from the enemy’s health (If positive). 
+[end]
 
