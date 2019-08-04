@@ -905,3 +905,9 @@ Add a z dimension that behaves exactly like the x and y dimensions.
 
 Judge distance moved in #13 by sqrt(|dx^2-dy^2|) instead of dx+dy, where sqrt means square root, dx means distance moved in the x dimension, and dy means distance moved in the y dimension.
 
+<a name='112'/>
+
+## #112
+
+If proposal #110 is passed, then judge distance as sqrt(|dx^2+dy^2+dz^2|), where sqrt means square root, dx means distance moved in the x dimension, dy means distance moved in the y dimension, and dz means distance moved in the z dimension.
+
