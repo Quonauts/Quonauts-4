@@ -1329,7 +1329,7 @@
 			"n": 90,
 			"author": 319753218592866315,
 			"content": "Add a new rules secton called \"Stealing\" as part of \"Agent Operations\" with the following content:\n[start]\nAs an agent action, a player may steal 1 point from another player in the same sector as them.\n[end]",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 606419529068838912,
 			"votes": {
 				"216295379895844865": 0,
@@ -1343,7 +1343,7 @@
 			"n": 91,
 			"author": 512645502253400064,
 			"content": "This proposal edits the rule section 5.Quantities so that the Coordinate System created by the quantities X and Y feels more comfortable.\n\nThis proposal adds the following sentence to the description of the \u201cX\u201d and the \u201cY\u201d quantities in the rule section 5. Quantities.\n[start]\nThis quantity can also be negative.\n[end]",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 606422135522721797,
 			"votes": {
 				"216295379895844865": 1,

@@ -28,7 +28,9 @@
 			"title": "Agent Operations",
 			"content": "Agents may perform operations which are actions that change the game state. Each agent may perform an operation only if they have not done so in 24 hours. Available agent operations are only those that are explicitly allowed by the game rules.",
 			"parent_tag": "agents",
-			"child_tags": [],
+			"child_tags": [
+				"stealing"
+			],
 			"message_ids": [
 				606504058940948520
 			]
@@ -254,7 +256,7 @@
 		"quantities": {
 			"tag": "quantities",
 			"title": "Quantities",
-			"content": "A quantity is a named property with a numerical value for each player.\n\n By default any unique quantity added to the game:\n\n\u2022 applies to all players. \n\u2022 is instatiated at zero. \n\u2022 must always be an integer. \n\u2022 must never have a negative value. \n\u2022 cannot be traded or exchanged.\n\n Existing quantities: \n\n\u2022 Agents: Total agents. \n\u2022 Point: A generic unit of score, which may be any nonnegative integer or decimal number. \n\u2022 Strike: The number of rule violations that a player has committed without punishment.\n\u2022 X: Player's X position. \n\u2022 Y: Player's Y position.\n\nWhen a proposal establishing a new quantity is passed, this rule section should be amended by inserting the new quantity into the above list, maintaining alphabetical order, along with a brief description. Similarly, if a quantity is renamed or removed, the above list should be modified accordingly.",
+			"content": "5. Quantities\nA quantity is a named property with a numerical value for each player.\n\nBy default any unique quantity added to the game:\n\n\u2022 applies to all players. \n\u2022 is instatiated at zero. \n\u2022 must always be an integer. \n\u2022 must never have a negative value. \n\u2022 cannot be traded or exchanged.\n\nExisting quantities: \n\n\u2022 Agents: Total agents. \n\u2022 Point: A generic unit of score, which may be any nonnegative integer or decimal number. \n\u2022 Strike: The number of rule violations that a player has committed without punishment.\n\u2022 X: Player's X position. This quantity can also be negative.\n\u2022 Y: Player's Y position. This quantity can also be negative.\n\nWhen a proposal establishing a new quantity is passed, this rule section should be amended by inserting the new quantity into the above list, maintaining alphabetical order, along with a brief description. Similarly, if a quantity is renamed or removed, the above list should be modified accordingly.",
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
@@ -294,9 +296,9 @@
 				"warp-drive"
 			],
 			"message_ids": [
-				607135563404935178,
-				607135563849662474,
-				607135563962908684
+				607494556220653580,
+				607494582074212369,
+				607494582523133972
 			]
 		},
 		"rule-offender-role": {
@@ -352,7 +354,7 @@
 				"visible"
 			],
 			"message_ids": [
-				606504059440201738
+				607494554769424394
 			]
 		},
 		"setting": {
@@ -363,6 +365,16 @@
 			"child_tags": [],
 			"message_ids": [
 				606504031967510567
+			]
+		},
+		"stealing": {
+			"tag": "stealing",
+			"title": "Stealing",
+			"content": "As an agent action, a player may steal 1 point from another player in the same sector as them.",
+			"parent_tag": "agents-operations",
+			"child_tags": [],
+			"message_ids": [
+				607494554374897707
 			]
 		},
 		"style": {
@@ -438,7 +450,7 @@
 			"parent_tag": "sectors",
 			"child_tags": [],
 			"message_ids": [
-				607135562054500382
+				607494555130003456
 			]
 		},
 		"warp-drive": {
@@ -448,7 +460,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				607135562725326869
+				607494555666874388
 			]
 		}
 	}
