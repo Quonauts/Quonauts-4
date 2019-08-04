@@ -27,7 +27,9 @@
 		"aliases": [
 			"strikes"
 		],
-		"players": {},
+		"players": {
+			"427589146295664667": 1
+		},
 		"default_value": 0
 	},
 	"warp core": {
