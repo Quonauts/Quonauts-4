@@ -766,3 +766,20 @@ The following types of chunk generate on a regular basis. Any player may generat
 Omni - 24 hours, size 5-10
 [end]
 
+<a name='97'/>
+
+## #97
+
+This proposal is dependent on #93.
+
+Create a channel called #chunks and add a new rules section labelled "#chunks" with the following content:
+[start]
+Only send messages in #chunks when you are carrying out the wishes of a proposal or rule to generate a chunk. Messages should be of the following format:
+```
+<type>, <size>, <x>, <y>
+```
+where the fields correspond to the variables the chunk has.
+[end]
+
+I believe this channel must be governed by Quobot, so that anybody can edit or remove any chunks at any time.
+
