@@ -1444,6 +1444,7 @@
 			"message_id": 607513484879462408,
 			"votes": {
 				"319753218592866315": 1,
+				"337621533369303042": 0,
 				"512645502253400064": 1
 			},
 			"timestamp": 1564912901
@@ -1456,9 +1457,23 @@
 			"message_id": 607513673388523520,
 			"votes": {
 				"319753218592866315": 1,
+				"337621533369303042": 0,
 				"512645502253400064": 1
 			},
 			"timestamp": 1564912946
+		},
+		{
+			"n": 101,
+			"author": 337621533369303042,
+			"content": "New Ruled #101\nPlayers can split up there agents and quantities to go do different tasks such as mining and in the future where there will be battles I feel like this would add a whole depth we could use for strategy",
+			"status": "voting",
+			"message_id": 607523998586372117,
+			"votes": {
+				"319753218592866315": -1,
+				"337621533369303042": 1,
+				"512645502253400064": -1
+			},
+			"timestamp": 1564915408
 		}
 	]
 }
