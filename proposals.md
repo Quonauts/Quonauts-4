@@ -789,3 +789,9 @@ I believe this channel must be governed by Quobot, so that anybody can edit or r
 
 Players can send their agents (with a specific amount of quantities derived from players original quantities) to move independently from their main entity as if and individual entity but controlled by the player
 
+<a name='99'/>
+
+## #99
+
+Add a new property to the "Points" property: "Can be shared freely between players in the same sector or in the same cabal."
+
