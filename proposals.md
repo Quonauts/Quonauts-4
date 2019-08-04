@@ -795,3 +795,13 @@ Players can send their agents (with a specific amount of quantities derived from
 
 Add a new property to the "Points" property: "Can be shared freely between players in the same sector or in the same cabal."
 
+<a name='100'/>
+
+## #100
+
+(yay 100 proposals!)
+
+This proposal is dependent on #94.
+
+Add a new property to the "Omni" property: "Can be shared freely between players in the same sector or in the same cabal."
+
