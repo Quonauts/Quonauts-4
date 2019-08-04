@@ -1431,9 +1431,34 @@
 			"status": "voting",
 			"message_id": 607511508884389918,
 			"votes": {
-				"319753218592866315": -1
+				"319753218592866315": -1,
+				"512645502253400064": -1
 			},
 			"timestamp": 1564912430
+		},
+		{
+			"n": 99,
+			"author": 319753218592866315,
+			"content": "Add a new property to the \"Points\" property: \"Can be shared freely between players in the same sector or in the same cabal.\"",
+			"status": "voting",
+			"message_id": 607513484879462408,
+			"votes": {
+				"319753218592866315": 1,
+				"512645502253400064": 1
+			},
+			"timestamp": 1564912901
+		},
+		{
+			"n": 100,
+			"author": 319753218592866315,
+			"content": "(yay 100 proposals!)\n\nThis proposal is dependent on #94.\n\nAdd a new property to the \"Omni\" property: \"Can be shared freely between players in the same sector or in the same cabal.\"",
+			"status": "voting",
+			"message_id": 607513673388523520,
+			"votes": {
+				"319753218592866315": 1,
+				"512645502253400064": 1
+			},
+			"timestamp": 1564912946
 		}
 	]
 }
