@@ -733,3 +733,9 @@ For example, a 10-gold chunk at (-1, 4) is a chunk of size 10, made out of gold,
 When a rule or proposal says to "generate" a chunk, one is created in a random visible sector of the given type and of a random size in the given range. For example, "generate a points chunk of size 5-10".
 [end]
 
+<a name='94'/>
+
+## #94
+
+Create a new quantity called "Omni" with the default properties.
+
