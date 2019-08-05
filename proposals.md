@@ -942,3 +942,17 @@ To:
 
 A "sector" is any unique integer combination of **X, Y, and Z**, written as "sector **<x>, <y>, <z>**. The set of all sectors is "space."
 
+<a name='117'/>
+
+## #117
+
+This proposal is a revision to #116. This fixes a grammar error.
+
+Change Rule 12 from:
+
+A "sector" is any unique integer combination of **X and Y**, written as "sector **<x>, <y>**. The set of all sectors is "space."
+
+To:
+
+A "sector" is any unique integer combination of **X, Y, and Z**, written as "sector **<x>, <y>, <z>**. The set of all sectors is "space."
+
