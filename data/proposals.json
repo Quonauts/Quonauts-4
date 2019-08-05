@@ -1356,7 +1356,7 @@
 			"n": 92,
 			"author": 319753218592866315,
 			"content": "Give all players 3 agents.\n\nThe \"Agents\" rule states that *new* players should receive 3 agents, but existing players should probably have some as well.",
-			"status": "failed",
+			"status": "deleted",
 			"message_id": 606506144051101696,
 			"votes": {},
 			"timestamp": 1564672732
@@ -1365,7 +1365,7 @@
 			"n": 93,
 			"author": 319753218592866315,
 			"content": "Add a new rules section called \"Chunks\" after \"Sectors\" with the following content:\n[start]\nA chunk is a physical incarnation of a certain quantity in the world. Each chunk has 4 variables, X, Y, type and size.\n\nFor example, a 10-gold chunk at (-1, 4) is a chunk of size 10, made out of gold, at sector (-1, 4).\n\nWhen a rule or proposal says to \"generate\" a chunk, one is created in a random visible sector of the given type and of a random size in the given range. For example, \"generate a points chunk of size 5-10\".\n[end]",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 607506085829541889,
 			"votes": {
 				"236831708354314240": 1,
@@ -1380,7 +1380,7 @@
 			"n": 94,
 			"author": 319753218592866315,
 			"content": "Create a new quantity called \"Omni\" with the default properties.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 607506148412882944,
 			"votes": {
 				"236831708354314240": 1,
@@ -1395,7 +1395,7 @@
 			"n": 95,
 			"author": 319753218592866315,
 			"content": "This proposal is dependent on #93.\n\nAdd a new rules section called \"Mining\" after \"Stealing\" with the following content:\n[start]\nAs an agent action, a player may mine a chunk that is in the same sector as them. This does the following:\nReduces the size of the chunk by 1\nGives 1 of the chunk's quantity to the player\nIf the chunk is now at size 0, it is destroyed\n[end]",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 607506555184742412,
 			"votes": {
 				"236831708354314240": 1,
@@ -1410,11 +1410,12 @@
 			"n": 96,
 			"author": 319753218592866315,
 			"content": "This proposal is dependent on #93 and #94.\n\nAdd a new rules section called \"Regularly generated chunks\" with the following content:\n[start]\nThe following types of chunk generate on a regular basis. Any player may generate one of these chunks as long as it has been at least X time since one of that type was last generated.\n\nOmni - 24 hours, size 5-10\n[end]",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 607507611285323797,
 			"votes": {
 				"236831708354314240": 1,
 				"319753218592866315": 1,
+				"337621533369303042": 1,
 				"427589146295664667": 1,
 				"512645502253400064": 1
 			},

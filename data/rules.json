@@ -29,7 +29,8 @@
 			"content": "Agents may perform operations which are actions that change the game state. Each agent may perform an operation only if they have not done so in 24 hours. Available agent operations are only those that are explicitly allowed by the game rules.",
 			"parent_tag": "agents",
 			"child_tags": [
-				"stealing"
+				"stealing",
+				"mining"
 			],
 			"message_ids": [
 				607629230343454737
@@ -68,6 +69,16 @@
 			],
 			"message_ids": [
 				607629128950087710
+			]
+		},
+		"chunks": {
+			"tag": "chunks",
+			"title": "Chunks",
+			"content": "A chunk is a physical incarnation of a certain quantity in the world. Each chunk has 4 variables, X, Y, type and size.\n\nFor example, a 10-gold chunk at (-1, 4) is a chunk of size 10, made out of gold, at sector (-1, 4).\n\nWhen a rule or proposal says to \"generate\" a chunk, one is created in a random visible sector of the given type and of a random size in the given range. For example, \"generate a points chunk of size 5-10\".",
+			"parent_tag": "root",
+			"child_tags": [],
+			"message_ids": [
+				607818409790668820
 			]
 		},
 		"disallow-by-default": {
@@ -125,6 +136,16 @@
 			],
 			"message_ids": [
 				607629052211363840
+			]
+		},
+		"mining": {
+			"tag": "mining",
+			"title": "Mining",
+			"content": "As an agent action, a player may mine a chunk that is in the same sector as them. This does the following:\nReduces the size of the chunk by 1\nGives 1 of the chunk's quantity to the player\nIf the chunk is now at size 0, it is destroyed",
+			"parent_tag": "agents-operations",
+			"child_tags": [],
+			"message_ids": [
+				607818408062615553
 			]
 		},
 		"pingable": {
@@ -256,7 +277,7 @@
 		"quantities": {
 			"tag": "quantities",
 			"title": "Quantities",
-			"content": "5. Quantities\nA quantity is a named property with a numerical value for each player.\n\nBy default any unique quantity added to the game:\n\n\u2022 applies to all players. \n\u2022 is instatiated at zero. \n\u2022 must always be an integer. \n\u2022 must never have a negative value. \n\u2022 cannot be traded or exchanged.\n\nExisting quantities: \n\n\u2022 Agents: Total agents. \n\u2022 Point: A generic unit of score, which may be any nonnegative integer or decimal number. \n\u2022 Strike: The number of rule violations that a player has committed without punishment.\n\u2022 X: Player's X position. This quantity can also be negative.\n\u2022 Y: Player's Y position. This quantity can also be negative.\n\nWhen a proposal establishing a new quantity is passed, this rule section should be amended by inserting the new quantity into the above list, maintaining alphabetical order, along with a brief description. Similarly, if a quantity is renamed or removed, the above list should be modified accordingly.",
+			"content": "A quantity is a named property with a numerical value for each player.\n\nBy default any unique quantity added to the game:\n\n\u2022 applies to all players. \n\u2022 is instatiated at zero. \n\u2022 must always be an integer. \n\u2022 must never have a negative value. \n\u2022 cannot be traded or exchanged.\n\nExisting quantities: \n\n\u2022 Agents: Total agents. \n\u2022 Point: A generic unit of score, which may be any nonnegative integer or decimal number. \n\u2022 Strike: The number of rule violations that a player has committed without punishment.\n\u2022 X: Player's X position. This quantity can also be negative.\n\u2022 Y: Player's Y position. This quantity can also be negative.\n\u2022 Omni: A material found in the depths of space.\n\nWhen a proposal establishing a new quantity is passed, this rule section should be amended by inserting the new quantity into the above list, maintaining alphabetical order, along with a brief description. Similarly, if a quantity is renamed or removed, the above list should be modified accordingly.",
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
@@ -293,12 +314,14 @@
 				"cabals",
 				"agents",
 				"sectors",
+				"chunks",
+				"spawning",
 				"warp-drive"
 			],
 			"message_ids": [
-				607629253818843137,
-				607629254355714285,
-				607629255094042655
+				607820284585836554,
+				607820285105799168,
+				607820285558784029
 			]
 		},
 		"rule-offender-role": {
@@ -354,7 +377,7 @@
 				"visible"
 			],
 			"message_ids": [
-				607629231404482570
+				607818408905408542
 			]
 		},
 		"setting": {
@@ -365,6 +388,16 @@
 			"child_tags": [],
 			"message_ids": [
 				607629207333240834
+			]
+		},
+		"spawning": {
+			"tag": "spawning",
+			"title": "Randomly generated chunks",
+			"content": "The following types of chunk generate on a regular basis. Any player may generate one of these chunks as long as it has been at least X time since one of that type was last generated.\n\nOmni - 24 hours, size 5-10",
+			"parent_tag": "root",
+			"child_tags": [],
+			"message_ids": [
+				607820283268694016
 			]
 		},
 		"stealing": {
@@ -450,7 +483,7 @@
 			"parent_tag": "sectors",
 			"child_tags": [],
 			"message_ids": [
-				607629231610134533
+				607818409324970014
 			]
 		},
 		"warp-drive": {
@@ -460,7 +493,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				607629232352395275
+				607820283931262977
 			]
 		}
 	}
