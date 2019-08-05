@@ -990,3 +990,12 @@ This proposal adds a new Rule Section called “The End” after all other exist
 The Game Ends as soon as at least one person has won.
 [end]
 
+<a name='127'/>
+
+## #127
+
+This proposal adds a new Rule Section called "Winning proposals"
+[start]
+Proposals must not singlehandedly cause a team to win. Proposals may set a winning condition, but such winning condition must not cause any team to win immediately
+[end]
+
