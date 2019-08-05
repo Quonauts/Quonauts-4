@@ -932,15 +932,7 @@ Fail proposal #115
 
 <a name='116'/>
 
-## #116
-
-change Rule 12 from:
-
-A "sector" is any unique integer combination of **X and Y**, written as "sector **<x>, <y>**. The set of all sectors is "space."
-
-To:
-
-A "sector" is any unique integer combination of **X, Y, and Z**, written as "sector **<x>, <y>, <z>**. The set of all sectors is "space."
+## #116 — Deleted
 
 <a name='117'/>
 
