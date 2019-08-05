@@ -731,7 +731,7 @@ When a rule or proposal says to "generate" a chunk, one is created in a random v
 
 <a name='94'/>
 
-## #94
+## #94 — Passed
 
 Create a new quantity called "Omni" with the default properties.
 
