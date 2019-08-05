@@ -983,3 +983,12 @@ You can only share by non-negative amounts.
 
 All the members of the Dramly cabal win the game immediately.
 
+<a name='126'/>
+
+## #126
+
+This proposal adds a new Rule Section called “The End” after all other existing rules.
+[start] 
+The Game Ends as soon as at least one person has won.
+[end]
+
