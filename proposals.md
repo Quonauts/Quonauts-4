@@ -714,11 +714,7 @@ This quantity can also be negative.
 
 <a name='92'/>
 
-## #92 — Failed
-
-Give all players 3 agents.
-
-The "Agents" rule states that *new* players should receive 3 agents, but existing players should probably have some as well.
+## #92 — Deleted
 
 <a name='93'/>
 
