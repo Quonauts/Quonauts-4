@@ -1368,6 +1368,7 @@
 			"status": "voting",
 			"message_id": 607506085829541889,
 			"votes": {
+				"236831708354314240": 1,
 				"319753218592866315": 1,
 				"337621533369303042": 1,
 				"427589146295664667": 1,
@@ -1382,6 +1383,7 @@
 			"status": "voting",
 			"message_id": 607506148412882944,
 			"votes": {
+				"236831708354314240": 1,
 				"319753218592866315": 1,
 				"337621533369303042": 1,
 				"427589146295664667": 1,
@@ -1396,6 +1398,7 @@
 			"status": "voting",
 			"message_id": 607506555184742412,
 			"votes": {
+				"236831708354314240": 1,
 				"319753218592866315": 1,
 				"337621533369303042": 1,
 				"427589146295664667": 1,
@@ -1410,6 +1413,7 @@
 			"status": "voting",
 			"message_id": 607507611285323797,
 			"votes": {
+				"236831708354314240": 1,
 				"319753218592866315": 1,
 				"427589146295664667": 1,
 				"512645502253400064": 1
@@ -1423,6 +1427,7 @@
 			"status": "voting",
 			"message_id": 607508394370138113,
 			"votes": {
+				"236831708354314240": 1,
 				"319753218592866315": 0,
 				"427589146295664667": 1,
 				"512645502253400064": 1
@@ -1436,6 +1441,7 @@
 			"status": "voting",
 			"message_id": 607511508884389918,
 			"votes": {
+				"236831708354314240": -1,
 				"319753218592866315": -1,
 				"427589146295664667": 0,
 				"512645502253400064": -1
@@ -1449,6 +1455,7 @@
 			"status": "voting",
 			"message_id": 607513484879462408,
 			"votes": {
+				"236831708354314240": 1,
 				"309787486278909952": 1,
 				"319753218592866315": 1,
 				"337621533369303042": 0,
@@ -1478,6 +1485,7 @@
 			"status": "voting",
 			"message_id": 607523998586372117,
 			"votes": {
+				"236831708354314240": -1,
 				"319753218592866315": -1,
 				"337621533369303042": 1,
 				"427589146295664667": 0,
@@ -1656,9 +1664,53 @@
 			"status": "voting",
 			"message_id": 607728737777352720,
 			"votes": {
+				"236831708354314240": -1,
 				"319753218592866315": -1
 			},
 			"timestamp": 1564964221
+		},
+		{
+			"n": 117,
+			"author": 427589146295664667,
+			"content": "This proposal is a revision to #116. This fixes a grammar error.\n\nChange Rule 12 from:\n\nA \"sector\" is any unique integer combination of **X and Y**, written as \"sector **<x>, <y>**. The set of all sectors is \"space.\"\n\nTo:\n\nA \"sector\" is any unique integer combination of **X, Y, and Z**, written as \"sector **<x>, <y>, <z>**. The set of all sectors is \"space.\"",
+			"status": "voting",
+			"message_id": 607735206329450499,
+			"votes": {
+				"236831708354314240": -1,
+				"319753218592866315": -1
+			},
+			"timestamp": 1564965764
+		},
+		{
+			"n": 118,
+			"author": 427589146295664667,
+			"content": "Change rule 13 from:\n\nA player may at any time spend n points to receive a Warp Core (where n is the day of the month/3 rounded up). A Warp Core is a quantity which may be spent to traverse space. At any time, a player may spend one Warp Core, which allows them to modify their sector position as they desire up to four spaces (the amount of spaces being **x + y**, and effectively changing their X and Y quantities). Also, upon using a warp core, a player may spend 1 point to move 8 spaces instead, known as Overdriving.\n\nThis proposal is too long, so I had to break it up into two proposals.",
+			"status": "voting",
+			"message_id": 607735984330899466,
+			"votes": {
+				"319753218592866315": -1
+			},
+			"timestamp": 1564965949
+		},
+		{
+			"n": 119,
+			"author": 427589146295664667,
+			"content": "To:\n\nA player may at any time spend n points to receive a Warp Core (where n is the day of the month/3 rounded up). A Warp Core is a quantity which may be spent to traverse space. At any time, a player may spend one Warp Core, which allows them to modify their sector position as they desire up to four spaces (the amount of spaces being **sqrt(|x^2-y^2|)**, and effectively changing their X and Y quantities). Also, upon using a warp core, a player may spend 1 point to move 8 spaces instead, known as Overdriving.\n\nThis proposal is too long, so I had to break it up into two proposals.",
+			"status": "voting",
+			"message_id": 607736105818783777,
+			"votes": {
+				"319753218592866315": -1
+			},
+			"timestamp": 1564965978
+		},
+		{
+			"n": 120,
+			"author": 427589146295664667,
+			"content": "This proposal revises proposals #119 and #120 so that they fit in a single file.\n\nhttps://cdn.discordapp.com/attachments/549448263988805634/607738139003453452/proposal_120.txt",
+			"status": "voting",
+			"message_id": 607738339168092160,
+			"votes": {},
+			"timestamp": 1564966511
 		}
 	]
 }
