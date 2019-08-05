@@ -230,7 +230,7 @@ By default any unique quantity added to the game:
 Existing quantities: 
 
 • Agents: Total agents. 
-• Point: A generic unit of score, which may be any nonnegative integer or decimal number. 
+• Point: A generic unit of score, which may be any nonnegative integer or decimal number. Can be shared freely between players in the same sector or in the same cabal.
 • Strike: The number of rule violations that a player has committed without punishment.
 • X: Player's X position. This quantity can also be negative.
 • Y: Player's Y position. This quantity can also be negative.
