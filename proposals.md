@@ -983,7 +983,7 @@ All the members of the Dramly cabal win the game immediately.
 
 <a name='126'/>
 
-## #126
+## #126 — Passed
 
 This proposal adds a new Rule Section called “The End” after all other existing rules.
 [start] 
