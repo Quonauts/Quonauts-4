@@ -1787,6 +1787,20 @@
 				"512645502253400064": 1
 			},
 			"timestamp": 1564999391
+		},
+		{
+			"n": 126,
+			"author": 512645502253400064,
+			"content": "This proposal adds a new Rule Section called \u201cThe End\u201d after all other existing rules.\n[start] \nThe Game Ends as soon as at least one person has won.\n[end]",
+			"status": "voting",
+			"message_id": 607886683890778122,
+			"votes": {
+				"236831708354314240": 1,
+				"309787486278909952": 0,
+				"319753218592866315": 1,
+				"512645502253400064": 1
+			},
+			"timestamp": 1565001879
 		}
 	]
 }
