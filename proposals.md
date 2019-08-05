@@ -924,3 +924,9 @@ If proposal #110 and #111 are passed, then judge distance as sqrt(|dx^2+dy^2+dz^
 
 If proposal #110 but not #111 is passed, then judge distance as dx+dy+dz where sqrt means square root, dx means distance moved in the x dimension, dy means distance moved in the y dimension, and dz means distance moved in the z dimension.
 
+<a name='115'/>
+
+## #115
+
+Fail proposal #115
+
