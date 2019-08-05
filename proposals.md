@@ -913,10 +913,7 @@ If proposal #110 is passed, then judge distance as sqrt(|dx^2+dy^2+dz^2|), where
 
 <a name='113'/>
 
-## #113
-
-This proposal is a revision of #112.
-If proposal #110 and #111 are passed, then judge distance as sqrt(|dx^2+dy^2+dz^2|), where sqrt means square root, dx means distance moved in the x dimension, dy means distance moved in the y dimension, and dz means distance moved in the z dimension.
+## #113 — Deleted
 
 <a name='114'/>
 
