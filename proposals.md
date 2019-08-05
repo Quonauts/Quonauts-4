@@ -968,3 +968,12 @@ At any time, the czar of a cabal may force another member to leave.
 
 I prefer a battle to the death
 
+<a name='124'/>
+
+## #124
+
+Append the following to the "Sharing" rule section:
+[start]
+You can only share by non-negative amounts.
+[stop]
+
