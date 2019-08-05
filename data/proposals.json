@@ -1736,10 +1736,11 @@
 			"n": 122,
 			"author": 319753218592866315,
 			"content": "Append the following to the rule section \"Cabals\":\n[start]\nAt any time, the czar of a cabal may force another member to leave.\n[end]",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 607843214560329728,
 			"votes": {
 				"236831708354314240": 1,
+				"309787486278909952": 1,
 				"319753218592866315": 1,
 				"337621533369303042": -1,
 				"512645502253400064": 1
@@ -1772,6 +1773,20 @@
 				"512645502253400064": 1
 			},
 			"timestamp": 1564997882
+		},
+		{
+			"n": 125,
+			"author": 319753218592866315,
+			"content": "All the members of the Dramly cabal win the game immediately.",
+			"status": "passed",
+			"message_id": 607876247804051456,
+			"votes": {
+				"236831708354314240": 1,
+				"309787486278909952": 1,
+				"319753218592866315": 1,
+				"512645502253400064": 1
+			},
+			"timestamp": 1564999391
 		}
 	]
 }
