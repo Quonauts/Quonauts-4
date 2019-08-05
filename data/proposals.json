@@ -1758,6 +1758,20 @@
 				"512645502253400064": -1
 			},
 			"timestamp": 1564991961
+		},
+		{
+			"n": 124,
+			"author": 319753218592866315,
+			"content": "Append the following to the \"Sharing\" rule section:\n[start]\nYou can only share by non-negative amounts.\n[stop]",
+			"status": "passed",
+			"message_id": 607869918003724299,
+			"votes": {
+				"236831708354314240": 1,
+				"319753218592866315": 1,
+				"337621533369303042": 1,
+				"512645502253400064": 1
+			},
+			"timestamp": 1564997882
 		}
 	]
 }
