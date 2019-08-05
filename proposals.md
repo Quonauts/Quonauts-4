@@ -955,7 +955,7 @@ Sharing is the act of subtracting from your quantity and adding that same amount
 
 <a name='122'/>
 
-## #122
+## #122 — Passed
 
 Append the following to the rule section "Cabals":
 [start]
