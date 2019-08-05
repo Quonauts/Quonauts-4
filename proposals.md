@@ -899,9 +899,7 @@ Every active Player must write a comment into the #game-status Channel containin
 
 <a name='111'/>
 
-## #111
-
-Judge distance moved in #13 by sqrt(|dx^2-dy^2|) instead of dx+dy, where sqrt means square root, dx means distance moved in the x dimension, and dy means distance moved in the y dimension.
+## #111 — Deleted
 
 <a name='112'/>
 
