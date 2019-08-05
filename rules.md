@@ -39,6 +39,7 @@
 * [**11. Agents**](#agents)
     * [**11.1. Agent Operations**](#agents-operations)
         * [**11.1.1. Stealing**](#stealing)
+        * [**11.1.2. Mining**](#mining)
 * [**12. Sectors**](#sectors)
     * [**12.1. Visible**](#visible)
 * [**13. Chunks**](#chunks)
@@ -331,6 +332,13 @@ Agents may perform operations which are actions that change the game state. Each
 #### <a name='stealing'/> Stealing
 
 As an agent action, a player may steal 1 point from another player in the same sector as them.
+
+#### <a name='mining'/> Mining
+
+As an agent action, a player may mine a chunk that is in the same sector as them. This does the following:
+Reduces the size of the chunk by 1
+Gives 1 of the chunk's quantity to the player
+If the chunk is now at size 0, it is destroyed
 
 ## <a name='sectors'/> Sectors
 
