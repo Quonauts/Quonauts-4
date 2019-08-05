@@ -1727,9 +1727,34 @@
 				"236831708354314240": 1,
 				"319753218592866315": 1,
 				"337621533369303042": 1,
-				"427589146295664667": 1
+				"427589146295664667": 1,
+				"512645502253400064": 0
 			},
 			"timestamp": 1564967832
+		},
+		{
+			"n": 122,
+			"author": 319753218592866315,
+			"content": "Append the following to the rule section \"Cabals\":\n[start]\nAt any time, the czar of a cabal may force another member to leave.\n[end]",
+			"status": "voting",
+			"message_id": 607843214560329728,
+			"votes": {
+				"319753218592866315": 1,
+				"337621533369303042": -1,
+				"512645502253400064": 1
+			},
+			"timestamp": 1564991515
+		},
+		{
+			"n": 123,
+			"author": 337621533369303042,
+			"content": "I prefer a battle to the death",
+			"status": "voting",
+			"message_id": 607845086197448715,
+			"votes": {
+				"319753218592866315": -1
+			},
+			"timestamp": 1564991961
 		}
 	]
 }
