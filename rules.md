@@ -41,7 +41,8 @@
         * [**11.1.1. Stealing**](#stealing)
 * [**12. Sectors**](#sectors)
     * [**12.1. Visible**](#visible)
-* [**13. Warp drive**](#warp-drive)
+* [**13. Chunks**](#chunks)
+* [**14. Warp drive**](#warp-drive)
 
 ## <a name='meta'/> Meta rules
 
@@ -338,6 +339,14 @@ A "sector" is any unique integer combination of X and Y, written as "sector <x>,
 ### <a name='visible'/> Visible
 
 Visible sectors are a type of sector. Every sector within 20 spaces of a player (with equal movement rules to "Warp Drive") is a visible sector.
+
+## <a name='chunks'/> Chunks
+
+A chunk is a physical incarnation of a certain quantity in the world. Each chunk has 4 variables, X, Y, type and size.
+
+For example, a 10-gold chunk at (-1, 4) is a chunk of size 10, made out of gold, at sector (-1, 4).
+
+When a rule or proposal says to "generate" a chunk, one is created in a random visible sector of the given type and of a random size in the given range. For example, "generate a points chunk of size 5-10".
 
 ## <a name='warp-drive'/> Warp drive
 
