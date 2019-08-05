@@ -1636,6 +1636,29 @@
 				"319753218592866315": -1
 			},
 			"timestamp": 1564962117
+		},
+		{
+			"n": 115,
+			"author": 427589146295664667,
+			"content": "Fail proposal #115",
+			"status": "voting",
+			"message_id": 607725653650833458,
+			"votes": {
+				"319753218592866315": 1,
+				"427589146295664667": 1
+			},
+			"timestamp": 1564963486
+		},
+		{
+			"n": 116,
+			"author": 427589146295664667,
+			"content": "change Rule 12 from:\n\nA \"sector\" is any unique integer combination of **X and Y**, written as \"sector **<x>, <y>**. The set of all sectors is \"space.\"\n\nTo:\n\nA \"sector\" is any unique integer combination of **X, Y, and Z**, written as \"sector **<x>, <y>, <z>**. The set of all sectors is \"space.\"",
+			"status": "voting",
+			"message_id": 607728737777352720,
+			"votes": {
+				"319753218592866315": -1
+			},
+			"timestamp": 1564964221
 		}
 	]
 }
