@@ -1656,7 +1656,7 @@
 			"n": 115,
 			"author": 427589146295664667,
 			"content": "Fail proposal #115",
-			"status": "voting",
+			"status": "deleted",
 			"message_id": 607725653650833458,
 			"votes": {
 				"319753218592866315": 1,
@@ -1792,7 +1792,7 @@
 			"n": 126,
 			"author": 512645502253400064,
 			"content": "This proposal adds a new Rule Section called \u201cThe End\u201d after all other existing rules.\n[start] \nThe Game Ends as soon as at least one person has won.\n[end]",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 607886683890778122,
 			"votes": {
 				"216295379895844865": 0,
@@ -1800,6 +1800,7 @@
 				"309787486278909952": 0,
 				"319753218592866315": 1,
 				"337621533369303042": -1,
+				"427589146295664667": -1,
 				"512645502253400064": 1
 			},
 			"timestamp": 1565001879
