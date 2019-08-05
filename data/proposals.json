@@ -1811,7 +1811,11 @@
 			"content": "This proposal adds a new Rule Section called \"Winning proposals\"\n[start]\nProposals must not singlehandedly cause a team to win. Proposals may set a winning condition, but such winning condition must not cause any team to win immediately\n[end]",
 			"status": "voting",
 			"message_id": 607943420467478534,
-			"votes": {},
+			"votes": {
+				"216295379895844865": 1,
+				"309787486278909952": 1,
+				"405938266442039296": 1
+			},
 			"timestamp": 1565015406
 		}
 	]
