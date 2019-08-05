@@ -751,7 +751,7 @@ If the chunk is now at size 0, it is destroyed
 
 <a name='96'/>
 
-## #96
+## #96 — Passed
 
 This proposal is dependent on #93 and #94.
 
