@@ -976,3 +976,11 @@ A player may at any time spend n points to receive a Warp Core (where n is the d
 
 This proposal is too long, so I had to break it up into two proposals.
 
+<a name='120'/>
+
+## #120
+
+This proposal revises proposals #119 and #120 so that they fit in a single file.
+
+https://cdn.discordapp.com/attachments/549448263988805634/607738139003453452/proposal_120.txt
+
