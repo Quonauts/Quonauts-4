@@ -943,7 +943,7 @@ https://cdn.discordapp.com/attachments/549448263988805634/607738139003453452/pro
 
 <a name='121'/>
 
-## #121
+## #121 — Passed
 
 Create a new rule:
 
