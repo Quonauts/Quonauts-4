@@ -966,3 +966,13 @@ A player may at any time spend n points to receive a Warp Core (where n is the d
 
 This proposal is too long, so I had to break it up into two proposals.
 
+<a name='119'/>
+
+## #119
+
+To:
+
+A player may at any time spend n points to receive a Warp Core (where n is the day of the month/3 rounded up). A Warp Core is a quantity which may be spent to traverse space. At any time, a player may spend one Warp Core, which allows them to modify their sector position as they desire up to four spaces (the amount of spaces being **sqrt(|x^2-y^2|)**, and effectively changing their X and Y quantities). Also, upon using a warp core, a player may spend 1 point to move 8 spaces instead, known as Overdriving.
+
+This proposal is too long, so I had to break it up into two proposals.
+
