@@ -1580,6 +1580,62 @@
 				"512645502253400064": 0
 			},
 			"timestamp": 1564932749
+		},
+		{
+			"n": 110,
+			"author": 427589146295664667,
+			"content": "Add a z dimension that behaves exactly like the x and y dimensions.",
+			"status": "voting",
+			"message_id": 607717300312866865,
+			"votes": {
+				"216295379895844865": -1,
+				"319753218592866315": -1
+			},
+			"timestamp": 1564961495
+		},
+		{
+			"n": 111,
+			"author": 427589146295664667,
+			"content": "Judge distance moved in #13 by sqrt(|dx^2-dy^2|) instead of dx+dy, where sqrt means square root, dx means distance moved in the x dimension, and dy means distance moved in the y dimension.",
+			"status": "voting",
+			"message_id": 607717924962041886,
+			"votes": {
+				"319753218592866315": -1
+			},
+			"timestamp": 1564961644
+		},
+		{
+			"n": 112,
+			"author": 427589146295664667,
+			"content": "If proposal #110 is passed, then judge distance as sqrt(|dx^2+dy^2+dz^2|), where sqrt means square root, dx means distance moved in the x dimension, dy means distance moved in the y dimension, and dz means distance moved in the z dimension.",
+			"status": "voting",
+			"message_id": 607718825512927243,
+			"votes": {
+				"319753218592866315": -1
+			},
+			"timestamp": 1564961858
+		},
+		{
+			"n": 113,
+			"author": 427589146295664667,
+			"content": "This proposal is a revision of #112.\nIf proposal #110 and #111 are passed, then judge distance as sqrt(|dx^2+dy^2+dz^2|), where sqrt means square root, dx means distance moved in the x dimension, dy means distance moved in the y dimension, and dz means distance moved in the z dimension.",
+			"status": "voting",
+			"message_id": 607719547130085406,
+			"votes": {
+				"319753218592866315": -1
+			},
+			"timestamp": 1564962030
+		},
+		{
+			"n": 114,
+			"author": 427589146295664667,
+			"content": "If proposal #110 but not #111 is passed, then judge distance as dx+dy+dz where sqrt means square root, dx means distance moved in the x dimension, dy means distance moved in the y dimension, and dz means distance moved in the z dimension.",
+			"status": "voting",
+			"message_id": 607719909979586571,
+			"votes": {
+				"319753218592866315": -1
+			},
+			"timestamp": 1564962117
 		}
 	]
 }
