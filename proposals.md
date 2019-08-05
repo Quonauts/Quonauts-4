@@ -913,9 +913,7 @@ If proposal #110 is passed, then judge distance as sqrt(|dx^2+dy^2+dz^2|), where
 
 <a name='115'/>
 
-## #115 — Passed
-
-Fail proposal #115
+## #115 — Deleted
 
 <a name='116'/>
 
