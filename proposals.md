@@ -962,3 +962,9 @@ Append the following to the rule section "Cabals":
 At any time, the czar of a cabal may force another member to leave.
 [end]
 
+<a name='123'/>
+
+## #123
+
+I prefer a battle to the death
+
