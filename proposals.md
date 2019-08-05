@@ -977,3 +977,9 @@ Append the following to the "Sharing" rule section:
 You can only share by non-negative amounts.
 [stop]
 
+<a name='125'/>
+
+## #125
+
+All the members of the Dramly cabal win the game immediately.
+
