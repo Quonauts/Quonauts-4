@@ -953,3 +953,12 @@ Rule 5.1: Sharing
 Sharing is the act of subtracting from your quantity and adding that same amount to another player's quantity. Only shareable quantities may be shared. Sharing does not require the consent of the person being shared to.
 [end]
 
+<a name='122'/>
+
+## #122
+
+Append the following to the rule section "Cabals":
+[start]
+At any time, the czar of a cabal may force another member to leave.
+[end]
+
