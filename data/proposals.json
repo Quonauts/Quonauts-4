@@ -1453,7 +1453,7 @@
 			"n": 99,
 			"author": 319753218592866315,
 			"content": "Add a new property to the \"Points\" property: \"Can be shared freely between players in the same sector or in the same cabal.\"",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 607513484879462408,
 			"votes": {
 				"236831708354314240": 1,
@@ -1721,7 +1721,7 @@
 			"n": 121,
 			"author": 236831708354314240,
 			"content": "Create a new rule:\n\nRule 5.1: Sharing\n\n[start]\nSharing is the act of subtracting from your quantity and adding that same amount to another player's quantity. Only shareable quantities may be shared. Sharing does not require the consent of the person being shared to.\n[end]",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 607743881471066112,
 			"votes": {
 				"236831708354314240": 1,
@@ -1739,6 +1739,7 @@
 			"status": "voting",
 			"message_id": 607843214560329728,
 			"votes": {
+				"236831708354314240": 1,
 				"319753218592866315": 1,
 				"337621533369303042": -1,
 				"512645502253400064": 1
@@ -1752,6 +1753,7 @@
 			"status": "voting",
 			"message_id": 607845086197448715,
 			"votes": {
+				"236831708354314240": 0,
 				"319753218592866315": -1,
 				"512645502253400064": -1
 			},

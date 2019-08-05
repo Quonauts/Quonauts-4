@@ -20,7 +20,7 @@
 				"agents-operations"
 			],
 			"message_ids": [
-				607629208189009943
+				607867748462100500
 			]
 		},
 		"agents-operations": {
@@ -33,7 +33,7 @@
 				"mining"
 			],
 			"message_ids": [
-				607629230343454737
+				607867748973936670
 			]
 		},
 		"bots": {
@@ -53,7 +53,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				607629208075894846
+				607867748034543626
 			]
 		},
 		"channels": {
@@ -78,7 +78,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				607818409790668820
+				607867771883356172
 			]
 		},
 		"disallow-by-default": {
@@ -145,7 +145,7 @@
 			"parent_tag": "agents-operations",
 			"child_tags": [],
 			"message_ids": [
-				607818408062615553
+				607867750022512650
 			]
 		},
 		"pingable": {
@@ -155,7 +155,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				607629156997529600
+				607867695643492362
 			]
 		},
 		"polls": {
@@ -165,7 +165,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				607629178422165515
+				607867695857401867
 			]
 		},
 		"polls-channel": {
@@ -195,7 +195,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				607629180322054190
+				607867723162058762
 			]
 		},
 		"proposal-content": {
@@ -205,7 +205,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				607629179630125076
+				607867697018961920
 			]
 		},
 		"proposal-modification": {
@@ -215,7 +215,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				607629207115399178
+				607867725531971605
 			]
 		},
 		"proposal-pass-fail": {
@@ -225,7 +225,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				607629206355968000
+				607867724726665237
 			]
 		},
 		"proposal-voting": {
@@ -235,7 +235,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				607629180066332672
+				607867722419798033
 			]
 		},
 		"proposals": {
@@ -251,7 +251,7 @@
 				"proposal-modification"
 			],
 			"message_ids": [
-				607629178984202240
+				607867696150872075
 			]
 		},
 		"proposals-channel": {
@@ -279,9 +279,21 @@
 			"title": "Quantities",
 			"content": "A quantity is a named property with a numerical value for each player.\n\nBy default any unique quantity added to the game:\n\n\u2022 applies to all players. \n\u2022 is instatiated at zero. \n\u2022 must always be an integer. \n\u2022 must never have a negative value. \n\u2022 cannot be traded or exchanged.\n\nExisting quantities: \n\n\u2022 Agents: Total agents. \n\u2022 Point: A generic unit of score, which may be any nonnegative integer or decimal number. \n\u2022 Strike: The number of rule violations that a player has committed without punishment.\n\u2022 X: Player's X position. This quantity can also be negative.\n\u2022 Y: Player's Y position. This quantity can also be negative.\n\u2022 Omni: A material found in the depths of space.\n\nWhen a proposal establishing a new quantity is passed, this rule section should be amended by inserting the new quantity into the above list, maintaining alphabetical order, along with a brief description. Similarly, if a quantity is renamed or removed, the above list should be modified accordingly.",
 			"parent_tag": "root",
-			"child_tags": [],
+			"child_tags": [
+				"quantity-sharing"
+			],
 			"message_ids": [
 				607629156175446018
+			]
+		},
+		"quantity-sharing": {
+			"tag": "quantity-sharing",
+			"title": "Sharing",
+			"content": "Sharing is the act of subtracting from your quantity and adding that same amount to another player's quantity. Only shareable quantities may be shared. Sharing does not require the consent of the person being shared to.",
+			"parent_tag": "quantities",
+			"child_tags": [],
+			"message_ids": [
+				607867695140175883
 			]
 		},
 		"roles": {
@@ -319,9 +331,9 @@
 				"warp-drive"
 			],
 			"message_ids": [
-				607820284585836554,
-				607820285105799168,
-				607820285558784029
+				607867798982492160,
+				607867799339270165,
+				607867800463081514
 			]
 		},
 		"rule-offender-role": {
@@ -377,7 +389,7 @@
 				"visible"
 			],
 			"message_ids": [
-				607818408905408542
+				607867771149352982
 			]
 		},
 		"setting": {
@@ -387,7 +399,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				607629207333240834
+				607867726542798858
 			]
 		},
 		"spawning": {
@@ -397,7 +409,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				607820283268694016
+				607867772680011796
 			]
 		},
 		"stealing": {
@@ -407,7 +419,7 @@
 			"parent_tag": "agents-operations",
 			"child_tags": [],
 			"message_ids": [
-				607629230926462976
+				607867749502550036
 			]
 		},
 		"style": {
@@ -483,7 +495,7 @@
 			"parent_tag": "sectors",
 			"child_tags": [],
 			"message_ids": [
-				607818409324970014
+				607867771451342849
 			]
 		},
 		"warp-drive": {
@@ -493,7 +505,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				607820283931262977
+				607867773200236544
 			]
 		}
 	}
