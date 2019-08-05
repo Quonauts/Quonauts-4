@@ -240,7 +240,7 @@ When a proposal establishing a new quantity is passed, this rule section should 
 
 ### <a name='quantity-sharing'/> Sharing
 
-Sharing is the act of subtracting from your quantity and adding that same amount to another player's quantity. Only shareable quantities may be shared. Sharing does not require the consent of the person being shared to.
+Sharing is the act of subtracting from your quantity and adding that same amount to another player's quantity. Only shareable quantities may be shared. Sharing does not require the consent of the person being shared to. You can only share by non-negative amounts.
 
 ## <a name='pingable'/> Pingable
 
