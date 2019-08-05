@@ -26,6 +26,7 @@
     * [**3.1. Rule offender**](#rule-offender-role)
 * [**4. Activity**](#activity)
 * [**5. Quantities**](#quantities)
+    * [**5.1. Sharing**](#quantity-sharing)
 * [**6. Pingable**](#pingable)
 * [**7. Polls**](#polls)
 * [**8. Proposals**](#proposals)
@@ -236,6 +237,10 @@ Existing quantities:
 • Omni: A material found in the depths of space.
 
 When a proposal establishing a new quantity is passed, this rule section should be amended by inserting the new quantity into the above list, maintaining alphabetical order, along with a brief description. Similarly, if a quantity is renamed or removed, the above list should be modified accordingly.
+
+### <a name='quantity-sharing'/> Sharing
+
+Sharing is the act of subtracting from your quantity and adding that same amount to another player's quantity. Only shareable quantities may be shared. Sharing does not require the consent of the person being shared to.
 
 ## <a name='pingable'/> Pingable
 
