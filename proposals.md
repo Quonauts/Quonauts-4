@@ -787,7 +787,7 @@ Players can send their agents (with a specific amount of quantities derived from
 
 <a name='99'/>
 
-## #99
+## #99 — Passed
 
 Add a new property to the "Points" property: "Can be shared freely between players in the same sector or in the same cabal."
 
