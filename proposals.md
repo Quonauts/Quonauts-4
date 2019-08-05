@@ -945,3 +945,15 @@ This proposal revises proposals #119 and #120 so that they fit in a single file.
 
 https://cdn.discordapp.com/attachments/549448263988805634/607738139003453452/proposal_120.txt
 
+<a name='121'/>
+
+## #121
+
+Create a new rule:
+
+Rule 5.1: Sharing
+
+[start]
+Sharing is the act of subtracting from your quantity and adding that same amount to another player's quantity. Only shareable quantities may be shared. Sharing does not require the consent of the person being shared to.
+[end]
+
