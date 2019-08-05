@@ -1500,6 +1500,8 @@
 			"status": "voting",
 			"message_id": 607593627430158336,
 			"votes": {
+				"236831708354314240": -1,
+				"337621533369303042": 1,
 				"427589146295664667": -1,
 				"512645502253400064": 1
 			},
@@ -1512,6 +1514,7 @@
 			"status": "voting",
 			"message_id": 607595156589510705,
 			"votes": {
+				"337621533369303042": -1,
 				"427589146295664667": -1,
 				"512645502253400064": 1
 			},
@@ -1593,7 +1596,7 @@
 			"n": 110,
 			"author": 427589146295664667,
 			"content": "Add a z dimension that behaves exactly like the x and y dimensions.",
-			"status": "voting",
+			"status": "deleted",
 			"message_id": 607717300312866865,
 			"votes": {
 				"216295379895844865": -1,
@@ -1605,11 +1608,9 @@
 			"n": 111,
 			"author": 427589146295664667,
 			"content": "Judge distance moved in #13 by sqrt(|dx^2-dy^2|) instead of dx+dy, where sqrt means square root, dx means distance moved in the x dimension, and dy means distance moved in the y dimension.",
-			"status": "voting",
+			"status": "deleted",
 			"message_id": 607717924962041886,
-			"votes": {
-				"319753218592866315": -1
-			},
+			"votes": {},
 			"timestamp": 1564961644
 		},
 		{
@@ -1618,31 +1619,25 @@
 			"content": "If proposal #110 is passed, then judge distance as sqrt(|dx^2+dy^2+dz^2|), where sqrt means square root, dx means distance moved in the x dimension, dy means distance moved in the y dimension, and dz means distance moved in the z dimension.",
 			"status": "voting",
 			"message_id": 607718825512927243,
-			"votes": {
-				"319753218592866315": -1
-			},
+			"votes": {},
 			"timestamp": 1564961858
 		},
 		{
 			"n": 113,
 			"author": 427589146295664667,
 			"content": "This proposal is a revision of #112.\nIf proposal #110 and #111 are passed, then judge distance as sqrt(|dx^2+dy^2+dz^2|), where sqrt means square root, dx means distance moved in the x dimension, dy means distance moved in the y dimension, and dz means distance moved in the z dimension.",
-			"status": "voting",
+			"status": "deleted",
 			"message_id": 607719547130085406,
-			"votes": {
-				"319753218592866315": -1
-			},
+			"votes": {},
 			"timestamp": 1564962030
 		},
 		{
 			"n": 114,
 			"author": 427589146295664667,
 			"content": "If proposal #110 but not #111 is passed, then judge distance as dx+dy+dz where sqrt means square root, dx means distance moved in the x dimension, dy means distance moved in the y dimension, and dz means distance moved in the z dimension.",
-			"status": "voting",
+			"status": "deleted",
 			"message_id": 607719909979586571,
-			"votes": {
-				"319753218592866315": -1
-			},
+			"votes": {},
 			"timestamp": 1564962117
 		},
 		{
@@ -1661,7 +1656,7 @@
 			"n": 116,
 			"author": 427589146295664667,
 			"content": "change Rule 12 from:\n\nA \"sector\" is any unique integer combination of **X and Y**, written as \"sector **<x>, <y>**. The set of all sectors is \"space.\"\n\nTo:\n\nA \"sector\" is any unique integer combination of **X, Y, and Z**, written as \"sector **<x>, <y>, <z>**. The set of all sectors is \"space.\"",
-			"status": "voting",
+			"status": "deleted",
 			"message_id": 607728737777352720,
 			"votes": {
 				"236831708354314240": -1,
@@ -1673,7 +1668,7 @@
 			"n": 117,
 			"author": 427589146295664667,
 			"content": "This proposal is a revision to #116. This fixes a grammar error.\n\nChange Rule 12 from:\n\nA \"sector\" is any unique integer combination of **X and Y**, written as \"sector **<x>, <y>**. The set of all sectors is \"space.\"\n\nTo:\n\nA \"sector\" is any unique integer combination of **X, Y, and Z**, written as \"sector **<x>, <y>, <z>**. The set of all sectors is \"space.\"",
-			"status": "voting",
+			"status": "deleted",
 			"message_id": 607735206329450499,
 			"votes": {
 				"236831708354314240": -1,
@@ -1685,22 +1680,18 @@
 			"n": 118,
 			"author": 427589146295664667,
 			"content": "Change rule 13 from:\n\nA player may at any time spend n points to receive a Warp Core (where n is the day of the month/3 rounded up). A Warp Core is a quantity which may be spent to traverse space. At any time, a player may spend one Warp Core, which allows them to modify their sector position as they desire up to four spaces (the amount of spaces being **x + y**, and effectively changing their X and Y quantities). Also, upon using a warp core, a player may spend 1 point to move 8 spaces instead, known as Overdriving.\n\nThis proposal is too long, so I had to break it up into two proposals.",
-			"status": "voting",
+			"status": "deleted",
 			"message_id": 607735984330899466,
-			"votes": {
-				"319753218592866315": -1
-			},
+			"votes": {},
 			"timestamp": 1564965949
 		},
 		{
 			"n": 119,
 			"author": 427589146295664667,
 			"content": "To:\n\nA player may at any time spend n points to receive a Warp Core (where n is the day of the month/3 rounded up). A Warp Core is a quantity which may be spent to traverse space. At any time, a player may spend one Warp Core, which allows them to modify their sector position as they desire up to four spaces (the amount of spaces being **sqrt(|x^2-y^2|)**, and effectively changing their X and Y quantities). Also, upon using a warp core, a player may spend 1 point to move 8 spaces instead, known as Overdriving.\n\nThis proposal is too long, so I had to break it up into two proposals.",
-			"status": "voting",
+			"status": "deleted",
 			"message_id": 607736105818783777,
-			"votes": {
-				"319753218592866315": -1
-			},
+			"votes": {},
 			"timestamp": 1564965978
 		},
 		{
@@ -1711,6 +1702,19 @@
 			"message_id": 607738339168092160,
 			"votes": {},
 			"timestamp": 1564966511
+		},
+		{
+			"n": 121,
+			"author": 236831708354314240,
+			"content": "Create a new rule:\n\nRule 5.1: Sharing\n\n[start]\nSharing is the act of subtracting from your quantity and adding that same amount to another player's quantity. Only shareable quantities may be shared. Sharing does not require the consent of the person being shared to.\n[end]",
+			"status": "voting",
+			"message_id": 607743881471066112,
+			"votes": {
+				"236831708354314240": 1,
+				"319753218592866315": 1,
+				"427589146295664667": 1
+			},
+			"timestamp": 1564967832
 		}
 	]
 }
