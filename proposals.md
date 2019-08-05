@@ -737,7 +737,7 @@ Create a new quantity called "Omni" with the default properties.
 
 <a name='95'/>
 
-## #95
+## #95 — Passed
 
 This proposal is dependent on #93.
 
