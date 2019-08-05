@@ -214,7 +214,6 @@ All players that have taken some game action in the preceding 72 hours are activ
 
 ## <a name='quantities'/> Quantities
 
-5. Quantities
 A quantity is a named property with a numerical value for each player.
 
 By default any unique quantity added to the game:
@@ -232,6 +231,7 @@ Existing quantities:
 • Strike: The number of rule violations that a player has committed without punishment.
 • X: Player's X position. This quantity can also be negative.
 • Y: Player's Y position. This quantity can also be negative.
+• Omni: A material found in the depths of space.
 
 When a proposal establishing a new quantity is passed, this rule section should be amended by inserting the new quantity into the above list, maintaining alphabetical order, along with a brief description. Similarly, if a quantity is renamed or removed, the above list should be modified accordingly.
 
