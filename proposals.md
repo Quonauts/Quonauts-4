@@ -895,9 +895,7 @@ Every active Player must write a comment into the #game-status Channel containin
 
 <a name='110'/>
 
-## #110
-
-Add a z dimension that behaves exactly like the x and y dimensions.
+## #110 — Deleted
 
 <a name='111'/>
 
