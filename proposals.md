@@ -979,7 +979,7 @@ You can only share by non-negative amounts.
 
 <a name='125'/>
 
-## #125
+## #125 — Passed
 
 All the members of the Dramly cabal win the game immediately.
 
