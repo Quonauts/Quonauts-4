@@ -970,7 +970,7 @@ I prefer a battle to the death
 
 <a name='124'/>
 
-## #124
+## #124 — Passed
 
 Append the following to the "Sharing" rule section:
 [start]
