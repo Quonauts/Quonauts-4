@@ -43,7 +43,8 @@
 * [**12. Sectors**](#sectors)
     * [**12.1. Visible**](#visible)
 * [**13. Chunks**](#chunks)
-* [**14. Warp drive**](#warp-drive)
+* [**14. Randomly generated chunks**](#spawning)
+* [**15. Warp drive**](#warp-drive)
 
 ## <a name='meta'/> Meta rules
 
@@ -355,6 +356,12 @@ A chunk is a physical incarnation of a certain quantity in the world. Each chunk
 For example, a 10-gold chunk at (-1, 4) is a chunk of size 10, made out of gold, at sector (-1, 4).
 
 When a rule or proposal says to "generate" a chunk, one is created in a random visible sector of the given type and of a random size in the given range. For example, "generate a points chunk of size 5-10".
+
+## <a name='spawning'/> Randomly generated chunks
+
+The following types of chunk generate on a regular basis. Any player may generate one of these chunks as long as it has been at least X time since one of that type was last generated.
+
+Omni - 24 hours, size 5-10
 
 ## <a name='warp-drive'/> Warp drive
 
